@@ -1,7 +1,10 @@
 <h2 align="center">Awesome-GPTs🦄 </h2>
-
 <p align="center">
-<p align="center"> This repository contains a curated list of awesome GPTs on OpenAI platform.</p>
+  <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
+</p>
+<p align="center">
+  <p align="center"> This repository contains a curated list of awesome GPTs on OpenAI platform.</p>
+</p>
 <h4 align="center">
   <a href="https://awesome.re">
     <img src="https://awesome.re/badge.svg" alt="Awesome" />
