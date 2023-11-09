@@ -1,5 +1,18 @@
-# Awesome-GPTs
-🎉This repository is dedicated to compiling a collection of interesting and creative GPT models! If you’ve designed an impressive GPT, please 📝 provide its name, description, and link in the issue section. Let’s share and celebrate your work! 🚀
+<h2 align="center">Awesome-GPTs🦄 </h2>
+
+<p align="center">
+  <p align="center"> This repository contains a curated list of awesome GPTs on OpenAI platform.</p>
+
+## Awesome-GPTs
+🎉 This repository is dedicated to compiling a collection of interesting and creative GPT models!  
+📝 If you’ve designed an impressive GPT, please  provide its name, description, and link in the issue section.   
+🚀 Let’s share and celebrate your work! 
+
+## 📚 Table of Contents
+1. [✍️ Writing](#writing)
+2. [🎓 Education](#education)
+3. [🎯 Productivity](#productivity)
+4. [😀 Just for Fun](#just-for-fun)
 
 ## Writing
 1. ✏️All-around Writer (Professional Version)
