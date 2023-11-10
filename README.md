@@ -203,7 +203,7 @@
    - [Chat now](https://chat.openai.com/gpts/editor/g-mkdJHpJ2U)
    - Submit by [@moutonf](https://github.com/moutonf)
 
-10. 🎅 Santa Claus
+12. 🎅 Santa Claus
    - Let your kids talk to Santa Claus
    - [Chat now](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus)
    - Submit by [@donaldmorton](https://github.com/donaldmorton)
