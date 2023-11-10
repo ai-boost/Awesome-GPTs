@@ -103,3 +103,8 @@
    - an adventure (with illustrations or not) with the world's greatest detective or ask for help solving a problem
    - [Chat now](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes)
    - Submit by [@greencat667](https://github.com/greencat667)
+
+7. 🧟 Zombie Apocalypse Simulator
+   - an Zombie Apocalypse Simulator, you can roll you attribute, and play in the zombie world.
+   - [Chat now](https://chat.openai.com/g/g-f1OolBspS-zombie-apocalypse-survival)
+   - Submit by [@messyp](https://www.reddit.com/user/messyp/)
