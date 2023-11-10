@@ -119,6 +119,11 @@
    - Creates detailed Midjourney art prompts, Instagram captions, and hashtags, optimized for easy copying.
    - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
    - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
+
+7. 🤝 Execu-LI Post Companion
+   - Write professional and compelling LinkedIn posts that ensures engagement
+   - [Chat now](https://chat.openai.com/g/g-1IkwP36s8-execu-li-post-companion)
+   - Submit by [@moutonf](https://github.com/moutonf)
   
 ## Programming
 1. 💻Professional Coder (Auto programming)
