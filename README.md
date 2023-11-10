@@ -148,4 +148,9 @@
 10. 💉Inkspire
    - A GPT to help you create your dream tattoo and give your tattoo artist ideas.
    - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
-   - Submit by [@emreisik95](https://github.com/emreisik95) 
+   - Submit by [@emreisik95](https://github.com/emreisik95)
+
+11. 🧩Trivia Bot
+   - A GPT to help you create your own Trivia quiz or just spend some time answering questions.
+   - [Chat now](https://chat.openai.com/gpts/editor/g-mkdJHpJ2U)
+   - Submit by [@moutonf](https://github.com/moutonf)
