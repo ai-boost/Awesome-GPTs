@@ -88,3 +88,8 @@
    - Your storytelling companion for epic adventures! (This GPT plays the role of a dungeon master, story teller, or character creator for your next epic adventure.)
    - [Chat now](https://chat.openai.com/g/g-jTSN6CrPW-lorekeeper)
    - Submit by [@cameronsevern](https://github.com/cameronsevern)
+  
+5. 🍪Cookie Clicker
+   - an incremental/ role playing game that is a parody of the cookie clicker game, but with AI!
+   - [Chat now](https://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
+   - Submit by [@stale2000](https://github.com/stale2000)
