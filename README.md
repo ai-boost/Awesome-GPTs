@@ -1,18 +1,23 @@
-<h2 align="center">Awesome-GPTs🦄 </h2>
-<p align="center">
-  <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
-</p>
-<p align="center">
-  <p align="center"> This repository contains a curated list of awesome GPTs on OpenAI platform.</p>
-</p>
-<h4 align="center">
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge.svg" alt="Awesome" />
-  </a>
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
-  </a>
-</h4>
+<div align="center">
+  <h2 align="center">Awesome-GPTs🦄 </h2>
+  <p align="center">
+    <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
+  </p>
+  <p>
+      <a href="https://github.com/ai-boost/Awesome-GPTs">English</a> | <a href="https://github.com/ai-boost/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
+  </p>
+  <p align="center">
+    <p align="center"> This repository contains a curated list of awesome GPTs on OpenAI platform.</p>
+  </p>
+  <h4 align="center">
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome" />
+    </a>
+    <a href="http://makeapullrequest.com">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
+    </a>
+  </h4>
+</div>
 
 ## Awesome-GPTs
 🎉 This repository is dedicated to compiling a collection of interesting and creative GPT models!  
