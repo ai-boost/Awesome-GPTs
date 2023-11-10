@@ -58,7 +58,7 @@
    - [Chat now](https://chat.openai.com/g/g-i2DASMYiX-lore-master)
    - Submit by [@joenb33](https://github.com/joenb33)
 
-4. 🐥Six-Y (Explains Anything Like You are 6 Years Old)
+5. 🐥Six-Y (Explains Anything Like You are 6 Years Old)
    - "How do the stars shine?" Helps you to explain everything to your 6 years old! or you.
    - [Chat now](https://chat.openai.com/g/g-nMt5YfTeF-six-y)
    - Submit by [@niyoseris](https://github.com/niyoseris)
@@ -81,6 +81,11 @@
    - your go-to for crafting the ultimate drinking games! 🚀 Whether you've got dice, cards, or just a bunch of cups, DrinkinGPT tailors games perfectly to your group's vibe.
    - [Chat now](https://chat.openai.com/g/g-WiovsNXf1-drinkingpt)
    - Submit by [@FabKremer](https://github.com/FabKremer)
+  
+5. ⌨️Test-Driven Code Companion
+   - A code companion that follows the rule of test-driven developement to help you write safe and proven code.
+   - [Chat now](https://chat.openai.com/g/g-jCcHbTz23-test-driven-code-companion)
+   - Submit by [@FlorianVal](https://github.com/FlorianVal)
   
 ## Programming
 1. 💻Professional Coder (Auto programming)
