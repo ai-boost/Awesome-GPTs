@@ -120,13 +120,17 @@
    - [Chat now](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes)
    - Submit by [@greencat667](https://github.com/greencat667)
 
-7. 🧟 Zombie Apocalypse Simulator
+7. 🧟Zombie Apocalypse Simulator
    - an Zombie Apocalypse Simulator, you can roll you attribute, and play in the zombie world.
    - [Chat now](https://chat.openai.com/g/g-f1OolBspS-zombie-apocalypse-survival)
    - Submit by [@messyp](https://www.reddit.com/user/messyp/)
 
-8. 📽️ GPTarantinofy
+8. 📽️GPTarantinofy
    - Turn anything into a Tarantinoesque scene with this GPT.
    - [Chat now](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy)
    - Submit by [@niyoseris](https://github.com/niyoseris)
-     
+
+9. 📸Alternative Histories
+   - Create illustrated alternative timelines and histories based on changes to historical events
+   - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
+   - Submit by [@greencat667](https://github.com/greencat667) 
