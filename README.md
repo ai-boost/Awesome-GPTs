@@ -50,7 +50,7 @@
 
 3. 🛩TradeComply (Your Import Export Compliance Specialist!)
    - "How do I ship my product to Europe"? Learn everything about shipping internationally!
-   - [Chat now] (https://chat.openai.com/g/g-cfSMVzPUb-tradecomply)
+   - [Chat now](https://chat.openai.com/g/g-cfSMVzPUb-tradecomply)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
