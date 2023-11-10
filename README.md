@@ -119,6 +119,11 @@
    - Creates detailed Midjourney art prompts, Instagram captions, and hashtags, optimized for easy copying.
    - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
    - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
+
+7. 📐 Aspect Ratio Calculator
+   - Calculate aspect ratio from width & height
+   - [Chat now](https://chat.openai.com/g/g-EOYV6V5WH-aspect-ratio-calculator)
+   - Submit by [@selimdoyranli](https://github.com/selimdoyranli)
   
 ## Programming
 1. 💻Professional Coder (Auto programming)
