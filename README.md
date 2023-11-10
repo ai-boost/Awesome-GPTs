@@ -83,6 +83,11 @@
    - [Chat now](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council)
    - Submit by [@ref21](https://github.com/ref21)
 
+8. 📐Stats and ML Helper
+   - a GPT that can help understand both simple and complex Statistics and Machine Learning concepts
+   - [Chat now](https://chat.openai.com/g/g-dVh4g5uuv-statsml-helper)
+   - Submit by [@pak0vskiy](https://github.com/pak0vskiy)
+
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
    - A professional logo designer capable of creating high-level logos in a variety of different styles.
