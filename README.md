@@ -70,3 +70,7 @@
 2. 🪽Paimon (Best Assistant in Genshin Impact)
    - A helpful assistant with the soul of Paimon from Genshin Impact, interesting, sweet, and sometimes a little grumpy.
    - [Chat now](https://chat.openai.com/g/g-SmIWeSYga-paimon-best-assistant-in-genshin-impact)
+  
+3. 🔮Text Adventure RGP (Have Fun🥳)
+   - A fun, fun GPT, ready to whisk you away into the realms of fairy tales🧚, enchanting magic🪄, apocalyptic wonders🌋, dungeon🐉, and zombie🧟 thrills! Let's get this adventure started! 🚀🌟
+   - [Chat now](https://chat.openai.com/g/g-GHU0OGQMS-text-adventure-rgp-have-fun)
