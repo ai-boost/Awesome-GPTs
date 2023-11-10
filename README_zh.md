@@ -1,19 +1,25 @@
-<h2 align="center">Awesome-GPTs🦄 </h2>
-
-<p align="center">
-  <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
-</p>
-<p align="center">
-  <p align="center"> 这个仓库包含了一个精选的OpenAI平台上的GPTs列表，欢迎共同建设，欢迎优质GPTs</p>
-</p>
-<h4 align="center">
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge.svg" alt="Awesome" />
-  </a>
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
-  </a>
-</h4>
+<div align="center">
+  <h2 align="center">Awesome-GPTs🦄 </h2>
+  
+  <p align="center">
+    <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
+  </p>
+  
+  <p>
+      <a href="https://github.com/ai-boost/Awesome-GPTs">English</a> | <a href="https://github.com/ai-boost/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
+  </p>
+  <p align="center">
+    <p align="center"> 这个仓库包含了一个精选的OpenAI平台上的GPTs列表，欢迎共同建设，欢迎优质GPTs</p>
+  </p>
+  <h4 align="center">
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome" />
+    </a>
+    <a href="http://makeapullrequest.com">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
+    </a>
+  </h4>
+</div>
 
 ## Awesome-GPTs
 🎉 这个仓库致力于编纂一系列有趣且富有创意的GPT模型！  
