@@ -122,22 +122,22 @@
    - [Chat now](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt)
    - Submit by [@0xn0v](https://github.com/0xn0v)
 
-3. 🚀**Python Seniorify**: Intermediate Python Tutor
+3. 🚀Python Seniorify: Intermediate Python Tutor
    - Wise Python tutor focusing on advanced coding principles.
    - [Chat now](https://chat.openai.com/g/g-7f9OZrzC2-python-seniorify)
    - Submit by [@vasarmilan](https://github.com/vasarmilan)
 
-4. 💡**JavaScript Novice Guide**: Beginner-Friendly Tutor
+4. 💡JavaScript Novice Guide: Beginner-Friendly Tutor
    - Clear explanations and practice exercises for JavaScript beginners.
    - [Chat now](https://chat.openai.com/g/g-jLBbUesMD-javascript-novice-guide)
    - Submit by [@vasarmilan](https://github.com/vasarmilan)
 
-5. 📊**Data Science Project Generator**: Project Suggestions
+5. 📊Data Science Project Generator: Project Suggestions
    - Offers data science project ideas and tips.
    - [Chat now](https://chat.openai.com/g/g-fvy71gm4A-data-science-project-generator)
    - Submit by [@vasarmilan](https://github.com/vasarmilan)
 
-6. 🐍**Python Tutor**: Example-Focused Learning
+6. 🐍Python Tutor: Example-Focused Learning
    - Concise Python programming tutor for beginners to intermediates.
    - [Chat now](https://chat.openai.com/g/g-WhUWAi2EA-python-tutor)
    - Submit by [@vasarmilan](https://github.com/vasarmilan)
