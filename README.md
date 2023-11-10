@@ -74,3 +74,8 @@
 3. 🔮Text Adventure RGP (Have Fun🥳)
    - A fun, fun GPT, ready to whisk you away into the realms of fairy tales🧚, enchanting magic🪄, apocalyptic wonders🌋, dungeon🐉, and zombie🧟 thrills! Let's get this adventure started! 🚀🌟
    - [Chat now](https://chat.openai.com/g/g-GHU0OGQMS-text-adventure-rgp-have-fun)
+  
+4. 🧙Lorekeeper
+   - Your storytelling companion for epic adventures! (This GPT plays the role of a dungeon master, story teller, or character creator for your next epic adventure.)
+   - [Chat now](https://chat.openai.com/g/g-jTSN6CrPW-lorekeeper)
+   - Submit by [@cameronsevern](https://github.com/cameronsevern)
