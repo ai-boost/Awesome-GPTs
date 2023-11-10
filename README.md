@@ -48,6 +48,10 @@
    - Excellent classmates to help with homework, providing patient guidance and support.
    - [Chat now](https://chat.openai.com/g/g-3x2jopNpP-my-excellent-classmates-help-with-my-homework)
 
+3. 🛩TradeComply (Your Import Export Compliance Specialist!)
+   - "How do I ship my product to Europe"? Learn everything about shipping internationally!
+   - [Chat now] (https://chat.openai.com/g/g-cfSMVzPUb-tradecomply)
+
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
    - A professional logo designer capable of creating high-level logos in a variety of different styles.
