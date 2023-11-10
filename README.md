@@ -202,3 +202,8 @@
    - A GPT to help you create your own Trivia quiz or just spend some time answering questions.
    - [Chat now](https://chat.openai.com/gpts/editor/g-mkdJHpJ2U)
    - Submit by [@moutonf](https://github.com/moutonf)
+
+10. 🎅 Santa Claus
+   - Let your kids talk to Santa Claus
+   - [Chat now](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus)
+   - Submit by [@donaldmorton](https://github.com/donaldmorton)
