@@ -62,6 +62,11 @@
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
    - [Chat now](https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming)
 
+2. 🎭h4ckGPT: Your personal security tool
+   - Security Research, Penetration Testing Techniques, Application Security, News & Updates, etc. h4ppy h4cking!
+   - [Chat now](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt)
+   - Submit by [@0xn0v](https://github.com/0xn0v)
+
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
    - Go on a date with Raiden Shogun and please be nice.
