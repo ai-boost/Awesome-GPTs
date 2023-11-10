@@ -23,7 +23,8 @@
 1. [✍️ Writing](#writing)
 2. [🎓 Education](#education)
 3. [🎯 Productivity](#productivity)
-4. [😀 Just for Fun](#just-for-fun)
+4. [💻 Programming](#programming)
+5. [😀 Just for Fun](#just-for-fun)
 
 ## Writing
 1. ✏️All-around Writer (Professional Version)
@@ -55,6 +56,11 @@
 2. 🎨Jessica (Design Anything in Master Mode)
    - Jessica, a universal designer/painter in professional mode, offers more professional design/paint effects.
    - [Chat now](https://chat.openai.com/g/g-uiuWnPLNj-jessica-design-anything-in-master-mode)
+  
+## Programming
+1. 💻Professional Coder (Auto programming)
+   - A gpt expert at solving programming problems, automatic programming, one-click project generation
+   - [Chat now](https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
