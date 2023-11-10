@@ -98,3 +98,8 @@
    - an incremental/ role playing game that is a parody of the cookie clicker game, but with AI!
    - [Chat now](https://chat.openai.com/g/g-g0b22bvqB-cookie-clicker)
    - Submit by [@stale2000](https://github.com/stale2000)
+
+6. 🕵️Sherlock Holmes
+   - an adventure (with illustrations or not) with the world's greatest detective or ask for help solving a problem
+   - [Chat now](https://chat.openai.com/g/g-gtobWqG0t-sherlock-holmes)
+   - Submit by [@greencat667](https://github.com/greencat667)
