@@ -51,7 +51,7 @@
 3. 🛩TradeComply (Your Import Export Compliance Specialist!)
    - "How do I ship my product to Europe"? Learn everything about shipping internationally!
    - [Chat now](https://chat.openai.com/g/g-cfSMVzPUb-tradecomply)
-   - Submit by [@niyoseris](https://github.com/niyoseris)
+   - Submit by [@jordanj5610](https://github.com/jordanj5610)
   
 4. 🐇Lore Master
    - A GPTs that love to discuss, explain and dive in to the rabbit hole of lore and Easter eggs of games and movies
@@ -60,7 +60,8 @@
 
 4. 🐥Six-Y (Explains Anything Like You are 6 Years Old)
    - "How do the stars shine?" Helps you to explain everything to your 6 years old! or you.
-   - [Chat now](https://chat.openai.com/g/g-nMt5YfTeF-six-y))
+   - [Chat now](https://chat.openai.com/g/g-nMt5YfTeF-six-y)
+   - Submit by [@niyoseris](https://github.com/niyoseris)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
@@ -122,4 +123,5 @@
 8. 📽️ GPTarantinofy
    - Turn anything into a Tarantinoesque scene with this GPT.
    - [Chat now](https://chat.openai.com/g/g-YWNzi76D8-gptarantinofy)
-  
+   - Submit by [@niyoseris](https://github.com/niyoseris)
+     
