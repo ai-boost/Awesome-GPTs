@@ -1,19 +1,25 @@
-<h2 align="center">Awesome-GPTs🦄 </h2>
-
-<p align="center">
-  <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
-</p>
-<p align="center">
-  <p align="center"> 这个仓库包含了一个精选的OpenAI平台上的GPTs列表，欢迎共同建设，欢迎优质GPTs</p>
-</p>
-<h4 align="center">
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge.svg" alt="Awesome" />
-  </a>
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
-  </a>
-</h4>
+<div align="center">
+  <h2 align="center">Awesome-GPTs🦄 </h2>
+  
+  <p align="center">
+    <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
+  </p>
+  
+  <p>
+      <a href="https://github.com/ai-boost/Awesome-GPTs">English</a> | <a href="https://github.com/ai-boost/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
+  </p>
+  <p align="center">
+    <p align="center"> 这个仓库包含了一个精选的OpenAI平台上的GPTs列表，欢迎共同建设，欢迎优质GPTs</p>
+  </p>
+  <h4 align="center">
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome" />
+    </a>
+    <a href="http://makeapullrequest.com">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
+    </a>
+  </h4>
+</div>
 
 ## Awesome-GPTs
 🎉 这个仓库致力于编纂一系列有趣且富有创意的GPT模型！  
@@ -24,11 +30,11 @@
 希望你能加入进来，一起来维护这个REPO🥳
 
 ## 📚 目录
-1. [✍️ 写作](#writing)
-2. [🎓 教育](#education)
-3. [🎯 生产力](#productivity)
-4. [💻 编程](#programming)
-5. [😀 仅供娱乐](#just-for-fun)
+1. [✍️ 写作](#写作)
+2. [🎓 教育](#教育)
+3. [🎯 生产力](#生产力)
+4. [💻 编程](#编程)
+5. [😀 仅供娱乐](#仅供娱乐)
 
 ## 写作
 1. ✏️全能作家（专业版）
@@ -36,7 +42,7 @@
    - [立即交流](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version)
 
 2. ✨学术作家（专业版）
-   - 专业学术助手，帮助完成各种学术任务：写论文、阅读论文、减重、润色、设计实验、PPT等。
+   - 专业学术助手，帮助完成各种学术任务：写论文、阅读论文、重复度降低、润色、设计实验、PPT等。
    - [立即交流](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
 
 3. ✍️改写与校对（专业版）

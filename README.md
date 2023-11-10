@@ -1,18 +1,23 @@
-<h2 align="center">Awesome-GPTs🦄 </h2>
-<p align="center">
-  <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
-</p>
-<p align="center">
-  <p align="center"> This repository contains a curated list of awesome GPTs on OpenAI platform.</p>
-</p>
-<h4 align="center">
-  <a href="https://awesome.re">
-    <img src="https://awesome.re/badge.svg" alt="Awesome" />
-  </a>
-  <a href="http://makeapullrequest.com">
-    <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
-  </a>
-</h4>
+<div align="center">
+  <h2 align="center">Awesome-GPTs🦄 </h2>
+  <p align="center">
+    <img width="650" src="https://raw.githubusercontent.com/ai-boost/awesome-gpts/main/images/gpts.png">
+  </p>
+  <p>
+      <a href="https://github.com/ai-boost/Awesome-GPTs">English</a> | <a href="https://github.com/ai-boost/Awesome-GPTs/blob/main/README_zh.md">简体中文</a>
+  </p>
+  <p align="center">
+    <p align="center"> This repository contains a curated list of awesome GPTs on OpenAI platform.</p>
+  </p>
+  <h4 align="center">
+    <a href="https://awesome.re">
+      <img src="https://awesome.re/badge.svg" alt="Awesome" />
+    </a>
+    <a href="http://makeapullrequest.com">
+      <img src="https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square" alt="http://makeapullrequest.com" />
+    </a>
+  </h4>
+</div>
 
 ## Awesome-GPTs
 🎉 This repository is dedicated to compiling a collection of interesting and creative GPT models!  
@@ -25,7 +30,6 @@
 3. [🎯 Productivity](#productivity)
 4. [💻 Programming](#programming)
 5. [😀 Just for Fun](#just-for-fun)
-6. [🎨 Creativity & Design](#creativity--design)
 
 ## Writing
 1. ✏️All-around Writer (Professional Version)
@@ -92,6 +96,11 @@
    - A code companion that follows the rule of test-driven developement to help you write safe and proven code.
    - [Chat now](https://chat.openai.com/g/g-jCcHbTz23-test-driven-code-companion)
    - Submit by [@FlorianVal](https://github.com/FlorianVal)
+
+6. 🎨 Midjourney Helper
+   - Creates detailed Midjourney art prompts, Instagram captions, and hashtags, optimized for easy copying.
+   - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
+   - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
   
 ## Programming
 1. 💻Professional Coder (Auto programming)
@@ -146,14 +155,12 @@
    - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
    - Submit by [@greencat667](https://github.com/greencat667)
   
-10. 💉Inkspire
+9. 💉Inkspire
    - A GPT to help you create your dream tattoo and give your tattoo artist ideas.
    - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
    - Submit by [@emreisik95](https://github.com/emreisik95)
-
-## Creativity & Design
-1. 🎨 Midjourney Helper
-   - Creates detailed Midjourney art prompts, Instagram captions, and hashtags, optimized for easy copying.
-   - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
-   - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
-
+  
+9. 🧩Trivia Bot
+   - A GPT to help you create your own Trivia quiz or just spend some time answering questions.
+   - [Chat now](https://chat.openai.com/gpts/editor/g-mkdJHpJ2U)
+   - Submit by [@moutonf](https://github.com/moutonf)
