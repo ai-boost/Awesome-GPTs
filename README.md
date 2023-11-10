@@ -39,7 +39,7 @@
    - Expert in sentence refinement.
    - [Chat now](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
 
-4. Formal GPT
+4. 👔Formal GPT
    - A informal to formal translator. It can give feedback about your CV. It can generate a cover letter for you. 
    - [Chat now](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt)
    - Submit by [@emreisik95](https://github.com/emreisik95) 
