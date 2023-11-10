@@ -124,7 +124,12 @@
    - Write professional and compelling LinkedIn posts that ensures engagement
    - [Chat now](https://chat.openai.com/g/g-1IkwP36s8-execu-li-post-companion)
    - Submit by [@moutonf](https://github.com/moutonf)
-  
+
+8. 𝕏 Execu-X Post Companion
+   - Write professional and compelling X posts that ensures engagement
+   - [Chat now](https://chat.openai.com/g/g-3wv1Wj3Rg-execu-x-post-companion)
+   - Submit by [@moutonf](https://github.com/moutonf)
+   
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
