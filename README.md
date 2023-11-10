@@ -210,7 +210,7 @@
   
 9. 🧩Trivia Bot
    - A GPT to help you create your own Trivia quiz or just spend some time answering questions.
-   - [Chat now](https://chat.openai.com/gpts/editor/g-mkdJHpJ2U)
+   - [Chat now](https://chat.openai.com/g/g-mkdJHpJ2U-trivia-bot)
    - Submit by [@moutonf](https://github.com/moutonf)
 
 9. 🎅 Santa Claus
