@@ -61,6 +61,11 @@
    - Jessica, a universal designer/painter in professional mode, offers more professional design/paint effects.
    - [Chat now](https://chat.openai.com/g/g-uiuWnPLNj-jessica-design-anything-in-master-mode)
   
+3. ✨Ask Dr. Andrew Huberman
+   - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
+   - [Chat now](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman)
+   - Submit by [@jyboy](https://github.com/jyboy)
+  
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
