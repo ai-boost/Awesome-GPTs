@@ -39,6 +39,11 @@
    - Expert in sentence refinement.
    - [Chat now](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
 
+4. Formal GPT
+   - A informal to formal translator. It can give feedback about your CV. It can generate a cover letter for you. 
+   - [Chat now](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt)
+   - Submit by [@emreisik95](https://github.com/emreisik95) 
+
 ## Education
 1. 📗All-around Teacher (Learn Everything in 3 min)
    - Learn all kinds of knowledge in 3 minutes, with customized tutors leveraging the powerful GPT-4 and knowledge base.
@@ -138,4 +143,9 @@
 9. 📸Alternative Histories
    - Create illustrated alternative timelines and histories based on changes to historical events
    - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
-   - Submit by [@greencat667](https://github.com/greencat667) 
+   - Submit by [@greencat667](https://github.com/greencat667)
+  
+10. 💉Inkspire
+   - A GPT to help you create your dream tattoo and give your tattoo artist ideas.
+   - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
+   - Submit by [@emreisik95](https://github.com/emreisik95) 
