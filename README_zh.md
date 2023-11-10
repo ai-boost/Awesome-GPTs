@@ -30,11 +30,11 @@
 希望你能加入进来，一起来维护这个REPO🥳
 
 ## 📚 目录
-1. [✍️ 写作](#writing)
-2. [🎓 教育](#education)
-3. [🎯 生产力](#productivity)
-4. [💻 编程](#programming)
-5. [😀 仅供娱乐](#just-for-fun)
+1. [✍️ 写作](#写作)
+2. [🎓 教育](#教育)
+3. [🎯 生产力](#生产力)
+4. [💻 编程](#编程)
+5. [😀 仅供娱乐](#仅供娱乐)
 
 ## 写作
 1. ✏️全能作家（专业版）
@@ -42,7 +42,7 @@
    - [立即交流](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version)
 
 2. ✨学术作家（专业版）
-   - 专业学术助手，帮助完成各种学术任务：写论文、阅读论文、减重、润色、设计实验、PPT等。
+   - 专业学术助手，帮助完成各种学术任务：写论文、阅读论文、重复度降低、润色、设计实验、PPT等。
    - [立即交流](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
 
 3. ✍️改写与校对（专业版）
