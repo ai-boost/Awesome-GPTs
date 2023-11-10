@@ -25,6 +25,7 @@
 3. [🎯 Productivity](#productivity)
 4. [💻 Programming](#programming)
 5. [😀 Just for Fun](#just-for-fun)
+6. [🎨 Creativity & Design](#creativity--design)
 
 ## Writing
 1. ✏️All-around Writer (Professional Version)
@@ -148,4 +149,11 @@
 10. 💉Inkspire
    - A GPT to help you create your dream tattoo and give your tattoo artist ideas.
    - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
-   - Submit by [@emreisik95](https://github.com/emreisik95) 
+   - Submit by [@emreisik95](https://github.com/emreisik95)
+
+## Creativity & Design
+1. 🎨 Midjourney Helper
+   - Creates detailed Midjourney art prompts, Instagram captions, and hashtags, optimized for easy copying.
+   - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
+   - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
+
