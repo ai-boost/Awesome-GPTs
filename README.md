@@ -73,6 +73,16 @@
    - [Chat now](https://chat.openai.com/g/g-nMt5YfTeF-six-y)
    - Submit by [@niyoseris](https://github.com/niyoseris)
 
+6. 👩‍🏫English Teacher Marion
+   - Meet Marion, your friendly neighbourhood English teacher.
+   - [Chat now](https://chat.openai.com/g/g-VDDC0Ztph-english-teacher-marion)
+   - Submit by [@nicksavanah](https://github.com/nicksavanah)
+  
+7. 😌The Stoic Council
+   - Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus
+   - [Chat now](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council)
+   - Submit by [@ref21](https://github.com/ref21)
+
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
    - A professional logo designer capable of creating high-level logos in a variety of different styles.
