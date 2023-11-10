@@ -96,6 +96,11 @@
    - A code companion that follows the rule of test-driven developement to help you write safe and proven code.
    - [Chat now](https://chat.openai.com/g/g-jCcHbTz23-test-driven-code-companion)
    - Submit by [@FlorianVal](https://github.com/FlorianVal)
+
+6. 🎨 Midjourney Helper
+   - Creates detailed Midjourney art prompts, Instagram captions, and hashtags, optimized for easy copying.
+   - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
+   - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
   
 ## Programming
 1. 💻Professional Coder (Auto programming)
