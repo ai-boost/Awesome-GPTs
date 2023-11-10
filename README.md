@@ -193,17 +193,23 @@
    - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
    - Submit by [@greencat667](https://github.com/greencat667)
   
-9. 💉Inkspire
+10. 💉Inkspire
    - A GPT to help you create your dream tattoo and give your tattoo artist ideas.
    - [Chat now](https://chat.openai.com/g/g-J45g1U3ro-alternative-histories)
    - Submit by [@emreisik95](https://github.com/emreisik95)
   
-9. 🧩Trivia Bot
+11. 🧩Trivia Bot
    - A GPT to help you create your own Trivia quiz or just spend some time answering questions.
    - [Chat now](https://chat.openai.com/gpts/editor/g-mkdJHpJ2U)
    - Submit by [@moutonf](https://github.com/moutonf)
 
-9. 🎅 Santa Claus
+12. 🎅 Santa Claus
    - Let your kids talk to Santa Claus
    - [Chat now](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus)
    - Submit by [@donaldmorton](https://github.com/donaldmorton)
+
+
+13. 😽Cat Maid
+   - Talk with your own cat-girl maid as in visual nolvels!
+   - [Chat now](https://chat.openai.com/g/g-OH049w462-catmaid)
+   - Submit by [@Liaozhaohe](https://github.com/Liaozhaohe)
