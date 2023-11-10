@@ -76,6 +76,11 @@
    - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
    - [Chat now](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman)
    - Submit by [@jyboy](https://github.com/jyboy)
+
+4. 🥛DrinkinGPT
+   - your go-to for crafting the ultimate drinking games! 🚀 Whether you've got dice, cards, or just a bunch of cups, DrinkinGPT tailors games perfectly to your group's vibe.
+   - [Chat now](https://chat.openai.com/g/g-WiovsNXf1-drinkingpt)
+   - Submit by [@FabKremer](https://github.com/FabKremer)
   
 ## Programming
 1. 💻Professional Coder (Auto programming)
