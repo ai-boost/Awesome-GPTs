@@ -34,6 +34,10 @@
    - A professional academic assistant who helps with various academic tasks: writing papers, reading papers, weight reduction, polishing, designing experiments, PPT, etc.
    - [Chat now](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
 
+3. ✍️Paraphraser & Proofreader (Professional Version)
+   - Expert in sentence refinement.
+   - [Chat now](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
+
 ## Education
 1. 📗All-around Teacher (Learn Everything in 3 min)
    - Learn all kinds of knowledge in 3 minutes, with customized tutors leveraging the powerful GPT-4 and knowledge base.
