@@ -51,6 +51,12 @@
 3. 🛩TradeComply (Your Import Export Compliance Specialist!)
    - "How do I ship my product to Europe"? Learn everything about shipping internationally!
    - [Chat now](https://chat.openai.com/g/g-cfSMVzPUb-tradecomply)
+   - Submit by [@niyoseris](https://github.com/niyoseris)
+  
+4. 🐇Lore Master
+   - A GPTs that love to discuss, explain and dive in to the rabbit hole of lore and Easter eggs of games and movies
+   - [Chat now](https://chat.openai.com/g/g-i2DASMYiX-lore-master)
+   - Submit by [@joenb33](https://github.com/joenb33)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
