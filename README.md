@@ -92,6 +92,11 @@
    - [Chat now](https://chat.openai.com/g/g-dVh4g5uuv-statsml-helper)
    - Submit by [@pak0vskiy](https://github.com/pak0vskiy)
 
+9. 🤔ExistentialGPT
+   - Philosophical exploration with existential depth
+   - [Chat now](https://chat.openai.com/g/g-OrD1FZR66-existentialgpt)
+   - Submit by [@PositivistPessimist](https://www.reddit.com/user/PositivistPessimist/)
+
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
    - A professional logo designer capable of creating high-level logos in a variety of different styles.
