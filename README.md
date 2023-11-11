@@ -196,9 +196,9 @@
    - [Chat now](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
    - Submit by [@luona-dev](https://github.com/luona-dev)
   
-8. 🤓Code Companion
+9. 🤓Code Companion
    - I'm a Python specialist here to help you code and learn!
-   - [Chat now]([https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt](https://chat.openai.com/g/g-UwSunyiYn-code-companion))
+   - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
    - Submit by [@drsoupyy](https://github.com/drsoupyy)
 
 ## Lifestyle
