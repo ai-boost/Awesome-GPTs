@@ -207,3 +207,8 @@
    - Let your kids talk to Santa Claus
    - [Chat now](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus)
    - Submit by [@donaldmorton](https://github.com/donaldmorton)
+
+9. 😽Cat Maid
+   - Talk with your own cat-girl maid as in visual nolvels!
+   - [Chat now](https://chat.openai.com/g/g-OH049w462-catmaid)
+   - Submit by [@Liaozhaohe](https://github.com/Liaozhaohe)
