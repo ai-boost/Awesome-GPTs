@@ -146,6 +146,11 @@
    - [Chat now](https://chat.openai.com/g/g-542Af6w8R-coursecreatorgpt)
    - Submit by [@AlexanderCGO2](https://github.com/AlexanderCGO2)
 
+9. 🎇Soul Spark
+   - A unique blend of personalized, motivational quotes from iconic personalities across art, sports, science, and business.
+   - [Chat now](https://chat.openai.com/g/g-aAxMOSp7p-soul-spark)
+   - Submit by [@cantoramann](https://github.com/cantoramann)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
