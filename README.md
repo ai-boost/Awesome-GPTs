@@ -196,6 +196,11 @@
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
    - [Chat now](https://chat.openai.com/g/g-PsK6IFvcV-mynutrition-pal)
    - Submit by [@mattyb123456789](https://github.com/mattyb123456789)
+  
+2. 🧳Voyage Guide GPT
+   - Your virtual travel buddy here to help make your travel planning experience smooth, fun, and informative.
+   - [Chat now](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
