@@ -181,6 +181,11 @@
    - Discover A More Robust Business
    - [Chat now](https://chat.openai.com/g/g-nsTplEvN8-seabiscuit-business-model-master)
    - Submit by [@tomfrazier](https://github.com/tomfrazier)
+  
+9. 🏛️ GPT Architect (Advanced Model)
+   - Turn simple prompts into powerful GPTs
+   - [Chat now](https://chat.openai.com/g/g-7uYB9WE9l-gpt-architect-advanced-model)
+   - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
@@ -226,12 +231,17 @@
    - I'm a Python specialist here to help you code and learn!
    - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
    - Submit by [@drsoupyy](https://github.com/drsoupyy)
-     
-10. ☁️CloudGPT: Learn Cloud and DevOps
+  
+11. ☁️CloudGPT: Learn Cloud and DevOps
     - Your personal Cloud and DevOps Mentor.
     - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
     - Submit by [@yomikoye](https://github.com/yomikoye)
 
+9. 🤠 Repo Ranger
+   - Your go-to sheriff for web-based code insights and security checks.
+   - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
+   - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
+     
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
