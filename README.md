@@ -32,7 +32,8 @@
 2. [🎓 Education](#education)
 3. [🎯 Productivity](#productivity)
 4. [💻 Programming](#programming)
-5. [😀 Just for Fun](#just-for-fun)
+5. [🐈 Lifestyle](#lifestyle)
+6. [😀 Just for Fun](#just-for-fun)
 
 ## Writing
 1. ✏️All-around Writer (Professional Version)
@@ -179,6 +180,12 @@
    - Get Python code from a GPT tuned to make code that runs in the Google Colaboratory environment.
    - [Chat now](https://chat.openai.com/g/g-kqbmidwnU-colab-code-crafter)
    - Submit by [@David-Deans](https://github.com/David-Deans)
+
+## Lifestyle
+1. 🍅 MyNutrition.Pal
+   - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
+   - [Chat now](https://chat.openai.com/g/g-PsK6IFvcV-mynutrition-pal)
+   - Submit by [@mattyb123456789](https://github.com/mattyb123456789)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
