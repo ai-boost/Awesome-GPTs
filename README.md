@@ -232,15 +232,15 @@
    - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
    - Submit by [@drsoupyy](https://github.com/drsoupyy)
   
-11. ☁️CloudGPT: Learn Cloud and DevOps
+10. ☁️CloudGPT: Learn Cloud and DevOps
     - Your personal Cloud and DevOps Mentor.
     - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
     - Submit by [@yomikoye](https://github.com/yomikoye)
 
-9. 🤠 Repo Ranger
-   - Your go-to sheriff for web-based code insights and security checks.
-   - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
-   - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
+11. 🤠 Repo Ranger
+    - Your go-to sheriff for web-based code insights and security checks.
+    - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
+    - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
