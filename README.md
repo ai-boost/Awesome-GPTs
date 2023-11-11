@@ -96,6 +96,12 @@
    - Philosophical exploration with existential depth
    - [Chat now](https://chat.openai.com/g/g-OrD1FZR66-existentialgpt)
    - Submit by [@PositivistPessimist](https://www.reddit.com/user/PositivistPessimist/)
+  
+9. 🗣 Language Learning - Create Short Stories to Learn any Language
+   - 2500+ word stories in target language with images, for language learning.
+   - [Chat now](https://chat.openai.com/g/g-tXEyZoKVx-create-short-stories-to-learn-a-language)
+   - Submit by [@TheBoringBOT](https://github.com/TheBoringBOT)
+
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
