@@ -101,6 +101,11 @@
    - 2500+ word stories in target language with images, for language learning.
    - [Chat now](https://chat.openai.com/g/g-tXEyZoKVx-create-short-stories-to-learn-a-language)
    - Submit by [@TheBoringBOT](https://github.com/TheBoringBOT)
+  
+9. 🔢 Math to LaTeX
+   - Send me an image of Math. I will give you the LaTeX code.
+   - [Chat now](https://chat.openai.com/g/g-2vNXETv9C-math-to-latex)
+   - Submit by [@No_Impact4379](https://www.reddit.com/user/No_Impact4379/)
 
 
 ## Productivity
