@@ -130,7 +130,7 @@
    - [Chat now](https://chat.openai.com/g/g-3wv1Wj3Rg-execu-x-post-companion)
    - Submit by [@moutonf](https://github.com/moutonf)
 
-9. 📐 Aspect Ratio Calculator
+9. 📐Aspect Ratio Calculator
    - Calculate aspect ratio from width & height
    - [Chat now](https://chat.openai.com/g/g-EOYV6V5WH-aspect-ratio-calculator)
    - Submit by [@selimdoyranli](https://github.com/selimdoyranli)
@@ -139,6 +139,11 @@
    - It will take a short input from the user, ask clarifying questions and then create a user story with acceptance criteria.
    - [Chat now](https://chat.openai.com/g/g-kmEXnBMZY-bob-the-ba-user-story)
    - Submit by [@MathewBeldon](https://github.com/MathewBeldon)
+  
+9. 💯CourseCreatorGPT
+   - A GPT dedicated to create online courses based on a given topic
+   - [Chat now](https://chat.openai.com/g/g-542Af6w8R-coursecreatorgpt)
+   - Submit by [@AlexanderCGO2](https://github.com/AlexanderCGO2)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
