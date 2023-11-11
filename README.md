@@ -206,6 +206,11 @@
    - Your virtual travel buddy here to help make your travel planning experience smooth, fun, and informative.
    - [Chat now](https://chat.openai.com/g/g-MDExvbFqe-voyage-guide)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+  
+3. 💺Seat Seeker GPT
+   - Seat Seeker excels in efficiently assisting users to find public seating with specific amenities, using their approximate location.
+   - [Chat now](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
