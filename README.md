@@ -166,6 +166,11 @@
    - [Chat now](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement)
    - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
 
+9. 💵Seabiscuit: Business Model Master
+   - Discover A More Robust Business
+   - [Chat now](https://chat.openai.com/g/g-nsTplEvN8-seabiscuit-business-model-master)
+   - Submit by [@tomfrazier](https://github.com/tomfrazier)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
