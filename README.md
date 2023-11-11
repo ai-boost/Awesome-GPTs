@@ -119,7 +119,17 @@
    - Creates detailed Midjourney art prompts, Instagram captions, and hashtags, optimized for easy copying.
    - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
    - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
-  
+
+7. 🤝 Execu-LI Post Companion
+   - Write professional and compelling LinkedIn posts that ensures engagement
+   - [Chat now](https://chat.openai.com/g/g-1IkwP36s8-execu-li-post-companion)
+   - Submit by [@moutonf](https://github.com/moutonf)
+
+8. 𝕏 Execu-X Post Companion
+   - Write professional and compelling X posts that ensures engagement
+   - [Chat now](https://chat.openai.com/g/g-3wv1Wj3Rg-execu-x-post-companion)
+   - Submit by [@moutonf](https://github.com/moutonf)
+   
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
@@ -200,7 +210,7 @@
   
 9. 🧩Trivia Bot
    - A GPT to help you create your own Trivia quiz or just spend some time answering questions.
-   - [Chat now](https://chat.openai.com/gpts/editor/g-mkdJHpJ2U)
+   - [Chat now](https://chat.openai.com/g/g-mkdJHpJ2U-trivia-bot)
    - Submit by [@moutonf](https://github.com/moutonf)
 
 9. 🎅 Santa Claus
