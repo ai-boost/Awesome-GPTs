@@ -215,6 +215,11 @@
    - I'm a Python specialist here to help you code and learn!
    - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
    - Submit by [@drsoupyy](https://github.com/drsoupyy)
+     
+10. ☁️CloudGPT: Learn Cloud and DevOps
+    - Your personal Cloud and DevOps Mentor.
+    - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
+    - Submit by [@yomikoye](https://github.com/yomikoye)
 
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
