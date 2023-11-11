@@ -237,6 +237,11 @@
    - [Chat now](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
+4. 🥬Kaloria
+   - A cool diet assistant that calculates calories from your meal photos! 📸
+   - [Chat now](https://chat.openai.com/g/g-4NUCu8D8Y-kaloria)
+   - Submit by [@hoky777](https://www.reddit.com/user/hoky777/)
+
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
    - Go on a date with Raiden Shogun and please be nice.
