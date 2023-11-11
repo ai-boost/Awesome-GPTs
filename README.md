@@ -164,6 +164,11 @@
    - Concise Python programming tutor for beginners to intermediates.
    - [Chat now](https://chat.openai.com/g/g-WhUWAi2EA-python-tutor)
    - Submit by [@vasarmilan](https://github.com/vasarmilan)
+     
+7. 🐉Colab Code Crafter: Google Colab Code
+   - Get Python code from a GPT tuned to make code that runs in the Google Colaboratory environment.
+   - [Chat now](https://chat.openai.com/g/g-kqbmidwnU-colab-code-crafter)
+   - Submit by [@David-Deans](https://github.com/David-Deans)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
