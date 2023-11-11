@@ -195,6 +195,11 @@
    - A Vue.js 3 coding assistant, always up-to-date with the latest official documentation and presets for a quick choice of your prefered API and syntax
    - [Chat now](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
    - Submit by [@luona-dev](https://github.com/luona-dev)
+  
+8. 🤓Code Companion
+   - I'm a Python specialist here to help you code and learn!
+   - [Chat now]([https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt](https://chat.openai.com/g/g-UwSunyiYn-code-companion))
+   - Submit by [@drsoupyy](https://github.com/drsoupyy)
 
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
