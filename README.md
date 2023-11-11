@@ -231,6 +231,12 @@
     - Your personal Cloud and DevOps Mentor.
     - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
     - Submit by [@yomikoye](https://github.com/yomikoye)
+     
+11. JAVA Code Guide
+    - A JAVA Development Assistant focusing on coding standards and quality.
+    - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
+    - Submit by [@searle-dev](https://github.com/searle-dev)
+
 
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
