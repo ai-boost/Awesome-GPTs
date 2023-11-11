@@ -150,6 +150,11 @@
    - A unique blend of personalized, motivational quotes from iconic personalities across art, sports, science, and business.
    - [Chat now](https://chat.openai.com/g/g-aAxMOSp7p-soul-spark)
    - Submit by [@cantoramann](https://github.com/cantoramann)
+  
+9. 🎥EditGPT
+   - Your go-to buddy for all things related to video editing and creating custom images for your projects.
+   - [Chat now](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
