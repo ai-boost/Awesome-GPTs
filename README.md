@@ -289,3 +289,8 @@
    - Learn interesting and fun facts about dogs.
    - [Chat now](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts)
    - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
+
+9. 🐲Argvor, the Dungeon Master
+   - A creative, engaging DnD DM with a unique, personal tone
+   - [Chat now](https://chat.openai.com/g/g-NsqUCaS93-argvor-the-dungeon-master)
+   - Submit by [@Zeune42](https://www.reddit.com/user/Zeune42/)
