@@ -53,6 +53,10 @@
    - [Chat now](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt)
    - Submit by [@emreisik95](https://github.com/emreisik95) 
 
+5. 🤖 Prompty
+   - A professional prompt engineer who helps you optimize your GPT-prompts with state-of-the-art techniques.
+   - [Chat now](https://chat.openai.com/g/g-aZLV4vji6-prompty)
+
 ## Education
 1. 📗All-around Teacher (Learn Everything in 3 min)
    - Learn all kinds of knowledge in 3 minutes, with customized tutors leveraging the powerful GPT-4 and knowledge base.
