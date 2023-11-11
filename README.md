@@ -133,7 +133,12 @@
 9. 📐 Aspect Ratio Calculator
    - Calculate aspect ratio from width & height
    - [Chat now](https://chat.openai.com/g/g-EOYV6V5WH-aspect-ratio-calculator)
-   - Submit by [@selimdoyranli](https://github.com/selimdoyranli) 
+   - Submit by [@selimdoyranli](https://github.com/selimdoyranli)
+  
+9. 🤵A BA that creates user stories
+   - It will take a short input from the user, ask clarifying questions and then create a user story with acceptance criteria.
+   - [Chat now](https://chat.openai.com/g/g-kmEXnBMZY-bob-the-ba-user-story)
+   - Submit by [@MathewBeldon](https://github.com/MathewBeldon)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
