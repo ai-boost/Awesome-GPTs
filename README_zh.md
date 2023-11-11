@@ -278,3 +278,8 @@
    - 如同视觉小说中那样与你自己的猫娘女仆交谈！
    - [立即聊天](https://chat.openai.com/g/g-OH049w462-catmaid)
    - 由[@Liaozhaohe](https://github.com/Liaozhaohe) 提交
+
+9. 🎤 语音配音生成器
+   - 可以编写脚本并即时生成语音配音。
+   - [立即聊天](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator)
+   - 由[@imikerussell](https://github.com/imikerussell)提交

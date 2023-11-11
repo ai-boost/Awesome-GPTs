@@ -294,3 +294,8 @@
    - A creative, engaging DnD DM with a unique, personal tone
    - [Chat now](https://chat.openai.com/g/g-NsqUCaS93-argvor-the-dungeon-master)
    - Submit by [@Zeune42](https://www.reddit.com/user/Zeune42/)
+
+9. 🎤 Voice Over Generator
+   - Writes scripts and generates instant voice overs.
+   - [Chat now](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator)
+   - Submit by [@imikerussell](https://github.com/imikerussell)
