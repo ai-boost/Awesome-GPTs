@@ -156,6 +156,11 @@
    - [Chat now](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
+9. 🎨Image Generation with Self-Critique & Improvement
+   - Generate images and receive self-critique to improve the generation process.
+   - [Chat now](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement)
+   - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
@@ -279,3 +284,8 @@
    - Talk with your own cat-girl maid as in visual nolvels!
    - [Chat now](https://chat.openai.com/g/g-OH049w462-catmaid)
    - Submit by [@Liaozhaohe](https://github.com/Liaozhaohe)
+  
+9. 🐶Dog Facts
+   - Learn interesting and fun facts about dogs.
+   - [Chat now](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts)
+   - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
