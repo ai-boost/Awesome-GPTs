@@ -129,7 +129,12 @@
    - Write professional and compelling X posts that ensures engagement
    - [Chat now](https://chat.openai.com/g/g-3wv1Wj3Rg-execu-x-post-companion)
    - Submit by [@moutonf](https://github.com/moutonf)
-   
+
+9. 📐 Aspect Ratio Calculator
+   - Calculate aspect ratio from width & height
+   - [Chat now](https://chat.openai.com/g/g-EOYV6V5WH-aspect-ratio-calculator)
+   - Submit by [@selimdoyranli](https://github.com/selimdoyranli) 
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
