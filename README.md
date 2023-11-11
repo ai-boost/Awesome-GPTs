@@ -92,61 +92,69 @@
    - [Chat now](https://chat.openai.com/g/g-dVh4g5uuv-statsml-helper)
    - Submit by [@pak0vskiy](https://github.com/pak0vskiy)
 
+9. 📚Homework Help
+   - Get assistance with homework across various subjects.
+   - [Chat now](https://chat.openai.com/g/g-n9p3Qo2vK-homework-help)
+  
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
    - A professional logo designer capable of creating high-level logos in a variety of different styles.
    - [Chat now](https://chat.openai.com/g/g-ymi0COabZ-logo-designer-professional-version)
 
-2. 🎨Jessica (Design Anything in Master Mode)
+2. 🎨Image Generation with Self-Critique & Improvement
+   - Generate images and receive self-critique to improve the generation process.
+   - [Chat now](https://chat.openai.com/g/g-YVPXvT5zC-image-generation-with-self-critique-improvement)
+
+3. 🎨Jessica (Design Anything in Master Mode)
    - Jessica, a universal designer/painter in professional mode, offers more professional design/paint effects.
    - [Chat now](https://chat.openai.com/g/g-uiuWnPLNj-jessica-design-anything-in-master-mode)
   
-3. ✨Ask Dr. Andrew Huberman
+4. ✨Ask Dr. Andrew Huberman
    - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
    - [Chat now](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman)
    - Submit by [@jyboy](https://github.com/jyboy)
 
-4. 🥛DrinkinGPT
+5. 🥛DrinkinGPT
    - your go-to for crafting the ultimate drinking games! 🚀 Whether you've got dice, cards, or just a bunch of cups, DrinkinGPT tailors games perfectly to your group's vibe.
    - [Chat now](https://chat.openai.com/g/g-WiovsNXf1-drinkingpt)
    - Submit by [@FabKremer](https://github.com/FabKremer)
   
-5. ⌨️Test-Driven Code Companion
+6. ⌨️Test-Driven Code Companion
    - A code companion that follows the rule of test-driven developement to help you write safe and proven code.
    - [Chat now](https://chat.openai.com/g/g-jCcHbTz23-test-driven-code-companion)
    - Submit by [@FlorianVal](https://github.com/FlorianVal)
 
-6. 🎨 Midjourney Helper
+7. 🎨 Midjourney Helper
    - Creates detailed Midjourney art prompts, Instagram captions, and hashtags, optimized for easy copying.
    - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
    - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
 
-7. 🤝 Execu-LI Post Companion
+8. 🤝 Execu-LI Post Companion
    - Write professional and compelling LinkedIn posts that ensures engagement
    - [Chat now](https://chat.openai.com/g/g-1IkwP36s8-execu-li-post-companion)
    - Submit by [@moutonf](https://github.com/moutonf)
 
-8. 𝕏 Execu-X Post Companion
+9. 𝕏 Execu-X Post Companion
    - Write professional and compelling X posts that ensures engagement
    - [Chat now](https://chat.openai.com/g/g-3wv1Wj3Rg-execu-x-post-companion)
    - Submit by [@moutonf](https://github.com/moutonf)
 
-9. 📐Aspect Ratio Calculator
+10. 📐Aspect Ratio Calculator
    - Calculate aspect ratio from width & height
    - [Chat now](https://chat.openai.com/g/g-EOYV6V5WH-aspect-ratio-calculator)
    - Submit by [@selimdoyranli](https://github.com/selimdoyranli)
   
-9. 🤵A BA that creates user stories
+11. 🤵A BA that creates user stories
    - It will take a short input from the user, ask clarifying questions and then create a user story with acceptance criteria.
    - [Chat now](https://chat.openai.com/g/g-kmEXnBMZY-bob-the-ba-user-story)
    - Submit by [@MathewBeldon](https://github.com/MathewBeldon)
   
-9. 💯CourseCreatorGPT
+12. 💯CourseCreatorGPT
    - A GPT dedicated to create online courses based on a given topic
    - [Chat now](https://chat.openai.com/g/g-542Af6w8R-coursecreatorgpt)
    - Submit by [@AlexanderCGO2](https://github.com/AlexanderCGO2)
 
-9. 🎇Soul Spark
+13. 🎇Soul Spark
    - A unique blend of personalized, motivational quotes from iconic personalities across art, sports, science, and business.
    - [Chat now](https://chat.openai.com/g/g-aAxMOSp7p-soul-spark)
    - Submit by [@cantoramann](https://github.com/cantoramann)
@@ -264,3 +272,15 @@
    - Talk with your own cat-girl maid as in visual nolvels!
    - [Chat now](https://chat.openai.com/g/g-OH049w462-catmaid)
    - Submit by [@Liaozhaohe](https://github.com/Liaozhaohe)
+  
+10. 🔗URL Shortner
+   - Shorten long URLs to make them more manageable and shareable.
+   - [Chat now](https://chat.openai.com/g/g-FmVxPJH0E-url-shortner)
+
+11. 🐶Dog Facts
+   - Learn interesting and fun facts about dogs.
+   - [Chat now](https://chat.openai.com/g/g-Wn1OixpiL-dog-facts)
+   - 
+12. 🔄File Converter
+   - Convert files between different formats easily.
+   - [Chat now](https://chat.openai.com/g/g-L9WZ6RpiR-file-converter)
