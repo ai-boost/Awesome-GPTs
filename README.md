@@ -314,3 +314,8 @@
    - Writes scripts and generates instant voice overs.
    - [Chat now](https://chat.openai.com/g/g-R4H9Al3sl-voice-over-generator)
    - Submit by [@imikerussell](https://github.com/imikerussell)
+
+9. 🌶️ Spicy Question master (Have an interesting evening with friends)
+   - Try this question master to get inspiration and ask questions like a game show host and you can tune it up to ask for it to be more/less spicy
+   - [Chat now](https://chat.openai.com/g/g-AcPoggC0T-spicy-questionmaster)
+   - Submit by [@SimonDeno](https://github.com/SimonDeno)
