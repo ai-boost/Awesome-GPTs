@@ -120,11 +120,21 @@
    - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
    - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
 
-7. 📐 Aspect Ratio Calculator
+7. 🤝 Execu-LI Post Companion
+   - Write professional and compelling LinkedIn posts that ensures engagement
+   - [Chat now](https://chat.openai.com/g/g-1IkwP36s8-execu-li-post-companion)
+   - Submit by [@moutonf](https://github.com/moutonf)
+
+8. 𝕏 Execu-X Post Companion
+   - Write professional and compelling X posts that ensures engagement
+   - [Chat now](https://chat.openai.com/g/g-3wv1Wj3Rg-execu-x-post-companion)
+   - Submit by [@moutonf](https://github.com/moutonf)
+
+9. 📐 Aspect Ratio Calculator
    - Calculate aspect ratio from width & height
    - [Chat now](https://chat.openai.com/g/g-EOYV6V5WH-aspect-ratio-calculator)
-   - Submit by [@selimdoyranli](https://github.com/selimdoyranli)
-  
+   - Submit by [@selimdoyranli](https://github.com/selimdoyranli) 
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
@@ -205,10 +215,15 @@
   
 9. 🧩Trivia Bot
    - A GPT to help you create your own Trivia quiz or just spend some time answering questions.
-   - [Chat now](https://chat.openai.com/gpts/editor/g-mkdJHpJ2U)
+   - [Chat now](https://chat.openai.com/g/g-mkdJHpJ2U-trivia-bot)
    - Submit by [@moutonf](https://github.com/moutonf)
 
 9. 🎅 Santa Claus
    - Let your kids talk to Santa Claus
    - [Chat now](https://chat.openai.com/g/g-rZ4JVPmN2-santa-claus)
    - Submit by [@donaldmorton](https://github.com/donaldmorton)
+
+9. 😽Cat Maid
+   - Talk with your own cat-girl maid as in visual nolvels!
+   - [Chat now](https://chat.openai.com/g/g-OH049w462-catmaid)
+   - Submit by [@Liaozhaohe](https://github.com/Liaozhaohe)
