@@ -274,6 +274,11 @@
    - A specialized AI assistant designed to generate creative and appealing product names and descriptions, focusing on tech products, eco-friendly items, and fashion.
    - [Chat now](https://chat.openai.com/g/g-GUjYfiBrG-productgpt)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+  
+9. 📄 Cover Letter GPT
+   - Crafts personalized cover letters tailored to your resume and job descriptions. Simply upload your CV in PDF format and the job description as text.
+   - [Use now](https://chat.openai.com/g/g-SiGt9EEFZ-cover-letter-gpt)
+   - Submit by [@stefanzihlmann](https://github.com/stefanzihlmann)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
