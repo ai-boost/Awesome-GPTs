@@ -283,6 +283,9 @@
    - [Chat now](https://chat.openai.com/g/g-Mb5EGmRJm-win-with-huberman)
    - Submit by [@adi]([[https://www.reddit.com/user/hoky777/](https://twitter.com/adithyan_ai](https://github.com/AdithyanI)))
 
+5. MindMateGPT
+   - [Therapy AI](https://chat.openai.com/g/g-YAmDYMJq3-mindmategpt)
+
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
    - Go on a date with Raiden Shogun and please be nice.
