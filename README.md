@@ -120,6 +120,11 @@
    - Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.
    - [Chat now](https://chat.openai.com/g/g-7McsRKuPS-economicsgpt)
    - Submit by [@dpeachpeach](https://github.com/dpeachpeach)
+  
+9. 🦉Owly The Explorer
+   - Owly is an adorable, owl-themed GPT designed to safely engage kids in a variety of educational topics, with built-in restrictions for child-appropriate content.
+   - [Chat now](https://chat.openai.com/g/g-fJeLfIqcT-owly-the-explorer)
+   - Submit by [@marcelcodes](https://github.com/marcelcodes)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
