@@ -284,6 +284,7 @@
    - Submit by [@adi]([[https://www.reddit.com/user/hoky777/](https://twitter.com/adithyan_ai](https://github.com/AdithyanI)))
 
 5. MindMateGPT
+   - Scientifically backed Therapy AI. Tested to be more intelligent than GPT4 at emotional intelligence. Includes free form journal start and reflective summary and insights at end.
    - [Therapy AI](https://chat.openai.com/g/g-YAmDYMJq3-mindmategpt)
 
 ## Just for Fun
