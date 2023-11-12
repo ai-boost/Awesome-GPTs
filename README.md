@@ -255,6 +255,11 @@
    - [Chat now](https://chat.openai.com/g/g-t2p04OE3K-seabiscuit-launch-lander)
    - Submit by [@tomfrazier](https://github.com/tomfrazier)
 
+9. 🚀 Brand Sprint Facilitator
+   - Helps define the baseline of your brand.
+   - [Chat now](https://chat.openai.com/g/g-gwyuSCzG4-brand-sprint-facilitator)
+   - Submit by [@dylandeheer](https://github.com/dylandeheer)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
