@@ -279,6 +279,11 @@
    - Crafts personalized cover letters tailored to your resume and job descriptions. Simply upload your CV in PDF format and the job description as text.
    - [Use now](https://chat.openai.com/g/g-SiGt9EEFZ-cover-letter-gpt)
    - Submit by [@stefanzihlmann](https://github.com/stefanzihlmann)
+  
+9. 🍭 Quicksense
+   - Quicksense code and data viz assistant
+   - [Chat now](https://chat.openai.com/g/g-8EvOF8yGH-quicksense-by-1skeml3)
+   - Submit by [@H4K4N](https://github.com/h4k44n) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
