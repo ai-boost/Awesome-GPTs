@@ -218,7 +218,12 @@
 9. 🤖Poe Bot Creator
    - A GPT that can help you create a chatbot at Poe
    - [Chat now](https://chat.openai.com/g/g-E0BtBRrf5-poe-bot-creator)
-   - Submit by [@eseuz](https://github.com/eseuz)  
+   - Submit by [@eseuz](https://github.com/eseuz)
+  
+9. 🤖AI Comic Maker
+   - A GPT to create comics using ChatGPT and DALL-E, trying to maintain consistency of characters and images.
+   - [Chat now](https://chat.openai.com/g/g-1LM0T9LSW-ai-comic-maker)
+   - Submit by [@eliohead](https://github.com/eliohead)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
