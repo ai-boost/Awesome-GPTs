@@ -12,3 +12,9 @@ assignees: ''
    - [Chat now](https://chat.openai.com/g/...)
    - Submit by [@xxx](author profile link) 
 2. ... (if you have more than 1 GPT to submit)
+
+an example:
+
+1. 💻Professional Coder (Auto programming)
+   - A gpt expert at solving programming problems, automatic programming, one-click project generation
+   - [Chat now](https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming)
