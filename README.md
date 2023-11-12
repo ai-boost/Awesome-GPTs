@@ -346,10 +346,15 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
     - Submit by [@searle-dev](https://github.com/searle-dev)
 
 
-11. 🤠 Repo Ranger
+12. 🤠 Repo Ranger
     - Your go-to sheriff for web-based code insights and security checks.
     - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
     - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
+
+13. 🧑‍💻 Code Whiz Pro
+    - Provides insightful code reviews with a humorous twist.
+    - [Chat now](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
+    - Submit by [@davidemarcoli](https://github.com/davidemarcoli)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
