@@ -387,6 +387,10 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - [Chat now](https://chat.openai.com/g/g-nUKJX2cOA-biblegpt)
    - Submit by [@pjburnhill](https://github.com/pjburnhill)
 
+5. MindMateGPT
+   - Scientifically backed Therapy AI. Tested to be more intelligent than GPT4 at emotional intelligence. Includes free form journal start and reflective summary and insights at end.
+   - [Therapy AI](https://chat.openai.com/g/g-YAmDYMJq3-mindmategpt)
+
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
    - Go on a date with Raiden Shogun and please be nice.
