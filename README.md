@@ -286,7 +286,7 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - Submit by [@stefanzihlmann](https://github.com/stefanzihlmann)
   
 9. 🍭 Quicksense
-   - Quicksense code and data viz assistant
+   - Qlicksense code and data viz assistant
    - [Chat now](https://chat.openai.com/g/g-8EvOF8yGH-quicksense-by-1skeml3)
    - Submit by [@H4K4N](https://github.com/h4k44n) 
 
