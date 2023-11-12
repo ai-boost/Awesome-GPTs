@@ -224,6 +224,12 @@
    - A GPT to create comics using ChatGPT and DALL-E, trying to maintain consistency of characters and images.
    - [Chat now](https://chat.openai.com/g/g-1LM0T9LSW-ai-comic-maker)
    - Submit by [@eliohead](https://github.com/eliohead)
+  
+9. 🎧 Audiophile Assistant
+   - Specializes in providing expert advice on high-fidelity audio, from equipment selection to sound quality analysis.
+   - [Chat now](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
