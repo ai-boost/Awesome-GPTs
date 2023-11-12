@@ -460,3 +460,7 @@
    - [Chat now](https://chat.openai.com/g/g-9T0hmzkPB-screen-companion)
    - Submit by [@TophatPandaMagician](https://github.com/TophatPandaMagician)
 
+9. 🎮 DeepGame - Visual Interactive Story Game
+   - An interactive story game where you play through a story as a character, making decisions that shape the narrative. AI generates a new image for each step to enhance immersion.
+   - [Play now](https://chat.openai.com/g/g-TzI2BlJPT-deepgame)
+   - Submit by [@eliohead](https://github.com/eliohead)
