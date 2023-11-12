@@ -260,6 +260,11 @@
    - [Chat now](https://chat.openai.com/g/g-gwyuSCzG4-brand-sprint-facilitator)
    - Submit by [@dylandeheer](https://github.com/dylandeheer)
 
+9. 🧵 ThreadsGPT
+   - Your creative ally in crafting engaging Threads app content.
+   - [Chat now](https://chat.openai.com/g/g-fHRleYZLS-threadsgpt)
+   - Submit by [@Quagswagon2](https://github.com/Quagswagon2)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
