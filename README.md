@@ -249,6 +249,11 @@
    - A project management assistant that can auto-generate an editable Gantt chart from your project files.
    - [Chat now](https://chat.openai.com/g/g-ihJfmYAJn-gantt-chart-gpt)
    - Submit by [@onlinegantt](https://github.com/onlinegantt)
+  
+9. 🚀 Seabiscuit: Launch Lander
+   - Startup Strong Within 180 Days.
+   - [Chat now](https://chat.openai.com/g/g-t2p04OE3K-seabiscuit-launch-lander)
+   - Submit by [@tomfrazier](https://github.com/tomfrazier)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
