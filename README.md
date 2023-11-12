@@ -263,6 +263,11 @@
    - [Chat now](https://chat.openai.com/g/g-4NUCu8D8Y-kaloria)
    - Submit by [@hoky777](https://www.reddit.com/user/hoky777/)
 
+4. 👨‍🔬Win With Huberman
+   - Access Huberman's insights on demand: get succinct wisdom and practical advice for immediate action, with references for deep dives.
+   - [Chat now](https://chat.openai.com/g/g-Mb5EGmRJm-win-with-huberman)
+   - Submit by [@adi]([[https://www.reddit.com/user/hoky777/](https://twitter.com/adithyan_ai](https://github.com/AdithyanI)))
+
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
    - Go on a date with Raiden Shogun and please be nice.
