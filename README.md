@@ -61,6 +61,10 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
 5. 🤖 Prompty
    - A professional prompt engineer who helps you optimize your GPT-prompts with state-of-the-art techniques.
    - [Chat now](https://chat.openai.com/g/g-aZLV4vji6-prompty)
+  
+6. ✨ editGPT
+   - Proofread, edit and track changes to your text inside ChatGPT. Works in conjunction with the editGPT browser extension allowing you to accept and reject changes without leaving ChatGPT.
+   - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 
 ## Education
 1. 📗All-around Teacher (Learn Everything in 3 min)
