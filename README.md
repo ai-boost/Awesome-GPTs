@@ -449,3 +449,9 @@
    - A GPT tailored to create awesome Pepe Memes, featuring custom commands.
    - [Chat now](https://chat.openai.com/g/g-szij3m30a-pepe-picasso)
    - Submit by [@marcelcodes](https://github.com/marcelcodes)
+  
+9. 📺 Screen Companion
+   - A GPT that gives recommendations for movies, TV shows, and animes based on the user's tastes. It uses a compact table format with emoji ratings, including genres and additional information.
+   - [Chat now](https://chat.openai.com/g/g-9T0hmzkPB-screen-companion)
+   - Submit by [@TophatPandaMagician](https://github.com/TophatPandaMagician)
+
