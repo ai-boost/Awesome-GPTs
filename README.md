@@ -230,7 +230,6 @@
    - [Chat now](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
-
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
@@ -405,3 +404,8 @@
    - Try this question master to get inspiration and ask questions like a game show host and you can tune it up to ask for it to be more/less spicy
    - [Chat now](https://chat.openai.com/g/g-AcPoggC0T-spicy-questionmaster)
    - Submit by [@SimonDeno](https://github.com/SimonDeno)
+  
+9. 🐸 Pepe Picasso
+   - A GPT tailored to create awesome Pepe Memes, featuring custom commands.
+   - [Chat now](https://chat.openai.com/g/g-szij3m30a-pepe-picasso)
+   - Submit by [@marcelcodes](https://github.com/marcelcodes)
