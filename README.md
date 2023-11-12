@@ -125,6 +125,11 @@
    - Owly is an adorable, owl-themed GPT designed to safely engage kids in a variety of educational topics, with built-in restrictions for child-appropriate content.
    - [Chat now](https://chat.openai.com/g/g-fJeLfIqcT-owly-the-explorer)
    - Submit by [@marcelcodes](https://github.com/marcelcodes)
+  
+9. 📚 Hierarchy Navigator
+   - Organizes learning into a detailed hierarchy.
+   - [Chat now](https://chat.openai.com/g/g-idPG2SRKJ-hierarchy-navigator)
+   - Submit by [@kylecoogan](https://github.com/kylecoogan)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
