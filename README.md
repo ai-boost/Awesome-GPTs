@@ -215,6 +215,11 @@
    - [Chat now](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt)
    - Submit by [@m1guelpf](https://github.com/m1guelpf)
 
+9. 🤖Poe Bot Creator
+   - A GPT that can help you create a chatbot at Poe
+   - [Chat now](https://chat.openai.com/g/g-E0BtBRrf5-poe-bot-creator)
+   - Submit by [@eseuz](https://github.com/eseuz)  
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
