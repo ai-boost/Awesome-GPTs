@@ -269,6 +269,11 @@
    - Offers expert advice for creating custom WordPress websites.
    - [Chat now](https://chat.openai.com/g/g-Bqrx4gDgK-wordpress-wizard)
    - Submit by [@stefanzihlmann](https://github.com/stefanzihlmann)
+  
+9. 💡 ProductGPT
+   - A specialized AI assistant designed to generate creative and appealing product names and descriptions, focusing on tech products, eco-friendly items, and fashion.
+   - [Chat now](https://chat.openai.com/g/g-GUjYfiBrG-productgpt)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
