@@ -489,3 +489,9 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - A GPT allowing users to interact with and ask questions about the Bitcoin Whitepaper, exploring concepts related to Bitcoin.
    - [Chat now](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat)
    - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
+
+10. 🧱 The Message Wall
+   - This GPT allows you to put your message on the wall. You can see the wall and shared messages at: https://niyo.link/wall
+   - [Chat now](https://chat.openai.com/g/g-5iuXoXfEk-the-message-wall)
+   - Submit by [@niyoseris](https://github.com/niyoseris)
+
