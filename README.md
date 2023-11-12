@@ -111,6 +111,15 @@
    - [Chat now](https://chat.openai.com/g/g-2vNXETv9C-math-to-latex)
    - Submit by [@No_Impact4379](https://www.reddit.com/user/No_Impact4379/)
 
+9. 👄Debate Mentor
+   - Mentor and debater, guides users to articulate conclusions.
+   - [Chat now](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor)
+   - Submit by [@kylecoogan](https://github.com/kylecoogan)
+  
+9. 📈EconomicsGPT
+   - Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.
+   - [Chat now](https://chat.openai.com/g/g-7McsRKuPS-economicsgpt)
+   - Submit by [@dpeachpeach](https://github.com/dpeachpeach)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
