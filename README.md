@@ -21,7 +21,7 @@
 
 ## Awesome-GPTs
 🎉 This repository is dedicated to compiling a collection of interesting and creative GPT models!  
-📝 If you’ve designed an impressive GPT, please  provide its name, description, and link in the issue section (A PR is welcome).   
+📝 If you’ve designed an impressive GPT, please  provide its name, description, and link in the issue section (A PR will be **faster**🚀 than issue).   
 🚀 Let’s share and celebrate your work! 
 
 (Thanks for your star🌟 and recommendation❤️)
