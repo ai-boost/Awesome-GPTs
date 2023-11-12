@@ -370,7 +370,7 @@
 5. 👨‍🔬Win With Huberman
    - Access Huberman's insights on demand: get succinct wisdom and practical advice for immediate action, with references for deep dives.
    - [Chat now](https://chat.openai.com/g/g-Mb5EGmRJm-win-with-huberman)
-   - Submit by [@adi]([[https://www.reddit.com/user/hoky777/](https://twitter.com/adithyan_ai](https://github.com/AdithyanI)))
+   - Submit by [@adi](https://github.com/AdithyanI)
   
 6. 📔BibleGPT
    - Chat with the Bible, analyze Bible data and generate Bible-inspired images!
