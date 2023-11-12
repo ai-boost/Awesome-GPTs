@@ -130,6 +130,11 @@
    - Organizes learning into a detailed hierarchy.
    - [Chat now](https://chat.openai.com/g/g-idPG2SRKJ-hierarchy-navigator)
    - Submit by [@kylecoogan](https://github.com/kylecoogan)
+  
+9. 🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior
+   - Ask me anything about veterinary sciences, animal rescue, and behavior.
+   - [Chat now](https://chat.openai.com/g/g-Z310M0Pp0-linda)
+   - Submit by [@Viktor-Larkhill](https://github.com/Viktor-Larkhill)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
