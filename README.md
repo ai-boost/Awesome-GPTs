@@ -290,7 +290,7 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - [Chat now](https://chat.openai.com/g/g-8EvOF8yGH-quicksense-by-1skeml3)
    - Submit by [@H4K4N](https://github.com/h4k44n)
   
-31. 🔄 Scrum Master Assistant
+9. 🔄 Scrum Master Assistant
    - Your powerful AI-powered Scrum Master assistant. Ask any Scrum-related questions.
    - [Chat now](https://chat.openai.com/g/g-tcZDT3R6n-scrum-master-assistant)
    - Submit by [@KAUTH](https://github.com/KAUTH)
