@@ -234,6 +234,11 @@
    - Specializes in providing expert advice on high-fidelity audio, from equipment selection to sound quality analysis.
    - [Chat now](https://chat.openai.com/g/g-VbJvVjilC-audiophile-assistant)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+  
+9. 📚 WebStract
+   - Your autonomous, in-depth digital educator, guiding you through comprehensive, interactive learning experiences.
+   - [Chat now](https://chat.openai.com/g/g-LaXsx7vXI-webstract)
+   - Submit by [@kylecoogan](https://github.com/kylecoogan)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
