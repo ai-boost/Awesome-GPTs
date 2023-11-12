@@ -469,3 +469,8 @@
    - An interactive story game where you play through a story as a character, making decisions that shape the narrative. AI generates a new image for each step to enhance immersion.
    - [Play now](https://chat.openai.com/g/g-TzI2BlJPT-deepgame)
    - Submit by [@eliohead](https://github.com/eliohead)
+
+9. 💬 Chat with the Bitcoin Whitepaper
+   - A GPT allowing users to interact with and ask questions about the Bitcoin Whitepaper, exploring concepts related to Bitcoin.
+   - [Chat now](https://chat.openai.com/g/g-j5Mk8W3J7-bitcoin-whitepaper-chat)
+   - Submit by [@ezzcodeezzlife](https://github.com/ezzcodeezzlife)
