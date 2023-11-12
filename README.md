@@ -204,6 +204,11 @@
    - Faster than any other GPT. Just like ChatGPT but without the waffle.
    - [Chat now](https://chat.openai.com/g/g-VnlKc5BQK-fastgpt)
    - Submit by [@dave1010](https://github.com/dave1010)
+  
+9. 🎞YouTubeGPT
+   - Chat and answer questions from YouTube videos
+   - [Chat now](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt)
+   - Submit by [@m1guelpf](https://github.com/m1guelpf)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
