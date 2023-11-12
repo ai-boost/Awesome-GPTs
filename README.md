@@ -265,6 +265,11 @@
    - [Chat now](https://chat.openai.com/g/g-fHRleYZLS-threadsgpt)
    - Submit by [@Quagswagon2](https://github.com/Quagswagon2)
 
+9. 🌐 WordPress Wizard
+   - Offers expert advice for creating custom WordPress websites.
+   - [Chat now](https://chat.openai.com/g/g-Bqrx4gDgK-wordpress-wizard)
+   - Submit by [@stefanzihlmann](https://github.com/stefanzihlmann)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
