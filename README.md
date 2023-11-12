@@ -186,6 +186,11 @@
    - [Chat now](https://chat.openai.com/g/g-nsTplEvN8-seabiscuit-business-model-master)
    - Submit by [@tomfrazier](https://github.com/tomfrazier)
 
+9. ⚡FastGPT
+   - Faster than any other GPT. Just like ChatGPT but without the waffle.
+   - [Chat now](https://chat.openai.com/g/g-VnlKc5BQK-fastgpt)
+   - Submit by [@dave1010](https://github.com/dave1010)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
