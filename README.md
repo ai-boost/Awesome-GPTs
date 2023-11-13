@@ -149,7 +149,12 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
 9. 👩‍🏫 IELTS Writing Coach
    - An advanced IELTS Writing Coach
    - [Chat now](https://chat.openai.com/g/g-TzN6ReSVA-ielts-writing-coach)
-   - Submit by [@Rick](https://github.com/techmovie) 
+   - Submit by [@Rick](https://github.com/techmovie)
+  
+9. 🎧 DJGPT
+   - I'm DJGPT, your go-to AI for all things DJing and music mixing, here to guide you through the exciting world of beats and tracks!
+   - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn) 
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
