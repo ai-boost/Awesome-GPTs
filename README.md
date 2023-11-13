@@ -154,7 +154,7 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
 9. 🎧 DJGPT
    - I'm DJGPT, your go-to AI for all things DJing and music mixing, here to guide you through the exciting world of beats and tracks!
    - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn) 
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
@@ -314,6 +314,11 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - AI assistant to extract text from images and pdf documents.
    - [Chat now](https://chat.openai.com/g/g-wETMBcESv-ocr)
    - Submit by [@docduo](https://github.com/docduo)
+  
+9. 🎧 AbletonGPT
+   - I'm AbletonGPT, your go-to source for practical tips and troubleshooting advice on Ableton Live 11, dedicated to helping both beginners and intermediate users with their music production queries.
+   - [Chat now](https://chat.openai.com/g/g-BpSexw4ll-abletongpt)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
