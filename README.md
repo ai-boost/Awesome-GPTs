@@ -163,7 +163,7 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
      
 9. :speech_balloon: Portuguese Pal
    - Learn Portuguese while talking freely but still in a structured way and according to your current proficiency.
-   - [Chat now](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor)
+   - [Chat now](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal) 
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
     
 
