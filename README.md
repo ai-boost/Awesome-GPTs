@@ -156,7 +156,7 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
    - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
      
-9. 🎧 Multilingual Mentor
+9. :speech_balloon: Multilingual Mentor
    - Learn any language IN any other language while talking freely but still in a structured way and according to your current proficiency.
    - [Chat now](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor)
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
