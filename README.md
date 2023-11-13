@@ -301,7 +301,7 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - Submit by [@stefanzihlmann](https://github.com/stefanzihlmann)
   
 9. 🍭 Quicksense
-   - Qlicksense code and data viz assistant
+   - Expert in QlikSense scripting, data visualization.
    - [Chat now](https://chat.openai.com/g/g-8EvOF8yGH-quicksense-by-1skeml3)
    - Submit by [@H4K4N](https://github.com/h4k44n)
   
