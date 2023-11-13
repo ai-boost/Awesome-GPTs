@@ -155,6 +155,12 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
    - I'm DJGPT, your go-to AI for all things DJing and music mixing, here to guide you through the exciting world of beats and tracks!
    - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+     
+9. 🎧 Multilingual Mentor
+   - Learn any language IN any other language while talking freely but still in a structured way and according to your current proficiency.
+   - [Chat now](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor)
+   - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
+    
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
