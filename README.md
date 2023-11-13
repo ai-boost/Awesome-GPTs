@@ -318,7 +318,12 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
 9. 🎧 AbletonGPT
    - I'm AbletonGPT, your go-to source for practical tips and troubleshooting advice on Ableton Live 11, dedicated to helping both beginners and intermediate users with their music production queries.
    - [Chat now](https://chat.openai.com/g/g-BpSexw4ll-abletongpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn) 
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+  
+9. 🎙️ PodGPT
+   - Summarize and ask questions about any podcast episode.
+   - [Chat now](https://chat.openai.com/g/g-XGYO3mnRt-podgpt)
+   - Submit by [@mikkelsvartveit](https://github.com/mikkelsvartveit)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
