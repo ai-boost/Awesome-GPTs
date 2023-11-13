@@ -336,6 +336,11 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
    - [Chat now](https://chat.openai.com/g/g-XGYO3mnRt-podgpt)
    - Submit by [@mikkelsvartveit](https://github.com/mikkelsvartveit)
 
+9. 📈 Market Maven (Enhanced Market Analysis)
+   - A specialized GPT for dynamic market analysis, with advanced security features for proprietary methodologies.
+   - [Chat Now](https://chat.openai.com/g/g-wX2IB7OuW-market-maven)
+   - Submitted by [@mavenmarket](https://github.com/Mavenmarket)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
