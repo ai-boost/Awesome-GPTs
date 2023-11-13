@@ -27,8 +27,8 @@
 (Thanks for your star🌟 and recommendation❤️)
 
 ## News✨
-I designed a new GPTs just called AwesomeGPTs (same as the repo name😂).   
-It is a GPT that recommend awesome GPTs to user according his question.  
+We designed a new GPT just called AwesomeGPTs (same as the repo name😂).   
+It is a GPT that **recommend awesome GPTs to user** according his question.  
 All GPTs in the Awesome-GPTs list could be recommended to the user.   
 (**So your GPTs can be recommended too!** 🎉🎉🎉)  
 Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
