@@ -583,3 +583,24 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
 9. ⁉ Mystery Master
    - A gpt that craft unique, diverse mysteries for players to solve.
    - [Chat now](https://chat.openai.com/g/g-jtMmejuyv-mystery-master)
+   - Submitted by [@Master-of-secrets](https://github.com/Master-of-secrets)
+  
+9. ⭐ GPT Duel Simulator
+   - An epic duel simulator between any two [anime/movies/video games] characters you can think of 
+   - [Chat now](https://chat.openai.com/g/g-qYjcndY2u-gpt-duel-simulator)
+   - Submit by [@GPTDuel](https://github.com/GPTDuel)
+
+9. 👩 Rin-chan
+   - Chat with Rin (a girl who aspires to be a singer and even has her own schedule!) 
+   - [Chat now](https://chat.openai.com/g/g-RiFAwSVeD-rin-chan)
+   - Submit by [@GPTDuel](https://github.com/GPTDuel)
+
+9. 🍟 Anime Trivia
+   - Your friendly anime trivia expert 
+   - [Chat now](https://chat.openai.com/g/g-JzIxwuYF1-anime-trivia)
+   - Submit by [@GPTDuel](https://github.com/GPTDuel)
+
+9. ❓ Riddle Master
+   - Can you solve this riddle? 
+   - [Chat now](https://chat.openai.com/g/g-j4iyVfj6M-riddle-master)
+   - Submit by [@GPTDuel](https://github.com/GPTDuel) 
