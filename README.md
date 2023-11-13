@@ -155,6 +155,17 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
    - I'm DJGPT, your go-to AI for all things DJing and music mixing, here to guide you through the exciting world of beats and tracks!
    - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+     
+9. :speech_balloon: Multilingual Mentor
+   - Learn any language IN any other language while talking freely but still in a structured way and according to your current proficiency.
+   - [Chat now](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor)
+   - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
+     
+9. :speech_balloon: Portuguese Pal
+   - Learn Portuguese while talking freely but still in a structured way and according to your current proficiency.
+   - [Chat now](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal) 
+   - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
+    
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
@@ -425,7 +436,12 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
 7. 🍬CarbSmart Slim GPT
    - Diabetic-friendly and weight loss recipes with elegant markdown presentation.
    - [Chat now](https://chat.openai.com/g/g-2f2QaNqlh-carbsmart-slim)
-   - Submit by [@middhaGH](https://github.com/middhaGH) 
+   - Submit by [@middhaGH](https://github.com/middhaGH)
+
+9. :pill: Supplement Service
+   - A GPT that is made specifically to give advice about supplements, specifically highlights known interactions and nutrient depletion.
+   - [Chat now](https://chat.openai.com/g/g-6mAmNGQof-supplement-service)
+   - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
