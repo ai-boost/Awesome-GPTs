@@ -395,6 +395,11 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - Chat with the Bible, analyze Bible data and generate Bible-inspired images!
    - [Chat now](https://chat.openai.com/g/g-nUKJX2cOA-biblegpt)
    - Submit by [@pjburnhill](https://github.com/pjburnhill)
+  
+7. 🍬CarbSmart Slim GPT
+   - Diabetic-friendly and weight loss recipes with elegant markdown presentation.
+   - [Chat now](https://chat.openai.com/g/g-2f2QaNqlh-carbsmart-slim)
+   - Submit by [@middhaGH](https://github.com/middhaGH) 
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
