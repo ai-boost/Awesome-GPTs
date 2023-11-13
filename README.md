@@ -504,3 +504,7 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - [Chat now](https://chat.openai.com/g/g-5iuXoXfEk-the-message-wall)
    - Submit by [@niyoseris](https://github.com/niyoseris)
 
+9. ⏳ From Another Time 
+   - Talk to anyone, visit a place, past or future.
+   - [Chat now](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time)
+   - Submit by [@CeamKrier](https://github.com/CeamKrier)
