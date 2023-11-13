@@ -565,3 +565,12 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
    - Our tool helps you find the data needle in the internet haystack.
    - [Chat now](https://chat.openai.com/g/g-aZQ1x6vqB-cylect-io-the-ultimate-ai-osint-tool)
    - Submit by [@nullze](https://github.com/nullze)
+
+9. 🤖 Roblox Mentor
+   - GPT that is an Expert in Roblox Studio
+   - [Chat now](https://chat.openai.com/g/g-gUTZTTsVf-roblox-mentor)
+   - Submitted by [@Master-of-secrets](https://github.com/Master-of-secrets)
+
+9. ⁉ Mystery Master
+   - A gpt that craft unique, diverse mysteries for players to solve.
+   - [Chat now](https://chat.openai.com/g/g-jtMmejuyv-mystery-master)
