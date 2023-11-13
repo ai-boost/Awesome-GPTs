@@ -299,6 +299,11 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - [Chat now](https://chat.openai.com/g/g-tcZDT3R6n-scrum-master-assistant)
    - Submit by [@KAUTH](https://github.com/KAUTH)
 
+9. 🖨️ OCR
+   - AI assistant to extract text from images and pdf documents.
+   - [Chat now](https://chat.openai.com/g/g-wETMBcESv-ocr)
+   - Submit by [@docduo](https://github.com/docduo)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
