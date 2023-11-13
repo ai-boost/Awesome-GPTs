@@ -145,6 +145,11 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - Ask me anything about veterinary sciences, animal rescue, and behavior.
    - [Chat now](https://chat.openai.com/g/g-Z310M0Pp0-linda)
    - Submit by [@Viktor-Larkhill](https://github.com/Viktor-Larkhill)
+  
+9. 👩‍🏫 IELTS Writing Coach
+   - An advanced IELTS Writing Coach
+   - [Chat now](https://chat.openai.com/g/g-TzN6ReSVA-ielts-writing-coach)
+   - Submit by [@Rick](https://github.com/techmovie) 
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
