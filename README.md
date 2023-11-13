@@ -292,7 +292,12 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
 9. 🍭 Quicksense
    - Qlicksense code and data viz assistant
    - [Chat now](https://chat.openai.com/g/g-8EvOF8yGH-quicksense-by-1skeml3)
-   - Submit by [@H4K4N](https://github.com/h4k44n) 
+   - Submit by [@H4K4N](https://github.com/h4k44n)
+  
+9. 🔄 Scrum Master Assistant
+   - Your powerful AI-powered Scrum Master assistant. Ask any Scrum-related questions.
+   - [Chat now](https://chat.openai.com/g/g-tcZDT3R6n-scrum-master-assistant)
+   - Submit by [@KAUTH](https://github.com/KAUTH)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
