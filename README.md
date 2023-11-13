@@ -525,7 +525,7 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts
    - [Chat now](https://chat.openai.com/g/g-sg5h7XuWn-from-another-time)
    - Submit by [@CeamKrier](https://github.com/CeamKrier)
 
-9. ⏳ Cylect.io - Ultimate AI OSINT Tool
+9. 🔍 Cylect.io - Ultimate AI OSINT Tool
    - Our tool helps you find the data needle in the internet haystack.
    - [Chat now](https://chat.openai.com/g/g-aZQ1x6vqB-cylect-io-the-ultimate-ai-osint-tool)
    - Submit by [@nullze](https://github.com/nullze)
