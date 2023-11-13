@@ -344,6 +344,11 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
    - A specialized GPT for dynamic market analysis, with advanced security features for proprietary methodologies.
    - [Chat Now](https://chat.openai.com/g/g-wX2IB7OuW-market-maven)
    - Submitted by [@mavenmarket](https://github.com/Mavenmarket)
+  
+9. 🤖 Github Repo Assistant
+   - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
+   - [Try it now](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant)
+   - Submitted by [@thesamir](https://github.com/thesamir)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
