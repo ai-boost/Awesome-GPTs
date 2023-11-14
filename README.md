@@ -19,19 +19,36 @@
   </h4>
 </div>
 
-## Awesome-GPTs
-🎉 This repository is dedicated to compiling a collection of interesting and creative GPT models!  
-📝 If you’ve designed an impressive GPT, please  provide its name, description, and link in the issue section (A PR will be **much faster**🚀 than an issue.).   
-🚀 Let’s share and celebrate your work! 
+## 🚀 About Awesome-GPTs
+This is a space for showcasing innovative and exciting GPT models created by AI enthusiasts worldwide. Got a GPT that stands out? Let the world know!
 
-(Thanks for your star🌟 and recommendation❤️)
+- 🎙️ **Contributing**: Provide your GPT's name, a short description, and its link in the PR.
+- ✅ **Recognition**: Your GPT could be the next big highlight in our Awesome-GPTs list.
+- ⏳ **Simplicity**: Prefer a PR over an issue for quicker inclusion.
 
-## News✨
-We designed a new GPT just called AwesomeGPTs (same as the repo name😂).   
-It is a GPT that **recommend awesome GPTs to user** according his question.  
-All GPTs in the Awesome-GPTs list could be recommended to the user.   
-(**So your GPTs can be recommended too!** 🎉🎉🎉)  
-Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 2023/11/13]
+Your stars🌟 and recommendations 🫶 are what make this community vibrant!
+
+## 🌟 Commit and PR Guidelines
+To streamline our project's development, we have specific, yet easy, guidelines for commits and PRs:
+- **Commit Message**: Use `[bot-name][brief-bot-description]` format.
+- **PR Title**: Keep it identical to your commit message for consistency.
+
+Adherence to these standards makes your contributions more impactful and traceable.
+
+## 🌐 Latest News & Updates ✨
+Exciting news! We've just rolled out our very own GPT creation, aptly named **AwesomeGPTs** – yes, it shares the repo's name! 👀
+
+🚀 **What's AwesomeGPTs?** It's a specialised GPT model designed to:
+  - **Navigate the Awesome-GPT Universe**: Directly recommends other GPT models from our extensive list based on user queries.
+  - **Personalised Recommendations**: Tailors suggestions to each user's specific interests and questions.
+
+🎉 **Your GPTs Featured**: Here's the thrilling part – your GPT models can also be recommended! This means more visibility and engagement for your contributions.
+
+🔗 **Give it a Try!** Eager to see AwesomeGPTs in action? Check it out here: [AwesomeGPTs Live Demo](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) (Knowledge cut-off: 2023/11/13). Experience firsthand how it brings the world of GPTs closer to the community.
+
+Stay tuned for more updates and advancements!
+
+-----
 
 ## 📚 Table of Contents
 1. [✍️ Writing](#writing)
@@ -278,7 +295,7 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
 9. 📚 WebStract
    - Your autonomous, in-depth digital educator, guiding you through comprehensive, interactive learning experiences.
    - [Chat now](https://chat.openai.com/g/g-LaXsx7vXI-webstract)
-   - Submit by [@kylecoogan](https://github.com/kylecoogan
+   - Submit by [@kylecoogan](https://github.com/kylecoogan)
 
 9. 📊 Gantt Chart GPT
    - A project management assistant that can auto-generate an editable Gantt chart from your project files.
@@ -345,10 +362,10 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
    - [Chat Now](https://chat.openai.com/g/g-wX2IB7OuW-market-maven)
    - Submitted by [@mavenmarket](https://github.com/Mavenmarket)
   
-9. 🤖 Github Repo Assistant
-   - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
-   - [Try it now](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant)
-   - Submitted by [@thesamir](https://github.com/thesamir)
+9. 🧑‍🎨 Wizlogo Logo Maker
+   - Write your category, text and enjoy AI generated logo.
+   - [Chat now](https://chat.openai.com/g/g-LsuxNbRw5-wizlogo-logo-maker)
+   - Submit by [@whferr](https://github.com/whferr)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
@@ -405,7 +422,6 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
     - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
     - Submit by [@searle-dev](https://github.com/searle-dev)
 
-
 12. 🤠 Repo Ranger
     - Your go-to sheriff for web-based code insights and security checks.
     - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
@@ -435,8 +451,17 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
     - Build out a full app in svelte, from pseudocode to real code.
     - [Chat now](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder)
     - Submit by [@dougbutner](https://github.com/dougbutner)
+   
+9. 🤖 Github Repo Assistant
+   - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
+   - [Try it now](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant)
+   - Submitted by [@thesamir](https://github.com/thesamir)
 
-
+9. 🖥️ PC Builder GPT
+   - I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
+   - [Chat now](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn) 
+     
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
@@ -477,6 +502,11 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
    - A GPT that is made specifically to give advice about supplements, specifically highlights known interactions and nutrient depletion.
    - [Chat now](https://chat.openai.com/g/g-6mAmNGQof-supplement-service)
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
+  
+10. 👨‍⚕️ Jordan Peterson
+    - Emulating Dr. Jordan B. Peterson's style in providing life advice and insights.
+    - [Chat now](https://chat.openai.com/g/g-1Ofm79uOS-jordan-peterson)
+    - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
@@ -624,4 +654,15 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
 9. ❓ Riddle Master
    - Can you solve this riddle? 
    - [Chat now](https://chat.openai.com/g/g-j4iyVfj6M-riddle-master)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel) 
+   - Submit by [@GPTDuel](https://github.com/GPTDuel)
+  
+9. 📖 Story Buddy
+   - A creative guide to help kids to build their own bedtime stories, with illustrations. 
+   - [Chat now](https://chat.openai.com/g/g-2k7EGyB1p-story-buddy)
+   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz)
+  
+9. 👩🏿‍🦱 Dear Gabrielle
+   - Sassy, warm-hearted advice columnist offering humorous, insightful guidance. 
+   - [Chat now](https://chat.openai.com/g/g-PYchE5klx-dear-gabrielle)
+   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz) 
+
