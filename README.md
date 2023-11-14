@@ -720,3 +720,8 @@ Stay tuned for more updates and advancements!
    - A GPT game that puts you in the Star Wars Universe. Create your character, choose your era, and make your place in the Galaxy!
    - [Play now](https://chat.openai.com/g/galactic-reckoning)
    - Submit by [@LaneBucher](https://github.com/LaneBucher)
+  
+9. 🎇excel VBA magica
+   - excel VBA magica[Create Excel VBA code easily].
+   - [Chat now](https://chat.openai.com/g/g-MaUnLcGuA-vba-mabeobsa)
+   - Submit by [@himomohi](https://github.com/himomohi) 
