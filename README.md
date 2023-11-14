@@ -382,10 +382,15 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-r7X90KNno-film-developer)
    - Submit by [@LaneBucher](https://github.com/LaneBucher)
 
-9. 💰U.S. Tax Helper
+9. 💰 U.S. Tax Helper
    - A multilingual tax expert to handle all of your tax questions. 
    - [Chat now](https://chat.openai.com/g/g-iuqYldlaB-u-s-tax-help)
-   - Submit by [@jaycoin6084](https://github.com/JayCoin6084) 
+   - Submit by [@jaycoin6084](https://github.com/JayCoin6084)
+
+9. 📄 PDF/DocX Generator
+   -Generate any complex documents, worksheets, charts, tables etc. in PDF or DocX format powered by LaTeX
+   - [Chat now](https://chat.openai.com/g/g-0gbxqCG1B-document-generator)
+   - Submit by [@JasonLLu](https://github.com/JasonLLu) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
