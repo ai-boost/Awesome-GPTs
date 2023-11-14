@@ -377,6 +377,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-r8pTExDvL-self-evaluation-assistant)
    - Submit by [@RaviMidda](https://github.com/middhaGH)
 
+9. 🎬 Film Developer
+   - A GPT for everything in film development, from dialogue to story, character development, to concept art.
+   - [Chat now](https://chat.openai.com/g/g-r7X90KNno-film-developer)
+   - Submit by [@LaneBucher](https://github.com/LaneBucher)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
