@@ -501,6 +501,11 @@ Stay tuned for more updates and advancements!
    - Build on the XRP Ledger with assistance from this GPT trained on extensive documentation and code samples.
    - [Chat now](https://chat.openai.com/g/g-Sjy2xMl6f-xrpl-gpt)
    - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
+  
+9. ⬜ Whitebox
+   - Collection of open-source programming templates to kickstart your own programming assistants.
+   - [Chat now](https://github.com/Decron/Whitebox-Code-GPT)
+   - Submit by [@Decron](https://github.com/Decron/Whitebox-Code-GPT)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
@@ -744,6 +749,12 @@ Stay tuned for more updates and advancements!
 9. 🎙️Roast Master
    - Witty roasts for any and everything
    - [Chat now](https://chat.openai.com/g/g-JgYcfMFRD-roast-master)
-   - Submit by [@arndom](https://github.com/arndom) 
+   - Submit by [@arndom](https://github.com/arndom)
+
+9. 🤯 An Emoji GPT
+   - Armed with the wisdom of a hundred generations, my mission is to select the best emoji for each and every situation.
+   - [Chat now](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt)
+   - Submit by [@Decron](https://github.com/Decron/Whitebox-Code-GPT)
+    
 
 
