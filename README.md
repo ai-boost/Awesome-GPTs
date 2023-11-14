@@ -431,6 +431,26 @@ Stay tuned for more updates and advancements!
     - Provides insightful code reviews with a humorous twist.
     - [Chat now](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
     - Submit by [@davidemarcoli](https://github.com/davidemarcoli)
+      
+14. 🧞 Node.js Project Builder
+    - Build out a full node.js project, from skeleton to build-ready.
+    - [Chat now](https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder)
+    - Submit by [@dougbutner](https://github.com/dougbutner)
+
+15. React Project Builder
+    - Build out a full React project, from planning to code.
+    - [Chat now](https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder)
+    - Submit by [@dougbutner](https://github.com/dougbutner)
+
+16. Angular Project Builder
+    - Let AI  angular project, from pseudocode to build-ready.
+    - [Chat now](https://chat.openai.com/g/g-Wkhtm932I-angular-gpt-project-builder)
+    - Submit by [@dougbutner](https://github.com/dougbutner)
+
+17. Svelte Project Builder
+    - Build out a full app in svelte, from pseudocode to real code.
+    - [Chat now](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder)
+    - Submit by [@dougbutner](https://github.com/dougbutner)
    
 9. 🤖 Github Repo Assistant
    - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
