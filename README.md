@@ -415,6 +415,11 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
     - Provides insightful code reviews with a humorous twist.
     - [Chat now](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
     - Submit by [@davidemarcoli](https://github.com/davidemarcoli)
+   
+14. 🧑‍🎨 Wizlogo Logo Maker
+    - Write your category, text and enjoy AI generated logo.
+    - [Chat now](https://chat.openai.com/g/g-LsuxNbRw5-wizlogo-logo-maker)
+    - Submit by [@whferr](https://github.com/whferr)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
