@@ -390,7 +390,17 @@ Stay tuned for more updates and advancements!
 9. 📄 PDF/DocX Generator
    -Generate any complex documents, worksheets, charts, tables etc. in PDF or DocX format powered by LaTeX
    - [Chat now](https://chat.openai.com/g/g-0gbxqCG1B-document-generator)
-   - Submit by [@JasonLLu](https://github.com/JasonLLu) 
+   - Submit by [@JasonLLu](https://github.com/JasonLLu)
+
+9. 🖌️ Find a Design Agency
+   - A GPT to help you find a design agency in your vicinity based on your design needs.
+   - [Chat now](https://chat.openai.com/g/g-IOyxoYe5T-find-a-design-agency)
+   - Submit by [@dylandeheer](https://github.com/dylandeheer)
+
+9. 🎨 UX Design Coach
+   - A GPT to help navigate the vast landscape of design challenges, offering advice on visual design, user research, human psychology, and more.
+   - [Chat now](https://chat.openai.com/g/g-L3KX57hjg-ux-design-coach)
+   - Submit by [@dylandeheer](https://github.com/dylandeheer)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
