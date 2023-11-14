@@ -533,6 +533,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt)
    - Submit by [@lucidbeads](https://github.com/lucidbeads)
 
+9. 🧣 The Stylist
+   - A fashion expert for outfit selection, replication and shopping assistance.
+   - [Chat now](https://chat.openai.com/g/g-qzQo9dhn6-the-stylist)
+   - Submit by [@LaneBucher](https://github.com/LaneBucher)
+
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
    - Go on a date with Raiden Shogun and please be nice.
