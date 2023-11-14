@@ -361,11 +361,6 @@ Stay tuned for more updates and advancements!
    - A specialized GPT for dynamic market analysis, with advanced security features for proprietary methodologies.
    - [Chat Now](https://chat.openai.com/g/g-wX2IB7OuW-market-maven)
    - Submitted by [@mavenmarket](https://github.com/Mavenmarket)
-  
-9. 🤖 Github Repo Assistant
-   - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
-   - [Try it now](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant)
-   - Submitted by [@thesamir](https://github.com/thesamir)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
@@ -422,7 +417,6 @@ Stay tuned for more updates and advancements!
     - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
     - Submit by [@searle-dev](https://github.com/searle-dev)
 
-
 12. 🤠 Repo Ranger
     - Your go-to sheriff for web-based code insights and security checks.
     - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
@@ -437,6 +431,16 @@ Stay tuned for more updates and advancements!
     - Write your category, text and enjoy AI generated logo.
     - [Chat now](https://chat.openai.com/g/g-LsuxNbRw5-wizlogo-logo-maker)
     - Submit by [@whferr](https://github.com/whferr)
+   
+9. 🤖 Github Repo Assistant
+   - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
+   - [Try it now](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant)
+   - Submitted by [@thesamir](https://github.com/thesamir)
+
+9. 🖥️ PC Builder GPT
+   - I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
+   - [Chat now](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn) 
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
