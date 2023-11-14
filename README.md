@@ -456,6 +456,11 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
    - A GPT that is made specifically to give advice about supplements, specifically highlights known interactions and nutrient depletion.
    - [Chat now](https://chat.openai.com/g/g-6mAmNGQof-supplement-service)
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
+  
+10. 👨‍⚕️ Jordan Peterson
+    - Emulating Dr. Jordan B. Peterson's style in providing life advice and insights.
+    - [Chat now](https://chat.openai.com/g/g-1Ofm79uOS-jordan-peterson)
+    - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
