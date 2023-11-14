@@ -361,6 +361,11 @@ Stay tuned for more updates and advancements!
    - A specialized GPT for dynamic market analysis, with advanced security features for proprietary methodologies.
    - [Chat Now](https://chat.openai.com/g/g-wX2IB7OuW-market-maven)
    - Submitted by [@mavenmarket](https://github.com/Mavenmarket)
+  
+9. 🧑‍🎨 Wizlogo Logo Maker
+   - Write your category, text and enjoy AI generated logo.
+   - [Chat now](https://chat.openai.com/g/g-LsuxNbRw5-wizlogo-logo-maker)
+   - Submit by [@whferr](https://github.com/whferr)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
@@ -426,11 +431,6 @@ Stay tuned for more updates and advancements!
     - Provides insightful code reviews with a humorous twist.
     - [Chat now](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
     - Submit by [@davidemarcoli](https://github.com/davidemarcoli)
-   
-14. 🧑‍🎨 Wizlogo Logo Maker
-    - Write your category, text and enjoy AI generated logo.
-    - [Chat now](https://chat.openai.com/g/g-LsuxNbRw5-wizlogo-logo-maker)
-    - Submit by [@whferr](https://github.com/whferr)
    
 9. 🤖 Github Repo Assistant
    - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
