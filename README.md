@@ -681,3 +681,8 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-PYchE5klx-dear-gabrielle)
    - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz) 
 
+9. 🧙‍♂️ Word Wizard
+   - Multiplayer Wordle-like word game GPT in real time competition with other users.
+   - [Chat now](https://chat.openai.com/g/g-83YBVbpSb-word-wizard)
+   - Submit by [@niyoseris](https://github.com/niyoseris) 
+
