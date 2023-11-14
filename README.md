@@ -367,6 +367,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-LsuxNbRw5-wizlogo-logo-maker)
    - Submit by [@whferr](https://github.com/whferr)
 
+9. 🖼️ UpScaler: GPT to Create and Upscale/De-noise Dalle Images
+   - Specializes in enhancing and upscaling images created through Dall-E to larger resolutions, suitable for printing or high-quality digital display. Includes optional abbreviations for easier image generation.
+   - [Use now](https://chat.openai.com/g/g-ikwGM4grU-upscaler)
+   - Submit by [@weisshb](https://github.com/weisshb)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
