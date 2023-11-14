@@ -691,3 +691,7 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-83YBVbpSb-word-wizard)
    - Submit by [@niyoseris](https://github.com/niyoseris) 
 
+9. 🤪 SourceGPT
+   - A (joke) GPT that disguises itself as a helpful source finder but will always return a link to a rick roll video.
+   - [Chat now](https://chat.openai.com/g/g-yRhodZ91O-source-gpt)
+   - Submit by [@thesamir](https://github.com/thesamir)
