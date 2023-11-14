@@ -374,7 +374,7 @@ Stay tuned for more updates and advancements!
 
 9. 📝 Self-Evaluation Assistant
    - Interactive system for detailed self-evaluations in PDF format.
-   - [Chat now] (https://chat.openai.com/g/g-r8pTExDvL-self-evaluation-assistant)
+   - [Chat now](https://chat.openai.com/g/g-r8pTExDvL-self-evaluation-assistant)
    - Submit by [@RaviMidda](https://github.com/middhaGH)
 
 ## Programming
