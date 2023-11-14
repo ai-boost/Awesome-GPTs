@@ -417,7 +417,7 @@ Stay tuned for more updates and advancements!
     - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
     - Submit by [@yomikoye](https://github.com/yomikoye)
      
-11. JAVA Code Guide
+11. ☕JAVA Code Guide
     - A JAVA Development Assistant focusing on coding standards and quality.
     - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
     - Submit by [@searle-dev](https://github.com/searle-dev)
@@ -437,17 +437,17 @@ Stay tuned for more updates and advancements!
     - [Chat now](https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder)
     - Submit by [@dougbutner](https://github.com/dougbutner)
 
-15. React Project Builder
+15. ⚛️ React Project Builder
     - Build out a full React project, from planning to code.
     - [Chat now](https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder)
     - Submit by [@dougbutner](https://github.com/dougbutner)
 
-16. Angular Project Builder
+16. 🅰️ Angular Project Builder
     - Let AI  angular project, from pseudocode to build-ready.
     - [Chat now](https://chat.openai.com/g/g-Wkhtm932I-angular-gpt-project-builder)
     - Submit by [@dougbutner](https://github.com/dougbutner)
 
-17. Svelte Project Builder
+17. 🌟 Svelte Project Builder
     - Build out a full app in svelte, from pseudocode to real code.
     - [Chat now](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder)
     - Submit by [@dougbutner](https://github.com/dougbutner)
