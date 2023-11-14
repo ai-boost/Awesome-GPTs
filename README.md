@@ -695,3 +695,8 @@ Stay tuned for more updates and advancements!
    - A (joke) GPT that disguises itself as a helpful source finder but will always return a link to a rick roll video.
    - [Chat now](https://chat.openai.com/g/g-yRhodZ91O-source-gpt)
    - Submit by [@thesamir](https://github.com/thesamir)
+
+9. 🌌 Galactic Reckoning: A Star Wars GPT Game (Lore Accurate)
+   - A GPT game that puts you in the Star Wars Universe. Create your character, choose your era, and make your place in the Galaxy!
+   - [Play now](https://chat.openai.com/g/galactic-reckoning)
+   - Submit by [@LaneBucher](https://github.com/LaneBucher)
