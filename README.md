@@ -403,100 +403,105 @@ Stay tuned for more updates and advancements!
    - Submit by [@dylandeheer](https://github.com/dylandeheer)
 
 ## Programming
-1. 💻Professional Coder (Auto programming)
+1. ⌨️ DevOps GPT: CloudOps Colleague
+   - AI coding expert for all cloud operation needs. Responds concisely with cost efficient and secure practices.
+   - [Chat now](https://chat.openai.com/g/g-tXRU6PcBN-devops-gpt)
+   - Submit by [@interestingsoup](https://github.com/InterestingSoup)
+
+2. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
    - [Chat now](https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming)
 
-2. 🎭h4ckGPT: Your personal security tool
+3. 🎭h4ckGPT: Your personal security tool
    - Security Research, Penetration Testing Techniques, Application Security, News & Updates, etc. h4ppy h4cking!
    - [Chat now](https://chat.openai.com/g/g-1ehIO0APO-h4ckgpt)
    - Submit by [@0xn0v](https://github.com/0xn0v)
 
-3. 🚀Python Seniorify: Intermediate Python Tutor
+4. 🚀Python Seniorify: Intermediate Python Tutor
    - Wise Python tutor focusing on advanced coding principles.
    - [Chat now](https://chat.openai.com/g/g-7f9OZrzC2-python-seniorify)
    - Submit by [@vasarmilan](https://github.com/vasarmilan)
 
-4. 💡JavaScript Novice Guide: Beginner-Friendly Tutor
+5. 💡JavaScript Novice Guide: Beginner-Friendly Tutor
    - Clear explanations and practice exercises for JavaScript beginners.
    - [Chat now](https://chat.openai.com/g/g-jLBbUesMD-javascript-novice-guide)
    - Submit by [@vasarmilan](https://github.com/vasarmilan)
 
-5. 📊Data Science Project Generator: Project Suggestions
+6. 📊Data Science Project Generator: Project Suggestions
    - Offers data science project ideas and tips.
    - [Chat now](https://chat.openai.com/g/g-fvy71gm4A-data-science-project-generator)
    - Submit by [@vasarmilan](https://github.com/vasarmilan)
 
-6. 🐍Python Tutor: Example-Focused Learning
+7. 🐍Python Tutor: Example-Focused Learning
    - Concise Python programming tutor for beginners to intermediates.
    - [Chat now](https://chat.openai.com/g/g-WhUWAi2EA-python-tutor)
    - Submit by [@vasarmilan](https://github.com/vasarmilan)
-     
-7. 🐉Colab Code Crafter: Google Colab Code
+
+8. 🐉Colab Code Crafter: Google Colab Code
    - Get Python code from a GPT tuned to make code that runs in the Google Colaboratory environment.
    - [Chat now](https://chat.openai.com/g/g-kqbmidwnU-colab-code-crafter)
    - Submit by [@David-Deans](https://github.com/David-Deans)
 
-8. 🖥️Vue3 GPT
+9. 🖥️  Vue3 GPT
    - A Vue.js 3 coding assistant, always up-to-date with the latest official documentation and presets for a quick choice of your prefered API and syntax
    - [Chat now](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
    - Submit by [@luona-dev](https://github.com/luona-dev)
-  
-9. 🤓Code Companion
+
+10. 🤓Code Companion
    - I'm a Python specialist here to help you code and learn!
    - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
    - Submit by [@drsoupyy](https://github.com/drsoupyy)
-  
-10. ☁️CloudGPT: Learn Cloud and DevOps
+
+11. ☁️CloudGPT: Learn Cloud and DevOps
     - Your personal Cloud and DevOps Mentor.
     - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
     - Submit by [@yomikoye](https://github.com/yomikoye)
-     
-11. ☕JAVA Code Guide
+
+12. ☕JAVA Code Guide
     - A JAVA Development Assistant focusing on coding standards and quality.
     - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
     - Submit by [@searle-dev](https://github.com/searle-dev)
 
-12. 🤠 Repo Ranger
+13. 🤠 Repo Ranger
     - Your go-to sheriff for web-based code insights and security checks.
     - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
     - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
 
-13. 🧑‍💻 Code Whiz Pro
+14. 🧑<200d>💻 Code Whiz Pro
     - Provides insightful code reviews with a humorous twist.
     - [Chat now](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
     - Submit by [@davidemarcoli](https://github.com/davidemarcoli)
-      
-14. 🧞 Node.js Project Builder
+
+15. 🧞 Node.js Project Builder
     - Build out a full node.js project, from skeleton to build-ready.
     - [Chat now](https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder)
     - Submit by [@dougbutner](https://github.com/dougbutner)
 
-15. ⚛️ React Project Builder
+16. ⚛️ React Project Builder
     - Build out a full React project, from planning to code.
     - [Chat now](https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder)
     - Submit by [@dougbutner](https://github.com/dougbutner)
 
-16. 🅰️ Angular Project Builder
+17. 🅰️   Angular Project Builder
     - Let AI  angular project, from pseudocode to build-ready.
     - [Chat now](https://chat.openai.com/g/g-Wkhtm932I-angular-gpt-project-builder)
     - Submit by [@dougbutner](https://github.com/dougbutner)
 
-17. 🌟 Svelte Project Builder
+18. 🌟 Svelte Project Builder
     - Build out a full app in svelte, from pseudocode to real code.
     - [Chat now](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder)
     - Submit by [@dougbutner](https://github.com/dougbutner)
-   
-9. 🤖 Github Repo Assistant
+
+19. 🤖 Github Repo Assistant
    - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
    - [Try it now](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant)
    - Submitted by [@thesamir](https://github.com/thesamir)
 
-9. 🖥️ PC Builder GPT
+20. 🖥️   PC Builder GPT
    - I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
    - [Chat now](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn) 
-     
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
