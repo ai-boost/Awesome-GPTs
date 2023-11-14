@@ -372,6 +372,11 @@ Stay tuned for more updates and advancements!
    - [Use now](https://chat.openai.com/g/g-ikwGM4grU-upscaler)
    - Submit by [@weisshb](https://github.com/weisshb)
 
+9. 📝 Self-Evaluation Assistant
+   - Interactive system for detailed self-evaluations in PDF format.
+   - [Chat now] (https://chat.openai.com/g/g-r8pTExDvL-self-evaluation-assistant)
+   - Submit by [@RaviMidda](https://github.com/middhaGH)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
