@@ -495,7 +495,12 @@ Stay tuned for more updates and advancements!
 9. 🖥️ PC Builder GPT
    - I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
    - [Chat now](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn) 
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+
+10. 🪙 XRPL GPT
+    - Build on the XRP Ledger with assistance from this GPT trained on extensive documentation and code samples.
+    - [Chat now](https://chat.openai.com/g/g-Sjy2xMl6f-xrpl-gpt)
+    - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
