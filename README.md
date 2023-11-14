@@ -503,10 +503,15 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-6mAmNGQof-supplement-service)
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
   
-10. 👨‍⚕️ Jordan Peterson
-    - Emulating Dr. Jordan B. Peterson's style in providing life advice and insights.
-    - [Chat now](https://chat.openai.com/g/g-1Ofm79uOS-jordan-peterson)
-    - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
+9. 👨‍⚕️ Jordan Peterson
+   - Emulating Dr. Jordan B. Peterson's style in providing life advice and insights.
+   - [Chat now](https://chat.openai.com/g/g-1Ofm79uOS-jordan-peterson)
+   - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
+  
+9. 🍽️ Meal Mate
+   - The Ultimate Meal Planning Assistant: Plan Around Dietary Restrictions, Budgetary Constraints, Nutritional Goals, Taste Preferences, & More!
+   - [Chat now](https://chat.openai.com/g/g-q0YZFTXKs-meal-mate)
+   - Submit by [@Jenlin956](https://github.com/Jenlin956)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
