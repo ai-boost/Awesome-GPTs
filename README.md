@@ -278,7 +278,7 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
 9. 📚 WebStract
    - Your autonomous, in-depth digital educator, guiding you through comprehensive, interactive learning experiences.
    - [Chat now](https://chat.openai.com/g/g-LaXsx7vXI-webstract)
-   - Submit by [@kylecoogan](https://github.com/kylecoogan
+   - Submit by [@kylecoogan](https://github.com/kylecoogan)
 
 9. 📊 Gantt Chart GPT
    - A project management assistant that can auto-generate an editable Gantt chart from your project files.
