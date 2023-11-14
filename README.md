@@ -497,10 +497,10 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
-10. 🪙 XRPL GPT
-    - Build on the XRP Ledger with assistance from this GPT trained on extensive documentation and code samples.
-    - [Chat now](https://chat.openai.com/g/g-Sjy2xMl6f-xrpl-gpt)
-    - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
+9. 🪙 XRPL GPT
+   - Build on the XRP Ledger with assistance from this GPT trained on extensive documentation and code samples.
+   - [Chat now](https://chat.openai.com/g/g-Sjy2xMl6f-xrpl-gpt)
+   - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
