@@ -523,9 +523,10 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-q0YZFTXKs-meal-mate)
    - Submit by [@Jenlin956](https://github.com/Jenlin956)
 
-10. ❤️BraceletGPT
+9. ❤️BraceletGPT
    - Create Your Own Gemstone Bracelets with Live 3D
    - [Chat now](https://chat.openai.com/g/g-CCIFE0bxP-braceletgpt)
+   - Submit by [@lucidbeads](https://github.com/lucidbeads)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
