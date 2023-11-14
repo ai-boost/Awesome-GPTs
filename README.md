@@ -734,4 +734,11 @@ Stay tuned for more updates and advancements!
 9. 🎇excel VBA magica
    - excel VBA magica[Create Excel VBA code easily].
    - [Chat now](https://chat.openai.com/g/g-MaUnLcGuA-vba-mabeobsa)
-   - Submit by [@himomohi](https://github.com/himomohi) 
+   - Submit by [@himomohi](https://github.com/himomohi)
+  
+9. 🎙️Roast Master
+   - Witty roasts for any and everything
+   - [Chat now](https://chat.openai.com/g/g-JgYcfMFRD-roast-master)
+   - Submit by [@arndom](https://github.com/arndom) 
+
+
