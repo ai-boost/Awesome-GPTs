@@ -607,11 +607,11 @@ Let's try🚀: https://chat.openai.com/g/g-imWUi8fVO-awesomegpts  [knowledge: 20
   
 9. 📖 Story Buddy
    - A creative guide to help kids to build their own bedtime stories, with illustrations. 
-   - [Build your own story](https://chat.openai.com/g/g-2k7EGyB1p-story-buddy)
+   - [Chat now](https://chat.openai.com/g/g-2k7EGyB1p-story-buddy)
    - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz)
   
-10. 👩🏿‍🦱 Dear Gabrielle
+9. 👩🏿‍🦱 Dear Gabrielle
    - Sassy, warm-hearted advice columnist offering humorous, insightful guidance. 
-   - [Dear Gabrielle...](https://chat.openai.com/g/g-PYchE5klx-dear-gabrielle)
+   - [Chat now](https://chat.openai.com/g/g-PYchE5klx-dear-gabrielle)
    - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz) 
 
