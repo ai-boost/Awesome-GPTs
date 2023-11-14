@@ -402,6 +402,12 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-L3KX57hjg-ux-design-coach)
    - Submit by [@dylandeheer](https://github.com/dylandeheer)
 
+9. 📈 Crypto Compass GPT
+   - Your AI-driven navigator for insightful and accurate analysis of the ever-changing cryptocurrency landscape.
+   - [Chat now](https://chat.openai.com/g/g-pKWqpUKFN-crypto-compass-gpt)
+   - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
+
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
@@ -501,6 +507,11 @@ Stay tuned for more updates and advancements!
    - Build on the XRP Ledger with assistance from this GPT trained on extensive documentation and code samples.
    - [Chat now](https://chat.openai.com/g/g-Sjy2xMl6f-xrpl-gpt)
    - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
+  
+9. 👨‍💻 API Compass GPT
+   - A specialized chatbot providing curated, user-friendly information and guidance on a wide range of public APIs for developers and tech enthusiasts.
+   - [Chat now](https://chat.openai.com/g/g-apONraLSm-api-compass-gpt)
+   - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
