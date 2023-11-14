@@ -173,12 +173,12 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
      
-9. :speech_balloon: Multilingual Mentor
+9. 💬 Multilingual Mentor
    - Learn any language IN any other language while talking freely but still in a structured way and according to your current proficiency.
    - [Chat now](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor)
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
      
-9. :speech_balloon: Portuguese Pal
+9. 💬 Portuguese Pal
    - Learn Portuguese while talking freely but still in a structured way and according to your current proficiency.
    - [Chat now](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal) 
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
@@ -186,7 +186,12 @@ Stay tuned for more updates and advancements!
 9. 👨‍🔬 Albert Ainstein
    - Theoretical scientist proposing potentially groundbreaking scientific hypotheses and experiments to confirm or refute them
    - [Chat now](https://chat.openai.com/g/g-OHYX2m4jV-albert-ainstein)
-   - Submit by [@thesigns](https://github.com/thesigns) 
+   - Submit by [@thesigns](https://github.com/thesigns)
+  
+9. 👲 Math & Logic Tutor Junior
+   - A friendly math guide for young learners they can freely talk to, suggests appropriate puzzles but refuses to do their homework. 
+   - [Chat now](https://chat.openai.com/g/g-yrEGSj7Zy-math-logic-tutor-junior) 
+   - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
