@@ -401,6 +401,11 @@ Stay tuned for more updates and advancements!
    - A GPT to help navigate the vast landscape of design challenges, offering advice on visual design, user research, human psychology, and more.
    - [Chat now](https://chat.openai.com/g/g-L3KX57hjg-ux-design-coach)
    - Submit by [@dylandeheer](https://github.com/dylandeheer)
+  
+9. ✒️ FictionAI
+   - Your ultimate fiction writing assistant 
+   - [Chat now](https://chat.openai.com/g/g-msMztAzYX-fictionai)
+   - Submit by [@GPTDuel](https://github.com/GPTDuel) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
