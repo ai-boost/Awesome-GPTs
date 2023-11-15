@@ -622,7 +622,12 @@ Stay tuned for more updates and advancements!
 9. 👚 Outfit Generator
    - I will help you create a matching outfit from an uploaded picture. I can generate a picture of matching outfit and search for such outfits on the web. 
    - [Chat now](https://chat.openai.com/g/g-csCTyILmx-outfit-generator)
-   - Submit by [@dre-hh](https://github.com/dre-hh) 
+   - Submit by [@dre-hh](https://github.com/dre-hh)
+
+9. 🍏 Nutri Tracker
+   - Strict and formal dietary supervisor for detailed calorie tracking.
+   - [Chat now](https://chat.openai.com/g/g-7cFbGmQHq-nutri-tracker)
+   - Submit by [@clk1st](https://github.com/clk1st) 
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
