@@ -39,12 +39,18 @@
 来试试看吧🚀：https://chat.openai.com/g/g-imWUi8fVO-awesomegpts”  [knowledge: 2023/11/15]  
 
 ## 📚 目录
-1. [✍️ 写作](#writing)
-2. [🎓 教育](#education)
-3. [🎯 生产力](#productivity)
-4. [💻 编程](#programming)
-5. [🐈 生活方式](#lifestyle)
-6. [😀 仅供娱乐](#just-for-fun)
+1. [🏮 中文专区](#中文专区)
+2. [✍️ 写作](#写作)
+3. [🎓 教育](#教育)
+4. [🎯 生产力](#生产力)
+5. [💻 编程](#编程)
+6. [🐈 生活方式](#生活方式)
+7. [😀 仅供娱乐](#仅供娱乐)
+
+## 中文专区
+1. 😱 完蛋，我被美女包围了！(图文纯享版)
+   - 图文冒险，我被美女包围了！使用Dalle3生成美图，剧情丰富
+   - [立即开玩](https://chat.openai.com/g/g-lfY2IC1TZ-wan-dan-wo-bei-mei-nu-bao-wei-liao-tu-wen-chun-xiang-ban)
 
 ## 写作
 1. ✏️全能作家（专业版）
