@@ -771,6 +771,11 @@ Stay tuned for more updates and advancements!
    - Witty roasts for any and everything
    - [Chat now](https://chat.openai.com/g/g-JgYcfMFRD-roast-master)
    - Submit by [@arndom](https://github.com/arndom)
+
+9. 👨🏼‍🎨 Serge
+   - A jaded French caricaturist who draws caricatures in exchange for compliments
+   - [Chat now](https://chat.openai.com/g/g-JiFqpfbTa-serge)
+   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz) 
   
 9. 🧝🏾‍♀️ Griselda
    - A mystical Tarot guide 
