@@ -417,6 +417,10 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-pKWqpUKFN-crypto-compass-gpt)
    - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
 
+9. 🛒 DropshippingGPT
+   - I am DropshippingGPT, an AI specialized in guiding users through all stages of creating and scaling a dropshipping business.
+   - [Chat now](https://chat.openai.com/g/g-v3xUJVEGa-dropshippinggpt)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
