@@ -430,7 +430,12 @@ Stay tuned for more updates and advancements!
 9. ✍️ Cover Letter GPT
    - Expert in creating tailored cover letters based on job descriptions
    - [Chat now](https://chat.openai.com/g/g-MYSzNumup-cover-letter-gpt)
-   - Submit by [@atharvtathe](https://github.com/atharvtathe) 
+   - Submit by [@atharvtathe](https://github.com/atharvtathe)
+  
+9. 📖 GPTs Manual-master
+   - Help people write user manuals for the APP
+   - [Chat now](https://chat.openai.com/g/g-qrdHDm7n1-manual-master.)
+   - Submit by [@Sollarzoo](https://github.com/Sollarzoo) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
