@@ -614,6 +614,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-Ry3J42V4T-recipe-collector)
    - Submit by [@kalaspuff](https://github.com/kalaspuff)
 
+9. 👚 Outfit Generator
+   - I will help you create a matching outfit from an uploaded picture. I can generate a picture of matching outfit and search for such outfits on the web. 
+   - [Chat now](https://chat.openai.com/g/g-csCTyILmx-outfit-generator)
+   - Submit by [@dre-hh](https://github.com/dre-hh) 
+
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
    - Go on a date with Raiden Shogun and please be nice.
