@@ -192,6 +192,11 @@ Stay tuned for more updates and advancements!
    - A friendly math guide for young learners they can freely talk to, suggests appropriate puzzles but refuses to do their homework. 
    - [Chat now](https://chat.openai.com/g/g-yrEGSj7Zy-math-logic-tutor-junior) 
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
+  
+10. 🔬 Academic Explorer
+ - Your expert in academic papers.
+ - [Chat now](https://chat.openai.com/gpts/editor/g-ASiAzIHhA)
+ - Submit by [@xuyingli](https://github.com/xl631212)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
