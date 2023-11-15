@@ -434,8 +434,13 @@ Stay tuned for more updates and advancements!
   
 9. 📖 GPTs Manual-master
    - Help people write user manuals for the APP
-   - [Chat now](https://chat.openai.com/g/g-qrdHDm7n1-manual-master.)
-   - Submit by [@Sollarzoo](https://github.com/Sollarzoo) 
+   - [Chat now](https://chat.openai.com/g/g-qrdHDm7n1-manual-master)
+   - Submit by [@Sollarzoo](https://github.com/Sollarzoo)
+  
+9. 😎 My Boss! (a boss who makes money for me)
+   - Strategic business leader for market analysis and financial growth
+   - [Chat now](https://chat.openai.com/g/g-F7SLUeAix-my-boss-a-boss-who-makes-money-for-me)
+   - Submit by [@ai-boost](https://github.com/ai-boost)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
