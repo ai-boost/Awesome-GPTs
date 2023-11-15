@@ -821,3 +821,8 @@ Stay tuned for more updates and advancements!
    - An AI that creates new Pokémon based on a power level, types, and design guidelines.
    - [Chat now](https://chat.openai.com/g/g-lkMdAnYdf-pokemon-master-generate-new-pokemon)
    - Submit by [@pacsanmanu](https://github.com/pacsanmanu) 
+
+9. 💗 Love Me or Not
+   - In-depth romantic chat analysis with detailed scoring and advice.
+   - [Chat now](https://chat.openai.com/g/g-vbiqpxTzi-love-me-or-not)
+   - Submit by [@Doujiang2333](https://github.com/Doujiang2333) 
