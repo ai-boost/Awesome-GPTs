@@ -518,11 +518,17 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-Sjy2xMl6f-xrpl-gpt)
    - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
   
+9. ⬜ Whitebox
+   - Collection of open-source programming templates to kickstart your own programming assistants.
+   - [Chat now](https://github.com/Decron/Whitebox-Code-GPT)
+   - Submit by [@Decron](https://github.com/Decron/Whitebox-Code-GPT)
+
 9. 👨‍💻 API Compass GPT
    - A specialized chatbot providing curated, user-friendly information and guidance on a wide range of public APIs for developers and tech enthusiasts.
    - [Chat now](https://chat.openai.com/g/g-apONraLSm-api-compass-gpt)
    - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
-     
+
+
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
@@ -771,6 +777,11 @@ Stay tuned for more updates and advancements!
    - Witty roasts for any and everything
    - [Chat now](https://chat.openai.com/g/g-JgYcfMFRD-roast-master)
    - Submit by [@arndom](https://github.com/arndom)
+
+9. 🤯 An Emoji GPT
+   - Armed with the wisdom of a hundred generations, my mission is to select the best emoji for each and every situation.
+   - [Chat now](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt)
+   - Submit by [@Decron](https://github.com/Decron/Whitebox-Code-GPT)
 
 9. 👨🏼‍🎨 Serge
    - A jaded French caricaturist who draws caricatures in exchange for compliments
