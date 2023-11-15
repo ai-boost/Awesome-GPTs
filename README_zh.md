@@ -35,7 +35,7 @@
 刚刚设计了一个新的GPT，取名为AwesomeGPTs（和那个仓库的名字一样，挺有意思的😂）。
 它是一款可以根据用户提问推荐优秀GPT的工具。
 在Awesome-GPTs的列表中的所有GPT都可能被推荐给用户。
-（**这意味着你的GPT也有机会被推荐哦！**🎉🎉🎉）
+（ **这意味着你的GPT也有机会被推荐哦！** 🎉🎉🎉）
 来试试看吧🚀：https://chat.openai.com/g/g-imWUi8fVO-awesomegpts”  [knowledge: 2023/11/15]  
 
 ## 📚 目录
