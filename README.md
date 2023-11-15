@@ -425,7 +425,12 @@ Stay tuned for more updates and advancements!
 9. 🛒 DropshippingGPT
    - I am DropshippingGPT, an AI specialized in guiding users through all stages of creating and scaling a dropshipping business.
    - [Chat now](https://chat.openai.com/g/g-v3xUJVEGa-dropshippinggpt)
-   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn) 
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+
+9. ✍️ Cover Letter GPT
+   - Expert in creating tailored cover letters based on job descriptions
+   - [Chat now](https://chat.openai.com/g/g-MYSzNumup-cover-letter-gpt)
+   - Submit by [@atharvtathe](https://github.com/atharvtathe) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
