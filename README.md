@@ -173,12 +173,12 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
      
-9. :speech_balloon: Multilingual Mentor
+9. 💬 Multilingual Mentor
    - Learn any language IN any other language while talking freely but still in a structured way and according to your current proficiency.
    - [Chat now](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor)
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
      
-9. :speech_balloon: Portuguese Pal
+9. 💬 Portuguese Pal
    - Learn Portuguese while talking freely but still in a structured way and according to your current proficiency.
    - [Chat now](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal) 
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
@@ -186,7 +186,12 @@ Stay tuned for more updates and advancements!
 9. 👨‍🔬 Albert Ainstein
    - Theoretical scientist proposing potentially groundbreaking scientific hypotheses and experiments to confirm or refute them
    - [Chat now](https://chat.openai.com/g/g-OHYX2m4jV-albert-ainstein)
-   - Submit by [@thesigns](https://github.com/thesigns) 
+   - Submit by [@thesigns](https://github.com/thesigns)
+  
+9. 👲 Math & Logic Tutor Junior
+   - A friendly math guide for young learners they can freely talk to, suggests appropriate puzzles but refuses to do their homework. 
+   - [Chat now](https://chat.openai.com/g/g-yrEGSj7Zy-math-logic-tutor-junior) 
+   - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
@@ -401,6 +406,17 @@ Stay tuned for more updates and advancements!
    - A GPT to help navigate the vast landscape of design challenges, offering advice on visual design, user research, human psychology, and more.
    - [Chat now](https://chat.openai.com/g/g-L3KX57hjg-ux-design-coach)
    - Submit by [@dylandeheer](https://github.com/dylandeheer)
+  
+9. ✒️ FictionAI
+   - Your ultimate fiction writing assistant 
+   - [Chat now](https://chat.openai.com/g/g-msMztAzYX-fictionai)
+   - Submit by [@GPTDuel](https://github.com/GPTDuel) 
+
+9. 📈 Crypto Compass GPT
+   - Your AI-driven navigator for insightful and accurate analysis of the ever-changing cryptocurrency landscape.
+   - [Chat now](https://chat.openai.com/g/g-pKWqpUKFN-crypto-compass-gpt)
+   - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
+
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
@@ -506,7 +522,13 @@ Stay tuned for more updates and advancements!
    - Collection of open-source programming templates to kickstart your own programming assistants.
    - [Chat now](https://github.com/Decron/Whitebox-Code-GPT)
    - Submit by [@Decron](https://github.com/Decron/Whitebox-Code-GPT)
-     
+
+9. 👨‍💻 API Compass GPT
+   - A specialized chatbot providing curated, user-friendly information and guidance on a wide range of public APIs for developers and tech enthusiasts.
+   - [Chat now](https://chat.openai.com/g/g-apONraLSm-api-compass-gpt)
+   - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
+
+
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
@@ -567,6 +589,11 @@ Stay tuned for more updates and advancements!
    - A fashion expert for outfit selection, replication and shopping assistance.
    - [Chat now](https://chat.openai.com/g/g-qzQo9dhn6-the-stylist)
    - Submit by [@LaneBucher](https://github.com/LaneBucher)
+
+9. 🍱 Recipe Collector
+   - Structured recipes for food and desserts – ingredient lists and step-by-step recipe instructions from any input. Become surprised, try something new or breathe life into grandma's old recipe notebook.
+   - [Chat now](https://chat.openai.com/g/g-Ry3J42V4T-recipe-collector)
+   - Submit by [@kalaspuff](https://github.com/kalaspuff)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
@@ -755,6 +782,18 @@ Stay tuned for more updates and advancements!
    - Armed with the wisdom of a hundred generations, my mission is to select the best emoji for each and every situation.
    - [Chat now](https://chat.openai.com/g/g-mvOpDRXMz-an-emoji-gpt)
    - Submit by [@Decron](https://github.com/Decron/Whitebox-Code-GPT)
+
+9. 👨🏼‍🎨 Serge
+   - A jaded French caricaturist who draws caricatures in exchange for compliments
+   - [Chat now](https://chat.openai.com/g/g-JiFqpfbTa-serge)
+   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz) 
+  
+9. 🧝🏾‍♀️ Griselda
+   - A mystical Tarot guide 
+   - [Chat now](https://chat.openai.com/g/g-BsLFiAtkF-griselda)
+   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz)
     
-
-
+9. 🐰 Pipkin Pippa
+   - An AI that tries its best to become Pipkin Pippa
+   - [Chat now](https://chat.openai.com/g/g-852q9R0Dv-pipkin-pippa)
+   - Submit by [@jilv220](https://github.com/jilv220) 
