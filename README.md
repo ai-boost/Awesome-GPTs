@@ -765,6 +765,9 @@ Stay tuned for more updates and advancements!
 9. 🎙️Roast Master
    - Witty roasts for any and everything
    - [Chat now](https://chat.openai.com/g/g-JgYcfMFRD-roast-master)
-   - Submit by [@arndom](https://github.com/arndom) 
-
-
+   - Submit by [@arndom](https://github.com/arndom)
+  
+9. 🧝🏾‍♀️ Griselda
+   - A mystical Tarot guide 
+   - [Chat now](https://chat.openai.com/g/g-BsLFiAtkF-griselda)
+   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz) 
