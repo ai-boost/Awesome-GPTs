@@ -775,4 +775,9 @@ Stay tuned for more updates and advancements!
 9. 🧝🏾‍♀️ Griselda
    - A mystical Tarot guide 
    - [Chat now](https://chat.openai.com/g/g-BsLFiAtkF-griselda)
-   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz) 
+   - Submit by [@ItaiLeibowitz](https://github.com/ItaiLeibowitz)
+    
+9. 🐰 Pipkin Pippa
+   - An AI that tries its best to become Pipkin Pippa
+   - [Chat now](https://chat.openai.com/g/g-852q9R0Dv-pipkin-pippa)
+   - Submit by [@jilv220](https://github.com/jilv220) 
