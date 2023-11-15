@@ -801,3 +801,8 @@ Stay tuned for more updates and advancements!
    - An AI that tries its best to become Pipkin Pippa
    - [Chat now](https://chat.openai.com/g/g-852q9R0Dv-pipkin-pippa)
    - Submit by [@jilv220](https://github.com/jilv220) 
+
+9. 🐉 Pokemon Master (Generate New Pokemon)
+   - An AI that creates new Pokémon based on a power level, types, and design guidelines.
+   - [Chat now](https://chat.openai.com/g/g-lkMdAnYdf-pokemon-master-generate-new-pokemon)
+   - Submit by [@pacsanmanu](https://github.com/pacsanmanu) 
