@@ -888,6 +888,11 @@ Stay tuned for more updates and advancements!
    - An alchemist interpreting the world symbolically.
    - [Chat now](https://chat.openai.com/g/g-zWDo8uJdI-alchemist-gpt)
    - Submit by [@benjifriedman](https://github.com/benjifriedman)
+  
+9. ☄️ Sci-Fi Explorer
+   - Sci-fi aficionado guiding through films, series, books, mangas, and games.
+   - [Chat now](https://chat.openai.com/g/g-8C1drdxZ9-sci-fi-explorer)
+   - Submit by [@roadToCoder](https://github.com/RoadToCoder) 
 
 
 ## Weather
