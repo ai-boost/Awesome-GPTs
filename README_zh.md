@@ -233,6 +233,11 @@
    - 座位寻找者擅长高效地协助用户根据大致位置寻找具有特定便利设施的公共座位。
    - [立即聊天](https://chat.openai.com/g/g-3AQM5NfzA-seat-seeker)
    - 由[@HeyitsRadinn](https://github.com/HeyitsRadinn) 提交
+     
+4. 💐鲜花教练GPT
+   - 用显化知识疗愈你，当你面临：🌘人生困境，💵显化财务丰盛，💞吸引sp，❤️‍🩹修复关系等问题时。同时结合内维尔等人的领域著作提供专业的显化技巧指导。
+   - [立即聊天](https://chat.openai.com/g/g-KiHAeQhaW-manifestation-coach)
+   - 由[@xl631212](https://github.com/xl631212)提交
 
 ## 仅供娱乐
 1. ❤️与雷电将军约会
