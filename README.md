@@ -457,6 +457,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-LrNKhqZfA-there-s-an-api-for-that-the-1-api-finder)
    - Submit by [@alric05](https://github.com/alric05)
 
+9. 📅 Event Planner Pro
+   - Logistician for comprehensive event planning and management.
+   - [Chat now](https://chat.openai.com/g/g-VuduTp7P0-event-planner-pro)
+   - Submit by [@ignatg](https://github.com/ignatg)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
@@ -643,6 +648,11 @@ Stay tuned for more updates and advancements!
    - Strict and formal dietary supervisor for detailed calorie tracking.
    - [Chat now](https://chat.openai.com/g/g-7cFbGmQHq-nutri-tracker)
    - Submit by [@clk1st](https://github.com/clk1st) 
+
+9. ⛲ Wellness Guide
+   - Mental health adviser offering strategies for emotional and mental well-being.
+   - [Chat now](https://chat.openai.com/g/g-7cFbGmQHq-nutri-tracker)
+   - Submit by [@ignatg](https://github.com/ignatg) 
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
