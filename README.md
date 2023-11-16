@@ -198,6 +198,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/gpts/editor/g-ASiAzIHhA)
    - Submit by [@xuyingli](https://github.com/xl631212)
 
+9. 📝Gauthmath (Your All-in-one Homework Helper)
+   - The ultimate solution to All types of math problems with 1 billion+ math questions in GPT4s knowledge base.
+   - [Chat now](https://chat.openai.com/g/g-R8U0NFyIo-gauthmath)
+   - Submit by [@cauyxy](https://github.com/cauyxy)
+
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
    - A professional logo designer capable of creating high-level logos in a variety of different styles.
