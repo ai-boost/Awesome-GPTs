@@ -467,6 +467,11 @@ Stay tuned for more updates and advancements!
    - Logistician for comprehensive event planning and management.
    - [Chat now](https://chat.openai.com/g/g-VuduTp7P0-event-planner-pro)
    - Submit by [@ignatg](https://github.com/ignatg)
+  
+9. 🖼️ Art Companion
+   - A Guide Through the Creative and Professional Worlds of Art
+   - [Chat now](https://chat.openai.com/g/g-1dEwOItVl-art-companion)
+   - Submit by [@nolattosio](https://github.com/Nolattosio)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
