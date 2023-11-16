@@ -645,7 +645,7 @@ Stay tuned for more updates and advancements!
    - Submit by [@clk1st](https://github.com/clk1st)
 
 9. 💛 Manifestation Coach
-   - Offers guidance using manifestation knowledge in areas: 🌘facing life dilemmas, 💵manifesting financial abundance, 💞attracting specific persons, ❤️‍🩹relationship recovery, integrating the principles of renowned literature like the teachings of Neville.
+   - Offers guidance using manifestation knowledge in areas: 🌘facing life dilemmas, 💵manifesting financial abundance, 💞attracting specific persons
    - [Chat now](https://chat.openai.com/g/g-KiHAeQhaW-manifestation-coach)
    - Submit by [@xl631212](https://github.com/xl631212)
      
