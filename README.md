@@ -845,4 +845,9 @@ Stay tuned for more updates and advancements!
 9. 💗 Love Me or Not
    - In-depth romantic chat analysis with detailed scoring and advice.
    - [Chat now](https://chat.openai.com/g/g-vbiqpxTzi-love-me-or-not)
-   - Submit by [@Doujiang2333](https://github.com/Doujiang2333) 
+   - Submit by [@Doujiang2333](https://github.com/Doujiang2333)
+
+9. 🧙‍♂️ Meme Magic
+   - A creative Meme Wizard. Just describe the meme you want.
+   - [Chat now](https://chat.openai.com/g/g-SQTa6OMNN-meme-magic)
+   - Submit by [@LifeofCypher](https://github.com/LifeOfCypher)
