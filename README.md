@@ -856,3 +856,10 @@ Stay tuned for more updates and advancements!
    - A creative Meme Wizard. Just describe the meme you want.
    - [Chat now](https://chat.openai.com/g/g-SQTa6OMNN-meme-magic)
    - Submit by [@LifeofCypher](https://github.com/LifeOfCypher)
+
+10. 🦧 Alchemist GPT
+   - An alchemist interpreting the world symbolically.
+   - [Chat now](https://chat.openai.com/g/g-zWDo8uJdI-alchemist-gpt)
+   - Submit by [@benjifriedman](https://github.com/benjifriedman)
+
+   
