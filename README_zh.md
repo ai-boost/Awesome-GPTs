@@ -108,6 +108,11 @@
    - 一款能帮助理解简单和复杂的统计和机器学习概念的GPT
    - [立即聊天](https://chat.openai.com/g/g-dVh4g5uuv-statsml-helper)
    - 由[@pak0vskiy](https://github.com/pak0vskiy) 提交
+  
+9. 🎓AiTA: 大学课程辅导老师
+   - 你的大学课程私教，结合你的**课件**和**作业**提供量身定制的课程辅导。
+   - [立即聊天](https://chat.openai.com/g/g-ikoYokxKr-aita-personal-college-tutor)
+   - 由 [@xl631212](https://github.com/xl631212) 提交
 
 ## 生产力
 1. 🦄Logo设计师（专业版）
