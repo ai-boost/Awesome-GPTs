@@ -442,6 +442,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-F7SLUeAix-my-boss-a-boss-who-makes-money-for-me)
    - Submit by [@ai-boost](https://github.com/ai-boost)
 
+9. 📊 GoogleAnalytics Guru
+    - Marketing partner specializing in website analysis and optimization metrics with Google Analytics
+    - [Chat now](https://chat.openai.com/g/g-fKYMc2NU0-googleanalytics-guru)
+    - Submit by [@Xenren](https://github.com/Xenren)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
