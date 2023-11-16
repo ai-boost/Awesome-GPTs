@@ -652,7 +652,13 @@ Stay tuned for more updates and advancements!
 9. 🍏 Nutri Tracker
    - Strict and formal dietary supervisor for detailed calorie tracking.
    - [Chat now](https://chat.openai.com/g/g-7cFbGmQHq-nutri-tracker)
-   - Submit by [@clk1st](https://github.com/clk1st) 
+   - Submit by [@clk1st](https://github.com/clk1st)
+
+9. 💛 Manifestation Coach
+   - Offers guidance using manifestation knowledge in areas: 🌘facing life dilemmas, 💵manifesting financial abundance, 💞attracting specific persons
+   - [Chat now](https://chat.openai.com/g/g-KiHAeQhaW-manifestation-coach)
+   - Submit by [@xl631212](https://github.com/xl631212)
+     
 
 9. ⛲ Wellness Guide
    - Mental health adviser offering strategies for emotional and mental well-being.
