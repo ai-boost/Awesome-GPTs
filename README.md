@@ -669,7 +669,12 @@ Stay tuned for more updates and advancements!
 9. ⛲ Wellness Guide
    - Mental health adviser offering strategies for emotional and mental well-being.
    - [Chat now](https://chat.openai.com/g/g-7cFbGmQHq-nutri-tracker)
-   - Submit by [@ignatg](https://github.com/ignatg) 
+   - Submit by [@ignatg](https://github.com/ignatg)
+  
+9. 🥬 IsHealthy? GPT
+   - Helping you make healthier food decisions.
+   - [Chat now](https://chat.openai.com/g/g-eAdHCpZxn-ishealthy)
+   - Submit by [@pinkeshmars](https://github.com/pinkeshmars) 
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
