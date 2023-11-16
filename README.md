@@ -57,6 +57,7 @@ Stay tuned for more updates and advancements!
 4. [💻 Programming](#programming)
 5. [🐈 Lifestyle](#lifestyle)
 6. [😀 Just for Fun](#just-for-fun)
+7. [☂  Weather](#weahter)
 
 ## Writing
 1. ✏️All-around Writer (Professional Version)
@@ -867,4 +868,10 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-zWDo8uJdI-alchemist-gpt)
    - Submit by [@benjifriedman](https://github.com/benjifriedman)
 
-   
+
+## Weather
+
+1. 🌨 Harold the Weather Painter
+   - weather in a impressionistic style
+   - [Chat now](https://chat.openai.com/g/g-QVitiCB0k-harold-the-weather-painter)
+   - Submit by [@mountain](https://github.com/mountain)

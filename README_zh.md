@@ -172,6 +172,12 @@
    - 你的视频编辑和为项目创建定制图片的首选伙伴。
    - [立即聊天](https://chat.openai.com/g/g-ZhPbXQIr5-editgpt)
    - 由[@HeyitsRadinn](https://github.com/HeyitsRadinn) 提交
+
+9. ✍学术论文翻译
+   - 将专业学术论文翻译成浅显易懂的文章
+   - [立即聊天](https://chat.openai.com/g/g-qaiAOmZO7-xue-zhu-lun-wen-fan-yi)
+   - 由[@mountain](https://github.com/mountain) 提交
+
   
 ## 编程
 1. 💻专业程序员（自动编程）
