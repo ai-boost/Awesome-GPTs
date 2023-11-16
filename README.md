@@ -857,7 +857,7 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-SQTa6OMNN-meme-magic)
    - Submit by [@LifeofCypher](https://github.com/LifeOfCypher)
 
-10. 🦧 Alchemist GPT
+9. 🦧 Alchemist GPT
    - An alchemist interpreting the world symbolically.
    - [Chat now](https://chat.openai.com/g/g-zWDo8uJdI-alchemist-gpt)
    - Submit by [@benjifriedman](https://github.com/benjifriedman)
