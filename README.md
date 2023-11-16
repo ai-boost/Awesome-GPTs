@@ -202,6 +202,11 @@ Stay tuned for more updates and advancements!
    - The ultimate solution to All types of math problems with 1 billion+ math questions in GPT4s knowledge base.
    - [Chat now](https://chat.openai.com/g/g-R8U0NFyIo-gauthmath)
    - Submit by [@cauyxy](https://github.com/cauyxy)
+  
+9. 🎓AiTA: Personal College Tutor
+   - Your personal AI tutor for college learning, offering tailored support in your **lecture notes** and **question sheets**.
+   - [Chat now](https://chat.openai.com/g/g-ikoYokxKr-aita-personal-college-tutor)
+   - Submit by [@xl631212](https://github.com/xl631212)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
