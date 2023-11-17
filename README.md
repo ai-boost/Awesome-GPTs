@@ -478,6 +478,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-1dEwOItVl-art-companion)
    - Submit by [@nolattosio](https://github.com/Nolattosio)
 
+9.🧭 Career Navigator
+   - Generate career roadmaps from CVs and user goals. Mock interview / reverse interview for job postings.
+   - [Chat now](https://chat.openai.com/g/g-1vvZDo6lA-career-navigator/)
+   - Submit by [@CeamKrier](https://github.com/CeamKriert)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
