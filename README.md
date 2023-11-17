@@ -906,8 +906,13 @@ Stay tuned for more updates and advancements!
 9. ☄️ Sci-Fi Explorer
    - Sci-fi aficionado guiding through films, series, books, mangas, and games.
    - [Chat now](https://chat.openai.com/g/g-8C1drdxZ9-sci-fi-explorer)
-   - Submit by [@roadToCoder](https://github.com/RoadToCoder)
+   - Submit by [@roadToCoder](https://github.com/RoadToCoder) 
   
+9. ✒ Verbal IQ Evaluator
+   - Evaluates language quality of texts, responds with a numerical score between 50-150.
+   - [Chat now](https://chat.openai.com/g/g-UtR8wxqGB-verbal-iq-evaluator)
+   - Submit by [@FeralDrak](https://github.com/FeralDrak) 
+
 9. ☄️ Rizzed.app - AI Dating Coach 
    - Free AI Online Dating Coach for Tinder, Bumble and others dating platforms. Improve you profile, rizz and enjoy dating even more!
    - [Chat now](https://rizzed.app)
