@@ -680,6 +680,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-eAdHCpZxn-ishealthy)
    - Submit by [@pinkeshmars](https://github.com/pinkeshmars) 
 
+9. ☸ Buddha GPT
+   - An insightful guide across Buddhist teachings.
+   - [Chat now](https://chat.openai.com/g/g-hPQ32MZpt-buddha-gpt)
+   - Submit by [@FredRosa](https://github.com/FredRosa)    
+
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
    - Go on a date with Raiden Shogun and please be nice.
