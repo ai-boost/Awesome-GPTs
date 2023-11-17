@@ -602,6 +602,11 @@ Stay tuned for more updates and advancements!
     - Expert in Go programming language
     - [Chat now](https://chat.openai.com/g/g-TlAwIPNJJ-gocode-guru)
     - Submit by [@makyfj](https://github.com/makyfj)
+  
+9. 🌌 Photo Multiverse
+   - Upload your selfie photo and teleport to a new destination background
+   - [Chat now](https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse)
+   - Submit by [@sablevista](https://github.com/SableVista)
 
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
