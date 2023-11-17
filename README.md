@@ -478,10 +478,15 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-1dEwOItVl-art-companion)
    - Submit by [@nolattosio](https://github.com/Nolattosio)
 
-9.🧭 Career Navigator
+9. 🧭 Career Navigator
    - Generate career roadmaps from CVs and user goals. Mock interview / reverse interview for job postings.
    - [Chat now](https://chat.openai.com/g/g-1vvZDo6lA-career-navigator/)
    - Submit by [@CeamKrier](https://github.com/CeamKriert)
+
+9. 📕 Scholarly Insight
+   - Scholarly Insight's primary focus is to assist users in understanding the research background, objectives, methods, and results of academic papers.
+   - [Chat now](https://chat.openai.com/g/g-ps43dQHYB-scholarly-insight)
+   - Submit by [@Ivan](https://github.com/quang-Ivan) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
