@@ -209,6 +209,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-ikoYokxKr-aita-personal-college-tutor)
    - Submit by [@xl631212](https://github.com/xl631212)
 
+9. 🧠 Anki Master
+   - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
+   - [Chat now](https://chat.openai.com/g/g-lJ8YsPj51-anki-master)
+   - Submit by [@jyboy](https://github.com/jyboy)
+
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
    - A professional logo designer capable of creating high-level logos in a variety of different styles.
