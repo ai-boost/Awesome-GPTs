@@ -907,7 +907,7 @@ Stay tuned for more updates and advancements!
 9. ☄️ Rizzed.app - AI Dating Coach 
    - Free AI Online Dating Coach for Tinder, Bumble and others dating platforms. Improve you profile, rizz and enjoy dating even more!
    - [Chat now](https://rizzed.app)
-
+   - Submit by [@Grinius](https://github.com/Grinius)
 
 ## Weather
 
