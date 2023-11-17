@@ -44,7 +44,7 @@ Exciting news! We've just rolled out our very own GPT creation, aptly named **Aw
 
 🎉 **Your GPTs Featured**: Here's the thrilling part – your GPT models can also be recommended! This means more visibility and engagement for your contributions.
 
-🔗 **Give it a Try!** Eager to see AwesomeGPTs in action? Check it out here: [AwesomeGPTs Live Demo](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) (Knowledge cut-off: 2023/11/15). Experience firsthand how it brings the world of GPTs closer to the community.
+🔗 **Give it a Try!** Eager to see AwesomeGPTs in action? Check it out here: [AwesomeGPTs Live Demo](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) (Knowledge cut-off: 2023/11/17). Experience firsthand how it brings the world of GPTs closer to the community.
 
 Stay tuned for more updates and advancements!
 
