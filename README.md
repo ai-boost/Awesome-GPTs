@@ -906,8 +906,12 @@ Stay tuned for more updates and advancements!
 9. ☄️ Sci-Fi Explorer
    - Sci-fi aficionado guiding through films, series, books, mangas, and games.
    - [Chat now](https://chat.openai.com/g/g-8C1drdxZ9-sci-fi-explorer)
-   - Submit by [@roadToCoder](https://github.com/RoadToCoder) 
-
+   - Submit by [@roadToCoder](https://github.com/RoadToCoder)
+  
+9. ☄️ Rizzed.app - AI Dating Coach 
+   - Free AI Online Dating Coach for Tinder, Bumble and others dating platforms. Improve you profile, rizz and enjoy dating even more!
+   - [Chat now](https://rizzed.app)
+   - Submit by [@Grinius](https://github.com/Grinius)
 
 ## Weather
 
