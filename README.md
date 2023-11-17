@@ -486,7 +486,17 @@ Stay tuned for more updates and advancements!
 9. 📕 Scholarly Insight
    - Scholarly Insight's primary focus is to assist users in understanding the research background, objectives, methods, and results of academic papers.
    - [Chat now](https://chat.openai.com/g/g-ps43dQHYB-scholarly-insight)
-   - Submit by [@Ivan](https://github.com/quang-Ivan) 
+   - Submit by [@Ivan](https://github.com/quang-Ivan)
+  
+9. 🏞 Universal Poetic Painter
+   - From words to wonders: where poetry paints the universe. Help you to visualize any poem in any language.
+   - [Chat now](https://chat.openai.com/g/g-zgk19leeM-universal-poetic-painter)
+   - Submit by [@windviki](https://github.com/windviki)
+
+9. 🏮 Chinese Couplet Sage
+   - Stringent expert in traditional Chinese couplets, dedicated to fixed code analysis for harmonious and creative compositions.
+   - [Chat now](https://chat.openai.com/g/g-QIafA59k8-chinese-couplet-sage)
+   - Submit by [@windviki](https://github.com/windviki)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
