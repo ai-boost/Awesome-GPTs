@@ -583,6 +583,10 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-apONraLSm-api-compass-gpt)
    - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
 
+9. 🌐 getsite9000
+    - Create a personal or business website and host it.
+    - [Chat now](https://chat.openai.com/g/g-SgR7h0b2T-getsite9000)
+    - Submit by [@morion4000](https://github.com/morion4000)
 
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
@@ -909,6 +913,10 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-UtR8wxqGB-verbal-iq-evaluator)
    - Submit by [@FeralDrak](https://github.com/FeralDrak) 
 
+9. ☄️ Rizzed.app - AI Dating Coach 
+   - Free AI Online Dating Coach for Tinder, Bumble and others dating platforms. Improve you profile, rizz and enjoy dating even more!
+   - [Chat now](https://rizzed.app)
+   - Submit by [@Grinius](https://github.com/Grinius)
 
 ## Weather
 
