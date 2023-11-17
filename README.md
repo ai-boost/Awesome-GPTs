@@ -518,45 +518,45 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
    - Submit by [@drsoupyy](https://github.com/drsoupyy)
   
-10. ☁️CloudGPT: Learn Cloud and DevOps
-    - Your personal Cloud and DevOps Mentor.
-    - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
-    - Submit by [@yomikoye](https://github.com/yomikoye)
+9. ☁️CloudGPT: Learn Cloud and DevOps
+   - Your personal Cloud and DevOps Mentor.
+   - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
+   - Submit by [@yomikoye](https://github.com/yomikoye)
      
-11. ☕JAVA Code Guide
-    - A JAVA Development Assistant focusing on coding standards and quality.
-    - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
-    - Submit by [@searle-dev](https://github.com/searle-dev)
+9. ☕JAVA Code Guide
+   - A JAVA Development Assistant focusing on coding standards and quality.
+   - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
+   - Submit by [@searle-dev](https://github.com/searle-dev)
 
-12. 🤠 Repo Ranger
-    - Your go-to sheriff for web-based code insights and security checks.
-    - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
-    - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
+9. 🤠 Repo Ranger
+   - Your go-to sheriff for web-based code insights and security checks.
+   - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
+   - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
 
-13. 🧑‍💻 Code Whiz Pro
-    - Provides insightful code reviews with a humorous twist.
-    - [Chat now](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
-    - Submit by [@davidemarcoli](https://github.com/davidemarcoli)
+9. 🧑‍💻 Code Whiz Pro
+   - Provides insightful code reviews with a humorous twist.
+   - [Chat now](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
+   - Submit by [@davidemarcoli](https://github.com/davidemarcoli)
       
-14. 🧞 Node.js Project Builder
-    - Build out a full node.js project, from skeleton to build-ready.
-    - [Chat now](https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder)
-    - Submit by [@dougbutner](https://github.com/dougbutner)
+9. 🧞 Node.js Project Builder
+   - Build out a full node.js project, from skeleton to build-ready.
+   - [Chat now](https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder)
+   - Submit by [@dougbutner](https://github.com/dougbutner)
 
-15. ⚛️ React Project Builder
-    - Build out a full React project, from planning to code.
-    - [Chat now](https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder)
-    - Submit by [@dougbutner](https://github.com/dougbutner)
+9. ⚛️ React Project Builder
+   - Build out a full React project, from planning to code.
+   - [Chat now](https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder)
+   - Submit by [@dougbutner](https://github.com/dougbutner)
 
-16. 🅰️ Angular Project Builder
-    - Let AI  angular project, from pseudocode to build-ready.
-    - [Chat now](https://chat.openai.com/g/g-Wkhtm932I-angular-gpt-project-builder)
-    - Submit by [@dougbutner](https://github.com/dougbutner)
+9. 🅰️ Angular Project Builder
+   - Let AI  angular project, from pseudocode to build-ready.
+   - [Chat now](https://chat.openai.com/g/g-Wkhtm932I-angular-gpt-project-builder)
+   - Submit by [@dougbutner](https://github.com/dougbutner)
 
-17. 🌟 Svelte Project Builder
-    - Build out a full app in svelte, from pseudocode to real code.
-    - [Chat now](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder)
-    - Submit by [@dougbutner](https://github.com/dougbutner)
+9. 🌟 Svelte Project Builder
+   - Build out a full app in svelte, from pseudocode to real code.
+   - [Chat now](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder)
+   - Submit by [@dougbutner](https://github.com/dougbutner)
    
 9. 🤖 Github Repo Assistant
    - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
@@ -587,6 +587,11 @@ Stay tuned for more updates and advancements!
     - Create a personal or business website and host it.
     - [Chat now](https://chat.openai.com/g/g-SgR7h0b2T-getsite9000)
     - Submit by [@morion4000](https://github.com/morion4000)
+
+9. 💥 GoCode Guru
+    - Expert in Go programming language
+    - [Chat now](https://chat.openai.com/g/g-TlAwIPNJJ-gocode-guru)
+    - Submit by [@makyfj](https://github.com/makyfj)
 
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
@@ -668,7 +673,6 @@ Stay tuned for more updates and advancements!
    - Offers guidance using manifestation knowledge in areas: 🌘facing life dilemmas, 💵manifesting financial abundance, 💞attracting specific persons
    - [Chat now](https://chat.openai.com/g/g-KiHAeQhaW-manifestation-coach)
    - Submit by [@xl631212](https://github.com/xl631212)
-     
 
 9. ⛲ Wellness Guide
    - Mental health adviser offering strategies for emotional and mental well-being.
