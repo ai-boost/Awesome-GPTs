@@ -936,6 +936,16 @@ Stay tuned for more updates and advancements!
    - Free AI Online Dating Coach for Tinder, Bumble and others dating platforms. Improve you profile, rizz and enjoy dating even more!
    - [Chat now](https://rizzed.app)
    - Submit by [@Grinius](https://github.com/Grinius)
+  
+9. 🎮 Game Genius
+   - Your go-to expert for gameplay walkthroughs and cheat codes.
+   - [Chat now](https://chat.openai.com/g/g-12q0jqkhd-game-genius)
+   - Submit by [@benhurley](https://github.com/benhurley)
+
+9. 🍷 Vinobot
+   - Digital sommelier for specific wine bottle recommendations.
+   - [Chat now](https://chat.openai.com/g/g-EoBW5i2gu-vinobot)
+   - Submit by [@benhurley](https://github.com/benhurley) 
 
 ## Weather
 
