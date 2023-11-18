@@ -628,6 +628,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse)
    - Submit by [@sablevista](https://github.com/SableVista)
 
+9. 🦸‍♀️ Database Builder
+   - Create migrations and execute SQL on a managed PostgreSQL database
+   - [Chat now](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
+   - Submit by [@engine-labs](https://github.com/engine-labs)
+
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
