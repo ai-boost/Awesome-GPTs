@@ -58,6 +58,7 @@ Stay tuned for more updates and advancements!
 5. [🐈 Lifestyle](#lifestyle)
 6. [😀 Just for Fun](#just-for-fun)
 7. [☂  Weather](#weahter)
+8. [🍴 Dining](#dining)
 
 ## Writing
 1. ✏️All-around Writer (Professional Version)
@@ -1013,3 +1014,10 @@ Stay tuned for more updates and advancements!
    - weather in a impressionistic style
    - [Chat now](https://chat.openai.com/g/g-QVitiCB0k-harold-the-weather-painter)
    - Submit by [@mountain](https://github.com/mountain)
+
+## Dining
+
+1. 🧮 Restaurant Bill Split
+   - Split restaurant bills easily
+   - [Chat now](https://chat.openai.com/g/g-A1dRYP3b9-restaurant-bill-split)
+   - Submit by [@tianrendong](https://github.com/tianrendong)
