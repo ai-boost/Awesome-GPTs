@@ -522,6 +522,16 @@ Stay tuned for more updates and advancements!
    - I interpret and explain your blood analysis
    - [Chat now](https://chat.openai.com/g/g-sKluZwFrR-blood-checkup)
    - Submit by [@nolattosio](https://www.yuliyavladkovska.com)
+  
+9. 🎬 ScriptCraft
+   - Create and improve YouTube scripts: Obtain the best storytelling and engagement for your videos.
+   - [Chat now](https://chat.openai.com/g/g-vO95llJQ3-scriptcraft)
+   - Submit by [@carlostejerodev](https://github.com/carlostejerodev)
+
+9. 📲 AutoShare
+   - AI Agent that uploads your content on YouTube, Facebook, Instagram and Discord. 
+   - [Chat now](https://chat.openai.com/g/g-xwtecgGfH-autoshare)
+   - Submit by [@carlostejerodev](https://github.com/carlostejerodev) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
