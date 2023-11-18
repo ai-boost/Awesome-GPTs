@@ -518,6 +518,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-UCCIB0PPe-agu-gu-piao-stockgpt)
    - Submit by [@youngpage](https://github.com/youngpage)
 
+9. 🩸 BLOOD CHECKUP
+   - I interpret and explain your blood analysis
+   - [Chat now](https://chat.openai.com/g/g-sKluZwFrR-blood-checkup)
+   - Submit by [@nolattosio](https://www.yuliyavladkovska.com)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
