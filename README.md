@@ -513,6 +513,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-incBO8h6j-gptech)
    - Submit by [@GPTDuel](https://github.com/GPTDuel)
 
+9. 💰 A-StockGPT
+   - A smart investment advisor that provides Chinese A-share stock purchase recommendations based on user preferences.
+   - [Chat now](https://chat.openai.com/g/g-UCCIB0PPe-agu-gu-piao-stockgpt)
+   - Submit by [@youngpage](https://github.com/youngpage)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
