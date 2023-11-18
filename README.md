@@ -217,7 +217,12 @@ Stay tuned for more updates and advancements!
 9. 🚗 Automotive Software Quality Mastermind
    - Specializing in automotive software quality standards, including ASPICE, SAFe, ISO 9001, functional safety, and SOTIF.
    - [Chat now](https://chat.openai.com/g/g-arZnBKvfb-automotive-software-quality-mastermind)
-   - Submit by [@Heyjoy](https://github.com/Heyjoy) 
+   - Submit by [@Heyjoy](https://github.com/Heyjoy)
+  
+9. 📚 TutorAI
+   - Personalized tutoring in any subject and educational level
+   - [Chat now](https://chat.openai.com/g/g-Je4YNtMgs-tutorai)
+   - Submit by [@GPTDuel](https://github.com/GPTDuel) 
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
@@ -399,7 +404,7 @@ Stay tuned for more updates and advancements!
    - Submit by [@whferr](https://github.com/whferr)
 
 9. 🖼️ UpScaler: GPT to Create and Upscale/De-noise Dalle Images
-   - Specializes in enhancing and upscaling images created through Dall-E to larger resolutions, suitable for printing or high-quality digital display. Includes optional abbreviations for easier image generation.
+   - Specializes in enhancing and upscaling images created through Dall-E to larger resolutions, suitable for printing or high-quality digital display.
    - [Use now](https://chat.openai.com/g/g-ikwGM4grU-upscaler)
    - Submit by [@weisshb](https://github.com/weisshb)
 
@@ -502,6 +507,11 @@ Stay tuned for more updates and advancements!
    - Stringent expert in traditional Chinese couplets, dedicated to fixed code analysis for harmonious and creative compositions.
    - [Chat now](https://chat.openai.com/g/g-QIafA59k8-chinese-couplet-sage)
    - Submit by [@windviki](https://github.com/windviki)
+  
+9. 🔧 GPTech
+   - I help you build a better GPT 
+   - [Chat now](https://chat.openai.com/g/g-incBO8h6j-gptech)
+   - Submit by [@GPTDuel](https://github.com/GPTDuel)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
