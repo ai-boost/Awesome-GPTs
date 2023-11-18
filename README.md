@@ -213,6 +213,11 @@ Stay tuned for more updates and advancements!
    - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
    - [Chat now](https://chat.openai.com/g/g-lJ8YsPj51-anki-master)
    - Submit by [@jyboy](https://github.com/jyboy)
+  
+9. 🚗 Automotive Software Quality Mastermind
+   - Specializing in automotive software quality standards, including ASPICE, SAFe, ISO 9001, functional safety, and SOTIF.
+   - [Chat now](https://chat.openai.com/g/g-arZnBKvfb-automotive-software-quality-mastermind)
+   - Submit by [@Heyjoy](https://github.com/Heyjoy) 
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
