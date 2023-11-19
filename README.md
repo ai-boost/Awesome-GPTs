@@ -570,7 +570,7 @@ Stay tuned for more updates and advancements!
    - Submit by [@David-Deans](https://github.com/David-Deans)
 
 8. 🖥️Vue3 GPT
-   - A Vue.js 3 coding assistant, always up-to-date with the latest official documentation and presets for a quick choice of your prefered API and syntax
+   - A Vue.js 3 coding assistant, always up-to-date with the latest official documentation and presets for a quick choice of your preferred API and syntax
    - [Chat now](https://chat.openai.com/g/g-LXEGvZLUS-vue3-gpt)
    - Submit by [@luona-dev](https://github.com/luona-dev)
   
