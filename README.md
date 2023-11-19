@@ -1012,6 +1012,11 @@ Stay tuned for more updates and advancements!
    - Text your favorite pet after answering 10 short questions about their activities.
    - [Chat now](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet)
    - Submit by [@Johnvrafferty](https://github.com/Johnvrafferty)
+   
+9. 📺 Series Finale Crafter
+   - Crafting structured, imaginative endings for TV shows.
+   - [Chat now](https://chat.openai.com/g/g-wZpNPCqwE-series-finale-crafter)
+   - Submit by [@arndom](https://github.com/arndom)
 
 ## Weather
 
