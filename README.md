@@ -1008,6 +1008,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-EoBW5i2gu-vinobot)
    - Submit by [@benhurley](https://github.com/benhurley) 
 
+9. 🐱 Text My Pet
+   - Text your favorite pet after answering 10 short questions about their activities.
+   - [Chat now](https://chat.openai.com/g/g-2BvnZlI3R-text-my-pet)
+   - Submit by [@Johnvrafferty](https://github.com/Johnvrafferty)
+
 ## Weather
 
 1. 🌨 Harold the Weather Painter
