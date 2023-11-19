@@ -664,6 +664,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
    - Submit by [@engine-labs](https://github.com/engine-labs)
 
+9. ✅ 3rd SoftSec Reviewer
+   - Perform 3rd party software security review
+   - [Chat now](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer)
+   - Submit by [@yevh](https://github.com/yevh)
+     
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
