@@ -532,7 +532,12 @@ Stay tuned for more updates and advancements!
 9. 📲 AutoShare
    - AI Agent that uploads your content on YouTube, Facebook, Instagram and Discord. 
    - [Chat now](https://chat.openai.com/g/g-xwtecgGfH-autoshare)
-   - Submit by [@carlostejerodev](https://github.com/carlostejerodev) 
+   - Submit by [@carlostejerodev](https://github.com/carlostejerodev)
+  
+9. 🙋‍Resume Reader for Recruiters
+   - Help recruiters quickly analyze whether a candidate's resume matches the position and design interview questions.
+   - [Chat now](https://chat.openai.com/g/g-satpRB4ii)
+   - Submit by [@Roc](https://www.linkedin.com/in/rocxu/) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
