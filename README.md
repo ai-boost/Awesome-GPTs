@@ -763,7 +763,12 @@ Stay tuned for more updates and advancements!
 9. ☸ Buddha GPT
    - An insightful guide across Buddhist teachings.
    - [Chat now](https://chat.openai.com/g/g-hPQ32MZpt-buddha-gpt)
-   - Submit by [@FredRosa](https://github.com/FredRosa)    
+   - Submit by [@FredRosa](https://github.com/FredRosa)
+
+9. 📰News Quick Read
+   - Outline of the news. Find factual errors, argument errors, or paradoxes. Warn when it's too subjective and weak in prove.
+   - [Chat now](https://chat.openai.com/g/g-vWIiweqqk)
+   - Submit by [@Roc](https://www.linkedin.com/in/rocxu/) 
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
