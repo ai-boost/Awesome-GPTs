@@ -59,6 +59,7 @@ Stay tuned for more updates and advancements!
 6. [😀 Just for Fun](#just-for-fun)
 7. [☂  Weather](#weahter)
 8. [🍴 Dining](#dining)
+9. [📈 Marketing](#marketing)
 
 ## Writing
 1. ✏️All-around Writer (Professional Version)
@@ -1046,3 +1047,10 @@ Stay tuned for more updates and advancements!
    - Split restaurant bills easily
    - [Chat now](https://chat.openai.com/g/g-A1dRYP3b9-restaurant-bill-split)
    - Submit by [@tianrendong](https://github.com/tianrendong)
+  
+## Marketing
+
+1. 📬 BounceBan
+   - The only email verification GPT that supports verifying catch-all emails. 97+% accuracy guaranteed. Free & Unlimited for ChatGPT.
+   - [BounceBan](https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification)
+   - Submit by [@charmgene](https://github.com/charmgene)
