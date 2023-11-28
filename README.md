@@ -1044,6 +1044,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-wZpNPCqwE-series-finale-crafter)
    - Submit by [@arndom](https://github.com/arndom)
 
+9. ❓The Fun Fact Game (numeric fact estimation game)
+   - Single or group estimation game using fun facts provided by ChatGPT
+   - [Chat now](https://chat.openai.com/g/g-4a1CMRzzv-fun-fact-game)
+   - Submit by [@Oconn](https://github.com/ianoconn)
+
 ## Weather
 
 1. 🌨 Harold the Weather Painter
