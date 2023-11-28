@@ -535,10 +535,15 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-xwtecgGfH-autoshare)
    - Submit by [@carlostejerodev](https://github.com/carlostejerodev)
   
-9. 🙋‍Resume Reader for Recruiters
+9. 🙋‍ Resume Reader for Recruiters
    - Help recruiters quickly analyze whether a candidate's resume matches the position and design interview questions.
    - [Chat now](https://chat.openai.com/g/g-satpRB4ii)
-   - Submit by [@Roc](https://www.linkedin.com/in/rocxu/) 
+   - Submit by [@Roc](https://www.linkedin.com/in/rocxu/)
+  
+9. 🤯 FastAPI GPT
+   - An up-to-date FastAPI coding assistant.
+   - [Chat now](https://chat.openai.com/g/g-BhYCAfVXk-latest-fastapi-gpt)
+   - Submit by [@luona-dev](https://github.com/luona-dev) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
