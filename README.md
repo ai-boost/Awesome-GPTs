@@ -543,7 +543,12 @@ Stay tuned for more updates and advancements!
 9. 🤯 FastAPI GPT
    - An up-to-date FastAPI coding assistant.
    - [Chat now](https://chat.openai.com/g/g-BhYCAfVXk-latest-fastapi-gpt)
-   - Submit by [@luona-dev](https://github.com/luona-dev) 
+   - Submit by [@luona-dev](https://github.com/luona-dev)
+
+9. 🚚 Moving Assistant
+   - An interactive moving planner and advisor to help you budget and execute your move, along with settle in after.
+   - [Chat now](https://chat.openai.com/g/g-udgu5Tbnv-moving-assistant)
+   - Submit by [@LaneBucher]
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
