@@ -539,16 +539,16 @@ Stay tuned for more updates and advancements!
    - Help recruiters quickly analyze whether a candidate's resume matches the position and design interview questions.
    - [Chat now](https://chat.openai.com/g/g-satpRB4ii)
    - Submit by [@Roc](https://www.linkedin.com/in/rocxu/)
-  
-9. 🤯 FastAPI GPT
-   - An up-to-date FastAPI coding assistant.
-   - [Chat now](https://chat.openai.com/g/g-BhYCAfVXk-latest-fastapi-gpt)
-   - Submit by [@luona-dev](https://github.com/luona-dev)
 
 9. 🚚 Moving Assistant
    - An interactive moving planner and advisor to help you budget and execute your move, along with settle in after.
    - [Chat now](https://chat.openai.com/g/g-udgu5Tbnv-moving-assistant)
    - Submit by [@LaneBucher]
+  
+9. 🧩 CraftyBits
+   - Your Friendly Guide for BIG Art Using Small Objects. 
+   - [Chat now](https://chat.openai.com/g/g-3xCdKOQrW-craftybits)
+   - Submit by [@hweiss](https://x.com/hweiss/status/1725261776311247128?s=20) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
@@ -684,6 +684,11 @@ Stay tuned for more updates and advancements!
    - Perform 3rd party software security review
    - [Chat now](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer)
    - Submit by [@yevh](https://github.com/yevh)
+
+9. 🤯 FastAPI GPT
+   - An up-to-date FastAPI coding assistant.
+   - [Chat now](https://chat.openai.com/g/g-BhYCAfVXk-latest-fastapi-gpt)
+   - Submit by [@luona-dev](https://github.com/luona-dev)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
