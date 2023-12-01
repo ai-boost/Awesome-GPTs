@@ -689,6 +689,11 @@ Stay tuned for more updates and advancements!
    - An up-to-date FastAPI coding assistant.
    - [Chat now](https://chat.openai.com/g/g-BhYCAfVXk-latest-fastapi-gpt)
    - Submit by [@luona-dev](https://github.com/luona-dev)
+  
+9. 🏎️🃑 TypeAce
+   - TypeScript Assistant: A masterful guide in the world of TypeScript intricacies.
+   - [Chat now](https://chat.openai.com/g/g-oVGcjfbex-typeace)
+   - Submit by [@makyfj](https://github.com/makyfj)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
