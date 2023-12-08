@@ -499,6 +499,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-1vvZDo6lA-career-navigator/)
    - Submit by [@CeamKrier](https://github.com/CeamKriert)
 
+9. 👨‍💻 HR Sage
+   - Experienced HR manager providing professional advice on recruitment, employee relations, and more.
+   - [Chat now](https://chat.openai.com/g/g-HtfndOwhc-hr-sage)
+   - Submit by [@Richard-S16](https://github.com/Richard-S16)
+
 9. 📕 Scholarly Insight
    - Scholarly Insight's primary focus is to assist users in understanding the research background, objectives, methods, and results of academic papers.
    - [Chat now](https://chat.openai.com/g/g-ps43dQHYB-scholarly-insight)
