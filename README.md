@@ -803,7 +803,12 @@ Stay tuned for more updates and advancements!
 9. 📰News Quick Read
    - Outline of the news. Find factual errors, argument errors, or paradoxes. Warn when it's too subjective and weak in prove.
    - [Chat now](https://chat.openai.com/g/g-vWIiweqqk)
-   - Submit by [@Roc](https://www.linkedin.com/in/rocxu/) 
+   - Submit by [@Roc](https://www.linkedin.com/in/rocxu/)
+
+9. 🔭 OpenData Explorer
+    - Access and understand data published by the central government, local authorities, and public bodies.
+    - [Chat now](https://chat.openai.com/g/g-1ZBK8qUZ1-opendata-explorer)
+    - Submit by [@KAUTH](https://github.com/KAUTH)
 
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
