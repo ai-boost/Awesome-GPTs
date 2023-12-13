@@ -1093,3 +1093,8 @@ Stay tuned for more updates and advancements!
    - The only email verification GPT that supports verifying catch-all emails. 97+% accuracy guaranteed. Free & Unlimited for ChatGPT.
    - [BounceBan](https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification)
    - Submit by [@charmgene](https://github.com/charmgene)
+  
+2. 🦸‍♂️ Superdomain
+   - Find best domains before anyone else with an AI scoring engine based on 10+ signals.
+   - [Chat now]([https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification](https://chat.openai.com/g/g-fhWHWw3rc-superdomain))
+   - Submit by [@Nedomas](https://github.com/Nedomas)
