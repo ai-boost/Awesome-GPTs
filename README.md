@@ -1096,5 +1096,5 @@ Stay tuned for more updates and advancements!
   
 2. 🦸‍♂️ Superdomain
    - Find best domains before anyone else with an AI scoring engine based on 10+ signals.
-   - [Chat now]([https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification](https://chat.openai.com/g/g-fhWHWw3rc-superdomain))
+   - [Chat now](https://chat.openai.com/g/g-fhWHWw3rc-superdomain)
    - Submit by [@Nedomas](https://github.com/Nedomas)
