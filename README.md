@@ -559,6 +559,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-3xCdKOQrW-craftybits)
    - Submit by [@hweiss](https://x.com/hweiss/status/1725261776311247128?s=20) 
 
+9. 🛩️ Au Visa Assistant
+   - This visa assistant is dedicated to addressing your questions related to studying and working visas in Australia.
+   - [Chat now](https://chat.openai.com/g/g-1SwD4U9Mu-au-visa-assistant)
+   - Submit by [@echonoshy](https://github.com/echonoshy/)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
