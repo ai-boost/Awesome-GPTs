@@ -559,6 +559,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-3xCdKOQrW-craftybits)
    - Submit by [@hweiss](https://x.com/hweiss/status/1725261776311247128?s=20) 
 
+10. 🖼️ Text2Img
+   - An Assistant can help user transform text to image, diagram, slides, or preview html code
+   - [Chat now](https://chat.openai.com/g/g-8khpUKAzF-text2img)
+   - Submit by [@jkvim](https://github.com/jkvim) 
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
