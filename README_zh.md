@@ -192,7 +192,12 @@
    - 专门审核和优化文档的助手，审核专家可以找出错字语病、逻辑结构等问题；优化专家可以让文档更清晰、精确、连贯、正式
    - [Chat now](https://chat.openai.com/g/g-A27YnYYSN-document-optimizer)
    - Submit by [MauRicLo](https://github.com/MauRicLo)
- 
+
+9. 🛩️ 澳洲签证助手
+   - 基于澳洲移民局官网资料构建的签证助手，专注于解决你关于澳洲学习、工作签证相关的问题。
+   - [Chat now](https://chat.openai.com/g/g-1SwD4U9Mu-au-visa-assistant)
+   - Submit by [@echonoshy](https://github.com/echonoshy/)
+   
 ## 编程
 1. 💻专业程序员（自动编程）
    - 擅长解决编程问题的GPT专家，自动编程，一键生成项目
