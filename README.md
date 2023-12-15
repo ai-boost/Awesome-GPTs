@@ -564,6 +564,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-1SwD4U9Mu-au-visa-assistant)
    - Submit by [@echonoshy](https://github.com/echonoshy/)
 
+9. 📅 Eva - Effortless Event Invitations
+   - Eva will help plan and generate shareable events, reminders, and invitations
+   - [Chat now](https://chat.openai.com/g/g-IXrrAcTzg-eva)
+   - Submit by [@cbarland](https://github.com/cbarland/)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
