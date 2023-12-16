@@ -614,105 +614,110 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-UwSunyiYn-code-companion)
    - Submit by [@drsoupyy](https://github.com/drsoupyy)
   
-9. ☁️CloudGPT: Learn Cloud and DevOps
+10. ☁️CloudGPT: Learn Cloud and DevOps
    - Your personal Cloud and DevOps Mentor.
    - [Chat now](https://chat.openai.com/g/g-ZdjXrFDLb-cloudgpt)
    - Submit by [@yomikoye](https://github.com/yomikoye)
      
-9. ☕JAVA Code Guide
+11. ☕JAVA Code Guide
    - A JAVA Development Assistant focusing on coding standards and quality.
    - [Chat now](https://chat.openai.com/g/g-EYiFThMtQ-java-code-guide)
    - Submit by [@searle-dev](https://github.com/searle-dev)
 
-9. 🤠 Repo Ranger
+12. 🤠 Repo Ranger
    - Your go-to sheriff for web-based code insights and security checks.
    - [Chat now](https://chat.openai.com/g/g-f9z2KitCh-repo-ranger)
    - Submit by [@marcusrbrown](https://github.com/marcusrbrown)
 
-9. 🧑‍💻 Code Whiz Pro
+13. 🧑‍💻 Code Whiz Pro
    - Provides insightful code reviews with a humorous twist.
    - [Chat now](https://chat.openai.com/g/g-0SJxA4A1j-code-whiz-pro)
    - Submit by [@davidemarcoli](https://github.com/davidemarcoli)
       
-9. 🧞 Node.js Project Builder
+14. 🧞 Node.js Project Builder
    - Build out a full node.js project, from skeleton to build-ready.
    - [Chat now](https://chat.openai.com/g/g-02zmxuXd5-node-js-gpt-project-builder)
    - Submit by [@dougbutner](https://github.com/dougbutner)
 
-9. ⚛️ React Project Builder
+15. ⚛️ React Project Builder
    - Build out a full React project, from planning to code.
    - [Chat now](https://chat.openai.com/g/g-eSIFeP4GM-react-gpt-project-builder)
    - Submit by [@dougbutner](https://github.com/dougbutner)
 
-9. 🅰️ Angular Project Builder
+16. 🅰️ Angular Project Builder
    - Let AI  angular project, from pseudocode to build-ready.
    - [Chat now](https://chat.openai.com/g/g-Wkhtm932I-angular-gpt-project-builder)
    - Submit by [@dougbutner](https://github.com/dougbutner)
 
-9. 🌟 Svelte Project Builder
+17. 🌟 Svelte Project Builder
    - Build out a full app in svelte, from pseudocode to real code.
    - [Chat now](https://chat.openai.com/g/g-giGWRiNpv-svelte-gpt-project-builder)
    - Submit by [@dougbutner](https://github.com/dougbutner)
    
-9. 🤖 Github Repo Assistant
+18. 🤖 Github Repo Assistant
    - Provides both general and specific guidance on publicly accessible Github Repositories and their contents.
    - [Try it now](https://chat.openai.com/g/g-QA3Dl6r3G-repo-assistant)
    - Submitted by [@thesamir](https://github.com/thesamir)
 
-9. 🖥️ PC Builder GPT
+19. 🖥️ PC Builder GPT
    - I'm PC Builder GPT, your tech-savvy virtual friend who offers expert and approachable advice on building PCs, complete with up-to-date pricing.
    - [Chat now](https://chat.openai.com/g/g-gh7PDdmmd-pc-builder-gpt)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
-9. 🪙 XRPL GPT
+20. 🪙 XRPL GPT
    - Build on the XRP Ledger with assistance from this GPT trained on extensive documentation and code samples.
    - [Chat now](https://chat.openai.com/g/g-Sjy2xMl6f-xrpl-gpt)
    - Submit by [Contraband Interactive](https://github.com/contrabandinteractive)
   
-9. ⬜ Whitebox
+21. ⬜ Whitebox
    - Collection of open-source programming templates to kickstart your own programming assistants.
    - [Chat now](https://github.com/Decron/Whitebox-Code-GPT)
    - Submit by [@Decron](https://github.com/Decron/Whitebox-Code-GPT)
 
-9. 👨‍💻 API Compass GPT
+22. 👨‍💻 API Compass GPT
    - A specialized chatbot providing curated, user-friendly information and guidance on a wide range of public APIs for developers and tech enthusiasts.
    - [Chat now](https://chat.openai.com/g/g-apONraLSm-api-compass-gpt)
    - Submit by [@jeronimobarea](https://github.com/jeronimobarea)
 
-9. 🌐 getsite9000
+23. 🌐 getsite9000
     - Create a personal or business website and host it.
     - [Chat now](https://chat.openai.com/g/g-SgR7h0b2T-getsite9000)
     - Submit by [@morion4000](https://github.com/morion4000)
 
-9. 💥 GoCode Guru
+24. 💥 GoCode Guru
     - Expert in Go programming language
     - [Chat now](https://chat.openai.com/g/g-TlAwIPNJJ-gocode-guru)
     - Submit by [@makyfj](https://github.com/makyfj)
   
-9. 🌌 Photo Multiverse
+25. 🌌 Photo Multiverse
    - Upload your selfie photo and teleport to a new destination background
    - [Chat now](https://chat.openai.com/g/g-ZctQCI6MG-photo-multiverse)
    - Submit by [@sablevista](https://github.com/SableVista)
 
-9. 🦸‍♀️ Database Builder
+26. 🦸‍♀️ Database Builder
    - Create migrations and execute SQL on a managed PostgreSQL database
    - [Chat now](https://chat.openai.com/g/g-A3ueeULl8-database-builder)
    - Submit by [@engine-labs](https://github.com/engine-labs)
 
-9. ✅ 3rd SoftSec Reviewer
+27. ✅ 3rd SoftSec Reviewer
    - Perform 3rd party software security review
    - [Chat now](https://chat.openai.com/g/g-nAldYnak2-3rd-softsec-reviewer)
    - Submit by [@yevh](https://github.com/yevh)
 
-9. 🤯 FastAPI GPT
+28. 🤯 FastAPI GPT
    - An up-to-date FastAPI coding assistant.
    - [Chat now](https://chat.openai.com/g/g-BhYCAfVXk-latest-fastapi-gpt)
    - Submit by [@luona-dev](https://github.com/luona-dev)
   
-9. 🏎️🃑 TypeAce
+29. 🏎️🃑 TypeAce
    - TypeScript Assistant: A masterful guide in the world of TypeScript intricacies.
    - [Chat now](https://chat.openai.com/g/g-oVGcjfbex-typeace)
    - Submit by [@makyfj](https://github.com/makyfj)
+
+30. 🤯 GPTRouter
+    - an open source LLM API Gateway that offers a universal API for 30+ LLMs, vision, and image models, with smart fallbacks based on uptime and latency, automatic retries, and streaming
+    - [try now](https://gpt-router.writesonic.com/)
+    - Submitted by [@himanshu007-creator](https://github.com/himanshu007-creator) on behalf of [Writesonic](https://github.com/Writesonic)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
