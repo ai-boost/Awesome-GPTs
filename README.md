@@ -51,15 +51,19 @@ Stay tuned for more updates and advancements!
 -----
 
 ## 📚 Table of Contents
-1. [✍️ Writing](#writing)
-2. [🎓 Education](#education)
-3. [🎯 Productivity](#productivity)
-4. [💻 Programming](#programming)
-5. [🐈 Lifestyle](#lifestyle)
-6. [😀 Just for Fun](#just-for-fun)
-7. [☂  Weather](#weahter)
-8. [🍴 Dining](#dining)
-9. [📈 Marketing](#marketing)
+- [🚀 About Awesome-GPTs](#-about-awesome-gpts)
+- [🌟 Commit and PR Guidelines](#-commit-and-pr-guidelines)
+- [🌐 Latest News \& Updates ✨](#-latest-news--updates-)
+- [📚 Table of Contents](#-table-of-contents)
+- [Writing](#writing)
+- [Education](#education)
+- [Productivity](#productivity)
+- [Programming](#programming)
+- [Lifestyle](#lifestyle)
+- [Just for Fun](#just-for-fun)
+- [Weather](#weather)
+- [Dining](#dining)
+- [Marketing](#marketing)
 
 ## Writing
 1. ✏️All-around Writer (Professional Version)
@@ -713,6 +717,10 @@ Stay tuned for more updates and advancements!
    - TypeScript Assistant: A masterful guide in the world of TypeScript intricacies.
    - [Chat now](https://chat.openai.com/g/g-oVGcjfbex-typeace)
    - Submit by [@makyfj](https://github.com/makyfj)
+  
+9.  🔀 DiagramGenius
+   - Generates SVG diagrams: A visualization tool that generates flowcharts, ERDs, C4, sequence diagrams and more. 
+   - [Chat now][@SystemExecuteLLC](https://chat.openai.com/g/g-5Qx0mOEND-diagram-genius)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
