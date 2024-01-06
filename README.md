@@ -145,90 +145,95 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-2vNXETv9C-math-to-latex)
    - Submit by [@No_Impact4379](https://www.reddit.com/user/No_Impact4379/)
 
-9. 👄Debate Mentor
+10. 👄Debate Mentor
    - Mentor and debater, guides users to articulate conclusions.
    - [Chat now](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor)
    - Submit by [@kylecoogan](https://github.com/kylecoogan)
   
-9. 📈EconomicsGPT
+11. 📈EconomicsGPT
    - Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.
    - [Chat now](https://chat.openai.com/g/g-7McsRKuPS-economicsgpt)
    - Submit by [@dpeachpeach](https://github.com/dpeachpeach)
   
-9. 🦉Owly The Explorer
+12. 🦉Owly The Explorer
    - Owly is an adorable, owl-themed GPT designed to safely engage kids in a variety of educational topics, with built-in restrictions for child-appropriate content.
    - [Chat now](https://chat.openai.com/g/g-fJeLfIqcT-owly-the-explorer)
    - Submit by [@marcelcodes](https://github.com/marcelcodes)
   
-9. 📚 Hierarchy Navigator
+13. 📚 Hierarchy Navigator
    - Organizes learning into a detailed hierarchy.
    - [Chat now](https://chat.openai.com/g/g-idPG2SRKJ-hierarchy-navigator)
    - Submit by [@kylecoogan](https://github.com/kylecoogan)
   
-9. 🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior
+14. 🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior
    - Ask me anything about veterinary sciences, animal rescue, and behavior.
    - [Chat now](https://chat.openai.com/g/g-Z310M0Pp0-linda)
    - Submit by [@Viktor-Larkhill](https://github.com/Viktor-Larkhill)
   
-9. 👩‍🏫 IELTS Writing Coach
+15. 👩‍🏫 IELTS Writing Coach
    - An advanced IELTS Writing Coach
    - [Chat now](https://chat.openai.com/g/g-TzN6ReSVA-ielts-writing-coach)
    - Submit by [@Rick](https://github.com/techmovie)
   
-9. 🎧 DJGPT
+16. 🎧 DJGPT
    - I'm DJGPT, your go-to AI for all things DJing and music mixing, here to guide you through the exciting world of beats and tracks!
    - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
      
-9. 💬 Multilingual Mentor
+17. 💬 Multilingual Mentor
    - Learn any language IN any other language while talking freely but still in a structured way and according to your current proficiency.
    - [Chat now](https://chat.openai.com/g/g-ecP2s16LQ-multilingual-mentor)
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
      
-9. 💬 Portuguese Pal
+18. 💬 Portuguese Pal
    - Learn Portuguese while talking freely but still in a structured way and according to your current proficiency.
    - [Chat now](https://chat.openai.com/g/g-xEtoWs2cJ-portuguese-pal) 
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
   
-9. 👨‍🔬 Albert Ainstein
+19. 👨‍🔬 Albert Ainstein
    - Theoretical scientist proposing potentially groundbreaking scientific hypotheses and experiments to confirm or refute them
    - [Chat now](https://chat.openai.com/g/g-OHYX2m4jV-albert-ainstein)
    - Submit by [@thesigns](https://github.com/thesigns)
   
-9. 👲 Math & Logic Tutor Junior
+20. 👲 Math & Logic Tutor Junior
    - A friendly math guide for young learners they can freely talk to, suggests appropriate puzzles but refuses to do their homework. 
    - [Chat now](https://chat.openai.com/g/g-yrEGSj7Zy-math-logic-tutor-junior) 
    - Submit by [@linus-ahlemeyer](https://github.com/linus-ahlemeyer)
   
-9. 🔬 Academic Explorer
+21. 🔬 Academic Explorer
    - Your expert in academic papers.
    - [Chat now](https://chat.openai.com/gpts/editor/g-ASiAzIHhA)
    - Submit by [@xuyingli](https://github.com/xl631212)
 
-9. 📝Gauthmath (Your All-in-one Homework Helper)
+22. 📝Gauthmath (Your All-in-one Homework Helper)
    - The ultimate solution to All types of math problems with 1 billion+ math questions in GPT4s knowledge base.
    - [Chat now](https://chat.openai.com/g/g-R8U0NFyIo-gauthmath)
    - Submit by [@cauyxy](https://github.com/cauyxy)
   
-9. 🎓AiTA: Personal College Tutor
+23. 🎓AiTA: Personal College Tutor
    - Your personal AI tutor for college learning, offering tailored support in your **lecture notes** and **question sheets**.
    - [Chat now](https://chat.openai.com/g/g-ikoYokxKr-aita-personal-college-tutor)
    - Submit by [@xl631212](https://github.com/xl631212)
 
-9. 🧠 Anki Master
+24. 🧠 Anki Master
    - Level up Anki skill and master your memory. Trained with Anki official documents and popular SRS articles.
    - [Chat now](https://chat.openai.com/g/g-lJ8YsPj51-anki-master)
    - Submit by [@jyboy](https://github.com/jyboy)
   
-9. 🚗 Automotive Software Quality Mastermind
+25. 🚗 Automotive Software Quality Mastermind
    - Specializing in automotive software quality standards, including ASPICE, SAFe, ISO 9001, functional safety, and SOTIF.
    - [Chat now](https://chat.openai.com/g/g-arZnBKvfb-automotive-software-quality-mastermind)
    - Submit by [@Heyjoy](https://github.com/Heyjoy)
   
-9. 📚 TutorAI
+26. 📚 TutorAI
    - Personalized tutoring in any subject and educational level
    - [Chat now](https://chat.openai.com/g/g-Je4YNtMgs-tutorai)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel) 
+   - Submit by [@GPTDuel](https://github.com/GPTDuel)
+
+27. 🤖 New GPT Idea Generator
+   - Suggests innovative GPTs ideas based on global needs assessments.
+   - [Chat now](https://chat.openai.com/g/g-pmDU1wmUY-new-gpt-idea-generator))
+   - Submit by [@stawil](https://github.com/stawils) 
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
