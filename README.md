@@ -713,6 +713,11 @@ Stay tuned for more updates and advancements!
    - TypeScript Assistant: A masterful guide in the world of TypeScript intricacies.
    - [Chat now](https://chat.openai.com/g/g-oVGcjfbex-typeace)
    - Submit by [@makyfj](https://github.com/makyfj)
+
+9. 🔎 Tailwind Master
+   - HTML and Tailwind CSS Assistant: Clone any website from a screenshot of it.
+   - [Chat now](https://chat.openai.com/g/g-pbDFB57kj-tailwind-master)
+   - Submit by [@victorcavero14](https://github.com/victorcavero14)
      
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
