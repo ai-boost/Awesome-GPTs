@@ -569,6 +569,12 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-IXrrAcTzg-eva)
    - Submit by [@cbarland](https://github.com/cbarland/)
 
+9. 🎹 MIDI Maestro
+   - Your new ghost writer for music production. Create MIDI files
+   by describing the music you want to create.
+   - [Chat now](https://chat.openai.com/g/g-xaZHQZJw0-midi-maestro)
+   - Submit by [@bytewaveco](https://github.com/bytewaveco)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
