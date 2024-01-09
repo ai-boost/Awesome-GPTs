@@ -1083,6 +1083,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-4a1CMRzzv-fun-fact-game)
    - Submit by [@Oconn](https://github.com/ianoconn)
 
+9. 🧙‍♂️ Dark Fantasy 1970 Book Illustrator
+   - Transform user-provided characters, landscapes, or elements into illustrations that resemble those from 1970s dark fantasy books.
+   - [Chat now](https://chat.openai.com/g/g-q60t2t0fy-dark-fantasy-illustrator)
+   - Submit by [@tsvetanml](https://github.com/tsvetanml)
+
 ## Weather
 
 1. 🌨 Harold the Weather Painter
