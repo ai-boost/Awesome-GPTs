@@ -318,6 +318,11 @@ Stay tuned for more updates and advancements!
    - Chat and answer questions from YouTube videos
    - [Chat now](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt)
    - Submit by [@m1guelpf](https://github.com/m1guelpf)
+  
+9. 🎞YouTube Video Summary by TubeSum
+   - Chat and answer questions from YouTube videos
+   - [Chat now](https://chat.openai.com/g/g-EtCz6WFJ5-video-summary-by-tubesum-com)
+   - Submit by [@dvvolynkin](https://github.com/dvvolynkin)
 
 9. 🤖Poe Bot Creator
    - A GPT that can help you create a chatbot at Poe
