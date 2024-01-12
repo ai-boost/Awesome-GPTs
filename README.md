@@ -1083,6 +1083,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-4a1CMRzzv-fun-fact-game)
    - Submit by [@Oconn](https://github.com/ianoconn)
 
+9. 🏰 Escape the Dungeon
+   - You're in a stone cell – can you get out? A classic choose-your-adventure interactive fiction game, based on a meticulously-crafted playbook. With medieval fantasy pixel art, infinite choices and outcomes, and dice!
+   - [Chat now](https://chat.openai.com/g/g-FrYXDQ58t-escape-the-dungeon)
+   - Submit by [@VirgilThinks](https://github.com/VirgilThinks)
+
 ## Weather
 
 1. 🌨 Harold the Weather Painter
