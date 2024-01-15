@@ -19,7 +19,7 @@
   </h4>
 </div>
 
-## 🚀 About Awesome-GPTs
+## About Awesome-GPTs
 This is a space for showcasing innovative and exciting GPT models created by AI enthusiasts worldwide. Got a GPT that stands out? Let the world know!
 
 - 🎙️ **Contributing**: Provide your GPT's name, a short description, and its link in the PR.
@@ -28,14 +28,29 @@ This is a space for showcasing innovative and exciting GPT models created by AI 
 
 Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 
-## 🌟 Commit and PR Guidelines
+## Table of Contents
+- [🚀 About Awesome-GPTs](#about-awesome-gpts)
+- [🌟 Commit and PR Guidelines](#commit-and-pr-guidelines)
+- [🌐 Latest News \& Updates ✨](#latest-news-and-updates)
+- [📚 Table of Contents](#table-of-contents)
+- [✍️ Writing](#writing)
+- [🎓 Education](#education)
+- [🎯 Productivity](#productivity)
+- [💻 Programming](#programming)
+- [🐈 Lifestyle](#lifestyle)
+- [😀 Just for Fun](#just-for-fun)
+- [☂  Weather](#weather)
+- [🍴 Dining](#dining)
+- [📈 Marketing](#marketing)
+
+## Commit and PR Guidelines
 To streamline our project's development, we have specific, yet easy, guidelines for commits and PRs:
 - **Commit Message**: Use `[bot-name][brief-bot-description]` format.
 - **PR Title**: Keep it identical to your commit message for consistency.
 
 Adherence to these standards makes your contributions more impactful and traceable.
 
-## 🌐 Latest News & Updates ✨
+## Latest News and Updates
 Exciting news! We've just rolled out our very own GPT creation, aptly named **AwesomeGPTs** – yes, it shares the repo's name! 👀
 
 🚀 **What's AwesomeGPTs?** It's a specialised GPT model designed to:
@@ -49,17 +64,6 @@ Exciting news! We've just rolled out our very own GPT creation, aptly named **Aw
 Stay tuned for more updates and advancements!
 
 -----
-
-## 📚 Table of Contents
-1. [✍️ Writing](#writing)
-2. [🎓 Education](#education)
-3. [🎯 Productivity](#productivity)
-4. [💻 Programming](#programming)
-5. [🐈 Lifestyle](#lifestyle)
-6. [😀 Just for Fun](#just-for-fun)
-7. [☂  Weather](#weahter)
-8. [🍴 Dining](#dining)
-9. [📈 Marketing](#marketing)
 
 ## Writing
 1. ✏️All-around Writer (Professional Version)
@@ -738,12 +742,15 @@ Stay tuned for more updates and advancements!
    - TypeScript Assistant: A masterful guide in the world of TypeScript intricacies.
    - [Chat now](https://chat.openai.com/g/g-oVGcjfbex-typeace)
    - Submit by [@makyfj](https://github.com/makyfj)
-
+  
+9.  🔀 DiagramGenius
+   - Generates SVG diagrams: A visualization tool that generates flowcharts, ERDs, C4, sequence diagrams and more. 
+   - [Chat now][@SystemExecuteLLC](https://chat.openai.com/g/g-5Qx0mOEND-diagram-genius)
+     
 9. 💻AskYourCode (Code Indexing, Code Maps, Reverse Engineering)
    - Indexes your project's source code, then provides code maps, summaries and code fragments to ChatGPT.
    - [Chat now](https://chat.openai.com/g/g-bMpHsDTtP-askyourcode)
    - Submit by [@viktor-ferenczi](https://github.com/viktor-ferenczi)
-
 
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
