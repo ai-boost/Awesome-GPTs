@@ -70,24 +70,28 @@ Stay tuned for more updates and advancements!
    - A professional academic assistant who helps with various academic tasks: writing papers, reading papers, weight reduction, polishing, designing experiments, PPT, etc.
    - [Chat now](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
 
-3. ✍️Paraphraser & Proofreader (Professional Version)
+3. 🚀Scholar GPT Pro (Enhanced scholar gpt)
+   - An enhanced scholar gpt version that can do research, write SCI paper with real refenences. You can search 216,189,020 papers from all fields of science.
+   - [Chat now](https://chat.openai.com/g/g-KELDH3S4E-scholar-gpt-pro)
+
+4. ✍️Paraphraser & Proofreader (Professional Version)
    - Expert in sentence refinement.
    - [Chat now](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
 
-4. 👔Formal GPT
+5. 👔Formal GPT
    - A informal to formal translator. It can give feedback about your CV. It can generate a cover letter for you. 
    - [Chat now](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt)
    - Submit by [@emreisik95](https://github.com/emreisik95) 
 
-5. 🤖 Prompty
+6. 🤖 Prompty
    - A professional prompt engineer who helps you optimize your GPT-prompts with state-of-the-art techniques.
    - [Chat now](https://chat.openai.com/g/g-aZLV4vji6-prompty)
   
-6. ✨ editGPT
+7. ✨ editGPT
    - Proofread, edit and track changes to your text inside ChatGPT. Works in conjunction with the editGPT browser extension allowing you to accept and reject changes without leaving ChatGPT.
    - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 
-7. 🌐 Social Post Writer
+8. 🌐 Social Post Writer
    - Creates professional content for social medias like LinkedIn and Twitter, adaptable in style and aligned with your brand's or blog voice.
    - [Chat now](https://chat.openai.com/g/g-3O7W26ERg-social-post-writer)
 
