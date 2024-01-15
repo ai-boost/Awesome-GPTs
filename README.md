@@ -573,6 +573,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-3xCdKOQrW-craftybits)
    - Submit by [@hweiss](https://x.com/hweiss/status/1725261776311247128?s=20) 
 
+9. 🖼️ Text2Img
+   - An Assistant can help user transform text to image, diagram, slides, or preview html code
+   - [Chat now](https://chat.openai.com/g/g-8khpUKAzF-text2img)
+   - Submit by [@jkvim](https://github.com/jkvim) 
+
 9. 🛩️ Au Visa Assistant
    - This visa assistant is dedicated to addressing your questions related to studying and working visas in Australia.
    - [Chat now](https://chat.openai.com/g/g-1SwD4U9Mu-au-visa-assistant)
