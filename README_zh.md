@@ -48,9 +48,9 @@
 7. [😀 仅供娱乐](#仅供娱乐)
 
 ## 中文专区
-1. 😱 完蛋，我被美女包围了！(图文纯享版)
-   - 图文冒险，我被美女包围了！使用Dalle3生成美图，剧情丰富
-   - [立即开玩](https://chat.openai.com/g/g-lfY2IC1TZ-wan-dan-wo-bei-mei-nu-bao-wei-liao-tu-wen-chun-xiang-ban)
+1. 👍🏻 Prompt工程师 (一个Prompt专家)
+   - 一个Prompt专家，能帮你写优质prompt👍!
+   - [立即开玩](https://chat.openai.com/g/g-3SZG5H8BI-prompt-engineer-an-expert-for-best-prompts)
 
 ## 写作
 1. ✏️全能作家（专业版）
