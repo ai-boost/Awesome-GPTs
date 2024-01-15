@@ -232,7 +232,12 @@ Stay tuned for more updates and advancements!
 9. 📚 TutorAI
    - Personalized tutoring in any subject and educational level
    - [Chat now](https://chat.openai.com/g/g-Je4YNtMgs-tutorai)
-   - Submit by [@GPTDuel](https://github.com/GPTDuel) 
+   - Submit by [@GPTDuel](https://github.com/GPTDuel)
+  
+10. 🎧 DJ Sensei
+   -  Your expert guide for every DJ level - from mixing basics to mastering the DJ industry.
+   -  [Chat now](https://chat.openai.com/g/g-uba2kDdJy-dj-sensei)
+   -  Submit by [@0miee](https://github.com/0miee)
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
