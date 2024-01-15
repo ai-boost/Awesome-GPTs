@@ -74,24 +74,28 @@ Stay tuned for more updates and advancements!
    - A professional academic assistant who helps with various academic tasks: writing papers, reading papers, weight reduction, polishing, designing experiments, PPT, etc.
    - [Chat now](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
 
-3. ✍️Paraphraser & Proofreader (Professional Version)
+3. 🚀Scholar GPT Pro (Enhanced scholar gpt)
+   - An enhanced scholar gpt version that can do research, write SCI paper with real refenences. You can search 216,189,020 papers from all fields of science.
+   - [Chat now](https://chat.openai.com/g/g-KELDH3S4E-scholar-gpt-pro)
+
+4. ✍️Paraphraser & Proofreader (Professional Version)
    - Expert in sentence refinement.
    - [Chat now](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
 
-4. 👔Formal GPT
+5. 👔Formal GPT
    - A informal to formal translator. It can give feedback about your CV. It can generate a cover letter for you. 
    - [Chat now](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt)
    - Submit by [@emreisik95](https://github.com/emreisik95) 
 
-5. 🤖 Prompty
+6. 🤖 Prompty
    - A professional prompt engineer who helps you optimize your GPT-prompts with state-of-the-art techniques.
    - [Chat now](https://chat.openai.com/g/g-aZLV4vji6-prompty)
   
-6. ✨ editGPT
+7. ✨ editGPT
    - Proofread, edit and track changes to your text inside ChatGPT. Works in conjunction with the editGPT browser extension allowing you to accept and reject changes without leaving ChatGPT.
    - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 
-7. 🌐 Social Post Writer
+8. 🌐 Social Post Writer
    - Creates professional content for social medias like LinkedIn and Twitter, adaptable in style and aligned with your brand's or blog voice.
    - [Chat now](https://chat.openai.com/g/g-3O7W26ERg-social-post-writer)
 
@@ -322,6 +326,11 @@ Stay tuned for more updates and advancements!
    - Chat and answer questions from YouTube videos
    - [Chat now](https://chat.openai.com/g/g-VgadmpesQ-youtubegpt)
    - Submit by [@m1guelpf](https://github.com/m1guelpf)
+  
+9. 🎞YouTube Video Summary by TubeSum
+   - Chat and answer questions from YouTube videos
+   - [Chat now](https://chat.openai.com/g/g-EtCz6WFJ5-video-summary-by-tubesum-com)
+   - Submit by [@dvvolynkin](https://github.com/dvvolynkin)
 
 9. 🤖Poe Bot Creator
    - A GPT that can help you create a chatbot at Poe
@@ -573,6 +582,12 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-IXrrAcTzg-eva)
    - Submit by [@cbarland](https://github.com/cbarland/)
 
+9. 🎹 MIDI Maestro
+   - Your new ghost writer for music production. Create MIDI files
+   by describing the music you want to create.
+   - [Chat now](https://chat.openai.com/g/g-xaZHQZJw0-midi-maestro)
+   - Submit by [@bytewaveco](https://github.com/bytewaveco)
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
@@ -722,6 +737,11 @@ Stay tuned for more updates and advancements!
    - Generates SVG diagrams: A visualization tool that generates flowcharts, ERDs, C4, sequence diagrams and more. 
    - [Chat now][@SystemExecuteLLC](https://chat.openai.com/g/g-5Qx0mOEND-diagram-genius)
      
+9. 💻AskYourCode (Code Indexing, Code Maps, Reverse Engineering)
+   - Indexes your project's source code, then provides code maps, summaries and code fragments to ChatGPT.
+   - [Chat now](https://chat.openai.com/g/g-bMpHsDTtP-askyourcode)
+   - Submit by [@viktor-ferenczi](https://github.com/viktor-ferenczi)
+
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
@@ -1090,6 +1110,11 @@ Stay tuned for more updates and advancements!
    - Single or group estimation game using fun facts provided by ChatGPT
    - [Chat now](https://chat.openai.com/g/g-4a1CMRzzv-fun-fact-game)
    - Submit by [@Oconn](https://github.com/ianoconn)
+
+9. 🏰 Escape the Dungeon
+   - You're in a stone cell – can you get out? A classic choose-your-adventure interactive fiction game, based on a meticulously-crafted playbook. With medieval fantasy pixel art, infinite choices and outcomes, and dice!
+   - [Chat now](https://chat.openai.com/g/g-FrYXDQ58t-escape-the-dungeon)
+   - Submit by [@VirgilThinks](https://github.com/VirgilThinks)
 
 ## Weather
 
