@@ -70,24 +70,28 @@ Stay tuned for more updates and advancements!
    - A professional academic assistant who helps with various academic tasks: writing papers, reading papers, weight reduction, polishing, designing experiments, PPT, etc.
    - [Chat now](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
 
-3. ✍️Paraphraser & Proofreader (Professional Version)
+3. 🚀Scholar GPT Pro (Enhanced scholar gpt)
+   - An enhanced scholar gpt version that can do research, write SCI paper with real refenences. You can search 216,189,020 papers from all fields of science.
+   - [Chat now](https://chat.openai.com/g/g-KELDH3S4E-scholar-gpt-pro)
+
+4. ✍️Paraphraser & Proofreader (Professional Version)
    - Expert in sentence refinement.
    - [Chat now](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
 
-4. 👔Formal GPT
+5. 👔Formal GPT
    - A informal to formal translator. It can give feedback about your CV. It can generate a cover letter for you. 
    - [Chat now](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt)
    - Submit by [@emreisik95](https://github.com/emreisik95) 
 
-5. 🤖 Prompty
+6. 🤖 Prompty
    - A professional prompt engineer who helps you optimize your GPT-prompts with state-of-the-art techniques.
    - [Chat now](https://chat.openai.com/g/g-aZLV4vji6-prompty)
   
-6. ✨ editGPT
+7. ✨ editGPT
    - Proofread, edit and track changes to your text inside ChatGPT. Works in conjunction with the editGPT browser extension allowing you to accept and reject changes without leaving ChatGPT.
    - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 
-7. 🌐 Social Post Writer
+8. 🌐 Social Post Writer
    - Creates professional content for social medias like LinkedIn and Twitter, adaptable in style and aligned with your brand's or blog voice.
    - [Chat now](https://chat.openai.com/g/g-3O7W26ERg-social-post-writer)
 
@@ -559,10 +563,26 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-3xCdKOQrW-craftybits)
    - Submit by [@hweiss](https://x.com/hweiss/status/1725261776311247128?s=20) 
 
-10. 🖼️ Text2Img
+9. 🖼️ Text2Img
    - An Assistant can help user transform text to image, diagram, slides, or preview html code
    - [Chat now](https://chat.openai.com/g/g-8khpUKAzF-text2img)
    - Submit by [@jkvim](https://github.com/jkvim) 
+
+9. 🛩️ Au Visa Assistant
+   - This visa assistant is dedicated to addressing your questions related to studying and working visas in Australia.
+   - [Chat now](https://chat.openai.com/g/g-1SwD4U9Mu-au-visa-assistant)
+   - Submit by [@echonoshy](https://github.com/echonoshy/)
+
+9. 📅 Eva - Effortless Event Invitations
+   - Eva will help plan and generate shareable events, reminders, and invitations
+   - [Chat now](https://chat.openai.com/g/g-IXrrAcTzg-eva)
+   - Submit by [@cbarland](https://github.com/cbarland/)
+
+9. 🎹 MIDI Maestro
+   - Your new ghost writer for music production. Create MIDI files
+   by describing the music you want to create.
+   - [Chat now](https://chat.openai.com/g/g-xaZHQZJw0-midi-maestro)
+   - Submit by [@bytewaveco](https://github.com/bytewaveco)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
@@ -708,7 +728,13 @@ Stay tuned for more updates and advancements!
    - TypeScript Assistant: A masterful guide in the world of TypeScript intricacies.
    - [Chat now](https://chat.openai.com/g/g-oVGcjfbex-typeace)
    - Submit by [@makyfj](https://github.com/makyfj)
-     
+
+9. 💻AskYourCode (Code Indexing, Code Maps, Reverse Engineering)
+   - Indexes your project's source code, then provides code maps, summaries and code fragments to ChatGPT.
+   - [Chat now](https://chat.openai.com/g/g-bMpHsDTtP-askyourcode)
+   - Submit by [@viktor-ferenczi](https://github.com/viktor-ferenczi)
+
+
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
@@ -1078,6 +1104,11 @@ Stay tuned for more updates and advancements!
    - [Chat now](https://chat.openai.com/g/g-4a1CMRzzv-fun-fact-game)
    - Submit by [@Oconn](https://github.com/ianoconn)
 
+9. 🏰 Escape the Dungeon
+   - You're in a stone cell – can you get out? A classic choose-your-adventure interactive fiction game, based on a meticulously-crafted playbook. With medieval fantasy pixel art, infinite choices and outcomes, and dice!
+   - [Chat now](https://chat.openai.com/g/g-FrYXDQ58t-escape-the-dungeon)
+   - Submit by [@VirgilThinks](https://github.com/VirgilThinks)
+
 ## Weather
 
 1. 🌨 Harold the Weather Painter
@@ -1101,5 +1132,5 @@ Stay tuned for more updates and advancements!
   
 2. 🦸‍♂️ Superdomain
    - Find best domains before anyone else with an AI scoring engine based on 10+ signals.
-   - [Chat now]([https://chat.openai.com/g/g-q5uXtrvkH-bounceban-com-free-email-verification](https://chat.openai.com/g/g-fhWHWw3rc-superdomain))
+   - [Chat now](https://chat.openai.com/g/g-fhWHWw3rc-superdomain)
    - Submit by [@Nedomas](https://github.com/Nedomas)
