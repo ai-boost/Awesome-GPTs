@@ -20,7 +20,7 @@
 </div>
 
 ## About Awesome-GPTs
-This is a space for showcasing innovative and exciting GPT models created by AI enthusiasts worldwide. Got a GPT that stands out? Let the world know!
+This is a space for showcasing innovative and exciting GPT created by AI enthusiasts worldwide. Got a GPT that stands out? Let the world know!
 
 - 🎙️ **Contributing**: Provide your GPT's name, a short description, and its link in the PR.
 - ✅ **Recognition**: Your GPT could be the next big highlight in our Awesome-GPTs list.
@@ -30,7 +30,6 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 
 ## Table of Contents
 - [🚀 About Awesome-GPTs](#about-awesome-gpts)
-- [🌟 Commit and PR Guidelines](#commit-and-pr-guidelines)
 - [🌐 Latest News \& Updates ✨](#latest-news-and-updates)
 - [📚 Table of Contents](#table-of-contents)
 - [✍️ Writing](#writing)
@@ -42,16 +41,10 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 - [☂  Weather](#weather)
 - [🍴 Dining](#dining)
 - [📈 Marketing](#marketing)
-
-## Commit and PR Guidelines
-To streamline our project's development, we have specific, yet easy, guidelines for commits and PRs:
-- **Commit Message**: Use `[bot-name][brief-bot-description]` format.
-- **PR Title**: Keep it identical to your commit message for consistency.
-
-Adherence to these standards makes your contributions more impactful and traceable.
+- [🌟 Commit and PR Guidelines](#commit-and-pr-guidelines)
 
 ## Latest News and Updates
-Exciting news! We've just rolled out our very own GPT creation, aptly named **AwesomeGPTs** – yes, it shares the repo's name! 👀
+Exciting news! We've just rolled out our very own GPT creation, aptly named [**AwesomeGPTs**](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) – yes, it shares the repo's name! 👀
 
 🚀 **What's AwesomeGPTs?** It's a specialised GPT model designed to:
   - **Navigate the Awesome-GPT Universe**: Directly recommends other GPT models from our extensive list based on user queries.
@@ -60,8 +53,6 @@ Exciting news! We've just rolled out our very own GPT creation, aptly named **Aw
 🎉 **Your GPTs Featured**: Here's the thrilling part – your GPT models can also be recommended! This means more visibility and engagement for your contributions.
 
 🔗 **Give it a Try!** Eager to see AwesomeGPTs in action? Check it out here: [AwesomeGPTs Live Demo](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) (Knowledge cut-off: 2023/11/29). Experience firsthand how it brings the world of GPTs closer to the community.
-
-Stay tuned for more updates and advancements!
 
 -----
 
@@ -1155,3 +1146,11 @@ Stay tuned for more updates and advancements!
    - Find best domains before anyone else with an AI scoring engine based on 10+ signals.
    - [Chat now](https://chat.openai.com/g/g-fhWHWw3rc-superdomain)
    - Submit by [@Nedomas](https://github.com/Nedomas)
+
+
+## Commit and PR Guidelines
+To streamline our project's development, we have specific, yet easy, guidelines for commits and PRs:
+- **Commit Message**: Use `[bot-name][brief-bot-description]` format.
+- **PR Title**: Keep it identical to your commit message for consistency.
+
+Adherence to these standards makes your contributions more impactful and traceable.
