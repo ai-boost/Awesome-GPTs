@@ -593,6 +593,13 @@ Exciting news! We've just rolled out our very own GPT creation, aptly named [**A
    - [Chat now](https://chat.openai.com/g/g-xaZHQZJw0-midi-maestro)
    - Submit by [@bytewaveco](https://github.com/bytewaveco)
 
+9. 📈 ProductivityGPTs
+   - Your go-to guide for boosting productivity
+   - [Chat now](https://chat.openai.com/g/g-uDglrkYGg-productivity)
+   - Submit by [@stan8086](https://github.com/stan8086)
+
+
+
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
