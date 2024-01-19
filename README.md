@@ -19,6 +19,21 @@
   </h4>
 </div>
 
+## Latest News and Updates
+[UPDATE 2024.01.20] Some of our GPTs have been **featured🎉 (top 3)** on the official GPT store, and we are making the prompts behind them freely available as open source here: [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts)
+
+---
+
+Exciting news! We've just rolled out our very own GPT creation, aptly named [**AwesomeGPTs**](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) – yes, it shares the repo's name! 👀
+
+🚀 **What's AwesomeGPTs?** It's a specialised GPT model designed to:
+  - **Navigate the Awesome-GPT Universe**: Directly recommends other GPT models from our extensive list based on user queries.
+  - **Personalised Recommendations**: Tailors suggestions to each user's specific interests and questions.
+
+🎉 **Your GPTs Featured**: Here's the thrilling part – your GPT models can also be recommended! This means more visibility and engagement for your contributions.
+
+🔗 **Give it a Try!** Eager to see AwesomeGPTs in action? Check it out here: [AwesomeGPTs Live Demo](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) (Knowledge cut-off: 2023/11/29). Experience firsthand how it brings the world of GPTs closer to the community.
+
 ## About Awesome-GPTs
 This is a space for showcasing innovative and exciting GPT created by AI enthusiasts worldwide. Got a GPT that stands out? Let the world know!
 
@@ -42,17 +57,6 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 - [🍴 Dining](#dining)
 - [📈 Marketing](#marketing)
 - [🌟 Commit and PR Guidelines](#commit-and-pr-guidelines)
-
-## Latest News and Updates
-Exciting news! We've just rolled out our very own GPT creation, aptly named [**AwesomeGPTs**](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) – yes, it shares the repo's name! 👀
-
-🚀 **What's AwesomeGPTs?** It's a specialised GPT model designed to:
-  - **Navigate the Awesome-GPT Universe**: Directly recommends other GPT models from our extensive list based on user queries.
-  - **Personalised Recommendations**: Tailors suggestions to each user's specific interests and questions.
-
-🎉 **Your GPTs Featured**: Here's the thrilling part – your GPT models can also be recommended! This means more visibility and engagement for your contributions.
-
-🔗 **Give it a Try!** Eager to see AwesomeGPTs in action? Check it out here: [AwesomeGPTs Live Demo](https://chat.openai.com/g/g-imWUi8fVO-awesomegpts) (Knowledge cut-off: 2023/11/29). Experience firsthand how it brings the world of GPTs closer to the community.
 
 -----
 
