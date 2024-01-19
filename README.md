@@ -1154,6 +1154,12 @@ Exciting news! We've just rolled out our very own GPT creation, aptly named [**A
    - [Chat now](https://chat.openai.com/g/g-fhWHWw3rc-superdomain)
    - Submit by [@Nedomas](https://github.com/Nedomas)
 
+3. 🍍 Pineapple Builder
+   - Create and Publish Business Websites and Blogs.
+   - [Chat now](https://chat.openai.com/g/g-lKokXPt0b-pineapple-builder-gpt-website-builder)
+   - Submit by [@PeterKow](https://github.com/peterKow)
+
+
 
 ## Commit and PR Guidelines
 To streamline our project's development, we have specific, yet easy, guidelines for commits and PRs:
