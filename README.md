@@ -113,10 +113,6 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Proofread, edit and track changes to your text inside ChatGPT. Works in conjunction with the editGPT browser extension allowing you to accept and reject changes without leaving ChatGPT.
    - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 
-7. 🌐 Social Post Writer
-   - Creates professional content for social medias like LinkedIn and Twitter, adaptable in style and aligned with your brand's or blog voice.
-   - [Chat now](https://chat.openai.com/g/g-3O7W26ERg-social-post-writer)
-
 ## Education
 1. 📗All-around Teacher (Learn Everything in 3 min)
    - Learn all kinds of knowledge in 3 minutes, with customized tutors leveraging the powerful GPT-4 and knowledge base.
