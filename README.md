@@ -624,7 +624,12 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. 🌐Fastium
    - A General purpose GPT with /commands support, exportable data and more!
    - [Chat now](https://chat.openai.com/g/g-cX2MH6L8W-fastium-customisable-general-use-bot-beta)
-   - Submit by [@DarkNinjaRocks](https://twitter.com/DarkNinjaRocks) 
+   - Submit by [@DarkNinjaRocks](https://twitter.com/DarkNinjaRocks)
+  
+9. 👕TeeCoder Designer
+   - Hi, I'm TeeCoder Designer, a specialized GPT focused on creating simple and humorous t-shirt designs, especially those themed around programming humor.
+   - [Chat now](https://chat.openai.com/g/g-MCBp1rPzY-teecoder-designer)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
