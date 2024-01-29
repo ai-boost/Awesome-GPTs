@@ -44,9 +44,7 @@ This is a space for showcasing innovative and exciting GPT created by AI enthusi
 Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 
 ## Table of Contents
-- [🚀 About Awesome-GPTs](#about-awesome-gpts)
-- [🌐 Latest News \& Updates ✨](#latest-news-and-updates)
-- [📚 Table of Contents](#table-of-contents)
+- [📚 Academic](#academic)
 - [✍️ Writing](#writing)
 - [🎓 Education](#education)
 - [🎯 Productivity](#productivity)
@@ -60,41 +58,62 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 
 -----
 
-## Writing
-1. ✏️All-around Writer (Professional Version)
-   - A professional writer📚 who specializes in writing all types of content (essays, novels, articles, copywriting)...
-   - [Chat now](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version)
-
-2. ✨Academic Writer (Professional Version)
+## Academic
+1. ✨ Academic Writer (Professional Version)
    - A professional academic assistant who helps with various academic tasks: writing papers, reading papers, weight reduction, polishing, designing experiments, PPT, etc.
    - [Chat now](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
 
-3. 🚀Scholar GPT Pro (Enhanced scholar gpt)
-   - An enhanced scholar gpt version that can do research, write SCI paper with real refenences. You can search 216,189,020 papers from all fields of science.
-   - [Chat now](https://chat.openai.com/g/g-KELDH3S4E-scholar-gpt-pro)
+2. 🌟 Auto Literature Review 
+   - A literature review expert that can search papers and write literature reviews automatically.
+   - [Auto Literature Review Link](https://chat.openai.com/g/g-lfY2IC1TZ-auto-literature-review)
 
-4. 🐧Prompt Engineer (An expert for best prompts)
+3. 🚀 Scholar GPT Pro 
+   - An enhanced scholar GPT version capable of conducting research and writing SCI papers with real references. Access to over 216 million papers across all science fields.
+   - [Scholar GPT Pro Link](https://chat.openai.com/g/g-KELDH3S4E-scholar-gpt-pro)
+
+4. ✍️ Paraphraser & Humanizer
+   - Specializes in sentence refinement, polishing academic papers, reducing similarity scores, and evading AI detection to prevent plagiarism.
+   - [Paraphraser & Proofreader Link](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
+
+5. ⭐️ Paper Review Pro 
+   - A GPT that evaluates academic papers with precision, offering scores, identifying weaknesses, and suggesting edits to enhance quality and innovation.
+   - [Paper Review Pro Link](https://chat.openai.com/g/g-hGv5OZZDC-paper-review-pro)
+
+6. 💡 Auto Thesis PPT 
+   - A PowerPoint assistant that drafts outlines, enhances content, and styles slides for thesis, business reports, or project reports with ease and flair.
+   - [Auto Thesis PPT Link](https://chat.openai.com/g/g-W4Eq4aNmu-auto-ppt)
+
+7. 📈 Data Analysis Pro 
+   - Provides multidimensional data analysis, aiding in research with automated chart creation to simplify the analytical process.
+   - [Data Analysis Link](https://chat.openai.com/g/g-BbUDh8z49-data-analysis-pro)
+
+## Writing
+1. 🐧Prompt Engineer (An expert for best prompts)
    - A prompt engineer expert who write best prompts!
    - [Chat now](https://chat.openai.com/g/g-3SZG5H8BI-prompt-engineer-an-expert-for-best-prompts)
 
-5. ✍️Paraphraser & Proofreader (Professional Version)
+2. ✏️All-around Writer (Professional Version)
+   - A professional writer📚 who specializes in writing all types of content (essays, novels, articles, copywriting)...
+   - [Chat now](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version)
+
+3. ✍️Paraphraser & Proofreader (Professional Version)
    - Expert in sentence refinement.
    - [Chat now](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
 
-6. 👔Formal GPT
+4. 👔Formal GPT
    - A informal to formal translator. It can give feedback about your CV. It can generate a cover letter for you. 
    - [Chat now](https://chat.openai.com/g/g-3E1kEk3Ui-formalgpt)
    - Submit by [@emreisik95](https://github.com/emreisik95) 
 
-7. 🤖 Prompty
+5. 🤖 Prompty
    - A professional prompt engineer who helps you optimize your GPT-prompts with state-of-the-art techniques.
    - [Chat now](https://chat.openai.com/g/g-aZLV4vji6-prompty)
   
-8. ✨ editGPT
+6. ✨ editGPT
    - Proofread, edit and track changes to your text inside ChatGPT. Works in conjunction with the editGPT browser extension allowing you to accept and reject changes without leaving ChatGPT.
    - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 
-9. 🌐 Social Post Writer
+7. 🌐 Social Post Writer
    - Creates professional content for social medias like LinkedIn and Twitter, adaptable in style and aligned with your brand's or blog voice.
    - [Chat now](https://chat.openai.com/g/g-3O7W26ERg-social-post-writer)
 
@@ -1131,6 +1150,10 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - You're in a stone cell – can you get out? A classic choose-your-adventure interactive fiction game, based on a meticulously-crafted playbook. With medieval fantasy pixel art, infinite choices and outcomes, and dice!
    - [Chat now](https://chat.openai.com/g/g-FrYXDQ58t-escape-the-dungeon)
    - Submit by [@VirgilThinks](https://github.com/VirgilThinks)
+
+9. ⛩ I Ching divination (Chinese)
+   - Occultism: Offers daily fortune insights, auspicious and inauspicious predictions, and guidance on marriage, career, and destiny. Utilizes the 64 hexagrams of the Book of Changes for unique insights.
+   - [I Ching divination Link](https://chat.openai.com/g/g-5LnUkgxKa-yi-jing-suan-ming)
 
 ## Weather
 
