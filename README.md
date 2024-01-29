@@ -1168,6 +1168,11 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Occultism: Offers daily fortune insights, auspicious and inauspicious predictions, and guidance on marriage, career, and destiny. Utilizes the 64 hexagrams of the Book of Changes for unique insights.
    - [I Ching divination Link](https://chat.openai.com/g/g-5LnUkgxKa-yi-jing-suan-ming)
 
+9. 🎧SpotifyGPT
+   - Introducing SpotifyGPT, your ultimate music companion powered by AI, ready to curate playlists, recommend songs, and engage in music-inspired conversations.
+   - [Chat Here](https://chat.openai.com/g/g-fVNPc64Pe-spotifygpt)
+   - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+
 ## Weather
 
 1. 🌨 Harold the Weather Painter
