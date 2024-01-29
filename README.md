@@ -776,6 +776,11 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Indexes your project's source code, then provides code maps, summaries and code fragments to ChatGPT.
    - [Chat now](https://chat.openai.com/g/g-bMpHsDTtP-askyourcode)
    - Submit by [@viktor-ferenczi](https://github.com/viktor-ferenczi)
+  
+9. 🦀️ Rust Assistant
+   - Your go-to expert in the Rust ecosystem, specializing in precise code interpretation, up-to-date crate version checking, and in-depth source code analysis. I offer accurate, context-aware insights for all your Rust programming questions.
+   - [Chat now](https://chat.openai.com/g/g-u1O5yxYeW-rust-assistant)
+   - Submit by [@GengTeng](https://github.com/gengteng/rust-assistant)
 
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
