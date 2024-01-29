@@ -32,6 +32,7 @@
 希望你能加入进来，一起来维护这个REPO🥳
 
 ## 📚 目录
+0. [🏮 学术专区](#学术专区)
 1. [🏮 中文专区](#中文专区)
 2. [✍️ 写作](#写作)
 3. [🎓 教育](#教育)
@@ -47,10 +48,44 @@
 （ **这意味着你的GPT也有机会被推荐哦！** 🎉🎉🎉）
 来试试看吧🚀：https://chat.openai.com/g/g-imWUi8fVO-awesomegpts”  [knowledge: 2023/11/17]  
 
+## 学术专区
+1. ✨ 学术作家（专业版）
+   - 一名专业的学术助理，协助完成各种学术任务：写论文、阅读论文、减重、润色、设计实验、PPT等。
+   - [立即交谈](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
+
+2. 🌟 自动文献综述
+   - 一位文献综述专家，能够自动搜索论文并编写文献综述。
+   - [自动文献综述链接](https://chat.openai.com/g/g-lfY2IC1TZ-auto-literature-review)
+
+3. 🚀 学者GPT专业版
+   - 一个增强版的学者GPT，能够进行研究并撰写带有真实参考文献的SCI论文。可访问超过2.16亿篇跨学科领域的论文。
+   - [学者GPT专业版链接](https://chat.openai.com/g/g-KELDH3S4E-scholar-gpt-pro)
+
+4. ✍️ 改写与人性化专家
+   - 专门从事句子改写、润色学术论文、降低相似度分数，并规避AI检测以防止剽窃。
+   - [改写与校对专家链接](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
+
+5. ⭐️ 论文评审专家
+   - 一个GPT，精确评估学术论文，提供评分，识别弱点，并建议修改以提高质量和创新性。
+   - [论文评审专家链接](https://chat.openai.com/g/g-hGv5OZZDC-paper-review-pro)
+
+6. 💡 自动论文PPT
+   - 一款PowerPoint助手，可轻松且有创意地撰写大纲、增强内容和设计论文、商业报告或项目报告的幻灯片。
+   - [自动论文PPT链接](https://chat.openai.com/g/g-W4Eq4aNmu-auto-ppt)
+
+7. 📈 数据分析专家
+   - 提供多维数据分析，通过自动创建图表来协助研究，简化分析过程。
+   - [数据分析链接](https://chat.openai.com/g/g-BbUDh8z49-data-analysis-pro)
+
 ## 中文专区
 1. 👍🏻 Prompt工程师 (一个Prompt专家)
    - 一个Prompt专家，能帮你写优质prompt👍!
    - [立即开玩](https://chat.openai.com/g/g-3SZG5H8BI-prompt-engineer-an-expert-for-best-prompts)
+  
+2. ⛩ 易经占卜（中文）
+   - 玄学：提供今日运势✨、吉凶预测🔮、以及婚姻💍、事业🏆、命运探测🌈等独特见解和指导。基于《易经》的64卦象进行占卜。
+   - [易经占卜链接](https://chat.openai.com/g/g-5LnUkgxKa-yi-jing-suan-ming)
+
 
 ## 写作
 1. ✏️全能作家（专业版）
