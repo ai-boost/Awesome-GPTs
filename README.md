@@ -621,7 +621,10 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat now](https://chat.openai.com/g/g-uDglrkYGg-productivity)
    - Submit by [@stan8086](https://github.com/stan8086)
 
-
+9. 🌐Fastium
+   - A General purpose GPT with /commands support, exportable data and more!
+   - [Chat now](https://chat.openai.com/g/g-cX2MH6L8W-fastium-customisable-general-use-bot-beta)
+   - Submit by [@DarkNinjaRocks](https://twitter.com/DarkNinjaRocks) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
