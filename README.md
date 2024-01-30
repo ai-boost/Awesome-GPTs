@@ -54,6 +54,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 - [☂  Weather](#weather)
 - [🍴 Dining](#dining)
 - [📈 Marketing](#marketing)
+- [💵 Finance](#finance)
 - [🌟 Commit and PR Guidelines](#commit-and-pr-guidelines)
 
 -----
@@ -1200,6 +1201,12 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat now](https://chat.openai.com/g/g-lKokXPt0b-pineapple-builder-gpt-website-builder)
    - Submit by [@PeterKow](https://github.com/peterKow)
 
+## Finance
+
+1. 📬 Alex Earnings Call
+   - Get direct access to earnings data to navigate the earnings season.
+   - [Alex Earnings Call](https://chat.openai.com/g/g-GSs2i0VqU-alex-earnings-call)
+   - Submit by [@dattran2346](https://github.com/dattran2346)
 
 
 ## Commit and PR Guidelines
