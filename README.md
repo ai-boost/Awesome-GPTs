@@ -84,7 +84,11 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - A PowerPoint assistant that drafts outlines, enhances content, and styles slides for thesis, business reports, or project reports with ease and flair.
    - [Auto Thesis PPT Link](https://chat.openai.com/g/g-W4Eq4aNmu-auto-ppt)
 
-7. 📈 Data Analysis Pro 
+7. ⭐️ Paper Interpreter Pro 
+   - A GPT designed for effortless and automatic structuring and decoding of academic papers, simply by uploading a PDF or pasting a paper URL.
+   - [Paper Interpreter Pro Link](https://chat.openai.com/g/g-faWqzDEcE-paper-interpreter-pro)
+
+8. 📈 Data Analysis Pro 
    - Provides multidimensional data analysis, aiding in research with automated chart creation to simplify the analytical process.
    - [Data Analysis Link](https://chat.openai.com/g/g-BbUDh8z49-data-analysis-pro)
 
