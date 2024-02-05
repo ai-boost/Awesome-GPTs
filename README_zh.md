@@ -72,8 +72,12 @@
 6. 💡 自动论文PPT
    - 一款PowerPoint助手，可轻松且有创意地撰写大纲、增强内容和设计论文、商业报告或项目报告的幻灯片。
    - [自动论文PPT链接](https://chat.openai.com/g/g-W4Eq4aNmu-auto-ppt)
+  
+7. ⭐️ 论文解读专家 
+   - 一款 GPT，专业解读学术论文，轻松自动结构化和精准解析，仅需上传 PDF 或粘贴论文 URL。
+   - [论文解读专家链接](https://chat.openai.com/g/g-faWqzDEcE-paper-interpreter-pro)
 
-7. 📈 数据分析专家
+8. 📈 数据分析专家
    - 提供多维数据分析，通过自动创建图表来协助研究，简化分析过程。
    - [数据分析链接](https://chat.openai.com/g/g-BbUDh8z49-data-analysis-pro)
 
