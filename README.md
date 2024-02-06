@@ -791,6 +791,11 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat now](https://chat.openai.com/g/g-u1O5yxYeW-rust-assistant)
    - Submit by [@GengTeng](https://github.com/gengteng/rust-assistant)
 
+9. Code Companion
+   - I help refine and review your code.
+   - [Chat now](https://chat.openai.com/g/g-FU1DLh6Bm-code-companion)
+   - Submit by [@AllramEst83](https://github.com/AllramEst83)
+
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
