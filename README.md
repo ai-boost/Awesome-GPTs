@@ -631,6 +631,12 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Hi, I'm TeeCoder Designer, a specialized GPT focused on creating simple and humorous t-shirt designs, especially those themed around programming humor.
    - [Chat now](https://chat.openai.com/g/g-MCBp1rPzY-teecoder-designer)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
+  
+9. 🧑‍⚖️Legal AI
+   - Real-time Global legal guide AI, designed for lawyers and law students, aiding in database navigation and sector-specific legal 
+    information.
+   - [Chat now](https://chat.openai.com/g/g-G74QgIhrE-legalai)
+   - Submit by [@obosaosazuwa](https://github.com/obosaosazuwa) 
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
