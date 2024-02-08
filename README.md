@@ -257,10 +257,15 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat now](https://chat.openai.com/g/g-Je4YNtMgs-tutorai)
    - Submit by [@GPTDuel](https://github.com/GPTDuel)
   
-10. 🎧 DJ Sensei
+9. 🎧 DJ Sensei
    -  Your expert guide for every DJ level - from mixing basics to mastering the DJ industry.
    -  [Chat now](https://chat.openai.com/g/g-uba2kDdJy-dj-sensei)
    -  Submit by [@0miee](https://github.com/0miee)
+
+9. 🎓 PhD Workout Coach
+   - Get bespoke scientific workout and fitness guidance plus advanced nutritional insights. Trained on a custom empirical dataset.
+   - [Chat now](https://chat.openai.com/g/g-ipOIcM229-phd-workout-coach)
+   - Submitted by [@valiantgenomics](https://github.com/valiantgenomics) 
 
 ## Productivity
 1. 🦄Logo Designer (Professional Version)
