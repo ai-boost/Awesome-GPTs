@@ -20,7 +20,7 @@
 </div>
 
 ## Latest News and Updates
-- [UPDATE 2024.02.08] We open-sourced our website (https://awesomegpts.vip) here: [awesomegpts website](https://github.com/ai-boost/ai-boost.github.io)  
+- [UPDATE 2024.02.08] We open-sourced our website (https://awesomegpts.vip) here: [awesomegpts repo](https://github.com/ai-boost/ai-boost.github.io)  
 - [UPDATE 2024.01.20] Some of our GPTs have been **featured🎉 (top 3)** on the official GPT store, and we are making the prompts behind them freely available as open source here: [awesome-gpts-prompts](https://github.com/ai-boost/awesome-gpts-prompts)
 
 ---
