@@ -792,7 +792,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Submit by [@GengTeng](https://github.com/gengteng/rust-assistant)
 
 9. Code Companion
-   - I help refine and review your code.
+   - Boost coding with Code Companion! Get tailored feedback, learn best practices, and navigate code challenges with ease.
    - [Chat now](https://chat.openai.com/g/g-FU1DLh6Bm-code-companion)
    - Submit by [@AllramEst83](https://github.com/AllramEst83)
 
