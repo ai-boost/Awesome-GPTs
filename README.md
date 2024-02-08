@@ -1190,6 +1190,11 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat Here](https://chat.openai.com/g/g-fVNPc64Pe-spotifygpt)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
 
+9. 👣Carbon Footprint Calculator
+   - Accurate carbon footprint calculations and advice on how to reduce it
+   - [Chat now](https://chat.openai.com/g/g-2hRzwYARz-carbon-footprint-calculator)
+   - Submit by [@pierreping](https://github.com/pierreping)
+
 ## Weather
 
 1. 🌨 Harold the Weather Painter
