@@ -641,7 +641,12 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Real-time Global legal guide AI, designed for lawyers and law students, aiding in database navigation and sector-specific legal 
     information.
    - [Chat now](https://chat.openai.com/g/g-G74QgIhrE-legalai)
-   - Submit by [@obosaosazuwa](https://github.com/obosaosazuwa) 
+   - Submit by [@obosaosazuwa](https://github.com/obosaosazuwa)
+  
+9. 🗞️Fake News Hunter
+   - Fact checker, focusing on in-depth, credible sources
+   - [Chat now](https://chat.openai.com/g/g-GE1t3XbbJ-fake-news-hunter)
+   - Submit by [@pierreping](https://github.com/pierreping)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
