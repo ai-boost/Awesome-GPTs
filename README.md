@@ -67,31 +67,35 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 
 2. 🌟 Auto Literature Review 
    - A literature review expert that can search papers and write literature reviews automatically.
-   - [Auto Literature Review Link](https://chat.openai.com/g/g-lfY2IC1TZ-auto-literature-review)
+   - [Chat now](https://chat.openai.com/g/g-lfY2IC1TZ-auto-literature-review)
 
 3. 🚀 Scholar GPT Pro 
    - An enhanced scholar GPT version capable of conducting research and writing SCI papers with real references. Access to over 216 million papers across all science fields.
-   - [Scholar GPT Pro Link](https://chat.openai.com/g/g-KELDH3S4E-scholar-gpt-pro)
+   - [Chat now](https://chat.openai.com/g/g-KELDH3S4E-scholar-gpt-pro)
 
 4. ✍️ Paraphraser & Humanizer
    - Specializes in sentence refinement, polishing academic papers, reducing similarity scores, and evading AI detection to prevent plagiarism.
-   - [Paraphraser & Proofreader Link](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
+   - [Chat now](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
 
 5. ⭐️ Paper Review Pro 
    - A GPT that evaluates academic papers with precision, offering scores, identifying weaknesses, and suggesting edits to enhance quality and innovation.
-   - [Paper Review Pro Link](https://chat.openai.com/g/g-hGv5OZZDC-paper-review-pro)
+   - [Chat now](https://chat.openai.com/g/g-hGv5OZZDC-paper-review-pro)
 
 6. 💡 Auto Thesis PPT 
    - A PowerPoint assistant that drafts outlines, enhances content, and styles slides for thesis, business reports, or project reports with ease and flair.
-   - [Auto Thesis PPT Link](https://chat.openai.com/g/g-W4Eq4aNmu-auto-ppt)
+   - [Chat now](https://chat.openai.com/g/g-W4Eq4aNmu-auto-ppt)
 
 7. ⭐️ Paper Interpreter Pro 
    - A GPT designed for effortless and automatic structuring and decoding of academic papers, simply by uploading a PDF or pasting a paper URL.
-   - [Paper Interpreter Pro Link](https://chat.openai.com/g/g-faWqzDEcE-paper-interpreter-pro)
+   - [Chat now](https://chat.openai.com/g/g-faWqzDEcE-paper-interpreter-pro)
 
 8. 📈 Data Analysis Pro 
    - Provides multidimensional data analysis, aiding in research with automated chart creation to simplify the analytical process.
-   - [Data Analysis Link](https://chat.openai.com/g/g-BbUDh8z49-data-analysis-pro)
+   - [Chat now](https://chat.openai.com/g/g-BbUDh8z49-data-analysis-pro)
+
+9. ⭐ PDF Translator (Academic Version)
+   - An advanced 🚀 PDF translator for researchers & students, seamlessly translating academic papers 📑 into multiple languages 🌐, ensuring accurate interpretation for global knowledge exchange 🌟.
+   - [Chat now](https://chat.openai.com/g/g-4u33YVMfB-pdf-translator-academic-version)
 
 ## Writing
 1. 🐧Prompt Engineer (An expert for best prompts)
