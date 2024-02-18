@@ -273,45 +273,49 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Submitted by [@valiantgenomics](https://github.com/valiantgenomics) 
 
 ## Productivity
-1. 🦄Logo Designer (Professional Version)
+1. 🌟Images
+   - Generate multiple continuous images at once, while maintaining consistency, such as comic strips, novel illustrations, continuous comics, fairy tale illustrations, etc.
+   - [Chat now](https://chat.openai.com/g/g-4eCogBh9c-images)
+
+2.  🦄Logo Designer (Professional Version)
    - A professional logo designer capable of creating high-level logos in a variety of different styles.
    - [Chat now](https://chat.openai.com/g/g-ymi0COabZ-logo-designer-professional-version)
 
-2. 🎨Jessica (Design Anything in Master Mode)
+3. 🎨Designer Pro
    - Jessica, a universal designer/painter in professional mode, offers more professional design/paint effects.
    - [Chat now](https://chat.openai.com/g/g-uiuWnPLNj-jessica-design-anything-in-master-mode)
   
-3. ✨Ask Dr. Andrew Huberman
+4. ✨Ask Dr. Andrew Huberman
    - Maximize your productivity, physical and mental health with neuroscience. Trained with all the podcast episodes from Huberman Lab.
    - [Chat now](https://chat.openai.com/g/g-1xC65osMP-ask-dr-andrew-huberman)
    - Submit by [@jyboy](https://github.com/jyboy)
 
-4. 🥛DrinkinGPT
+5. 🥛DrinkinGPT
    - your go-to for crafting the ultimate drinking games! 🚀 Whether you've got dice, cards, or just a bunch of cups, DrinkinGPT tailors games perfectly to your group's vibe.
    - [Chat now](https://chat.openai.com/g/g-WiovsNXf1-drinkingpt)
    - Submit by [@FabKremer](https://github.com/FabKremer)
   
-5. ⌨️Test-Driven Code Companion
+6. ⌨️Test-Driven Code Companion
    - A code companion that follows the rule of test-driven developement to help you write safe and proven code.
    - [Chat now](https://chat.openai.com/g/g-jCcHbTz23-test-driven-code-companion)
    - Submit by [@FlorianVal](https://github.com/FlorianVal)
 
-6. 🎨 Midjourney Helper
+7. 🎨 Midjourney Helper
    - Creates detailed Midjourney art prompts, Instagram captions, and hashtags, optimized for easy copying.
    - [Chat now](https://chat.openai.com/g/g-RJeBIeECR-midjourney-helper)
    - Submit by [@MAnECiaC](https://github.com/MAnECiaC)
 
-7. 🤝 Execu-LI Post Companion
+8. 🤝 Execu-LI Post Companion
    - Write professional and compelling LinkedIn posts that ensures engagement
    - [Chat now](https://chat.openai.com/g/g-1IkwP36s8-execu-li-post-companion)
    - Submit by [@moutonf](https://github.com/moutonf)
 
-8. 𝕏 Execu-X Post Companion
+9. 𝕏 Execu-X Post Companion
    - Write professional and compelling X posts that ensures engagement
    - [Chat now](https://chat.openai.com/g/g-3wv1Wj3Rg-execu-x-post-companion)
    - Submit by [@moutonf](https://github.com/moutonf)
 
-9. 📐Aspect Ratio Calculator
+10. 📐Aspect Ratio Calculator
    - Calculate aspect ratio from width & height
    - [Chat now](https://chat.openai.com/g/g-EOYV6V5WH-aspect-ratio-calculator)
    - Submit by [@selimdoyranli](https://github.com/selimdoyranli)
