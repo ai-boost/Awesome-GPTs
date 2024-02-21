@@ -658,6 +658,10 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Submit by [@pierreping](https://github.com/pierreping)
 
 ## Programming
+1. Code Explainer
+   - Delivers detailed code meaning breakdowns with examples and explanations.
+   - [Chat now](https://chat.openai.com/g/g-I29It7ER4-code-explainer)
+
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
    - [Chat now](https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming)
