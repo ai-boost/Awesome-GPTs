@@ -137,6 +137,10 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Excellent classmates to help with homework, providing patient guidance and support.
    - [Chat now](https://chat.openai.com/g/g-3x2jopNpP-my-excellent-classmates-help-with-my-homework)
 
+1. 📗Chinese-English Lingua Bridge
+   - Translator for English to Chinese and vice versa, now with an ability to translate sci-article paragraphs in a professional way.
+   - [Chat now](https://chat.openai.com/g/g-WiVm5hKic-chinese-english-lingua-bridge)
+
 3. 🛩TradeComply (Your Import Export Compliance Specialist!)
    - "How do I ship my product to Europe"? Learn everything about shipping internationally!
    - [Chat now](https://chat.openai.com/g/g-cfSMVzPUb-tradecomply)
