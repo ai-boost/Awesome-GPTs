@@ -665,6 +665,11 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 9. GPT
    - A clean GPT-4 version without any presets.
    - [Chat now](https://chat.openai.com/g/g-XoeZWmh2N-gpt)
+  
+9. 🚀 Job Application Hero
+   - Intelligently harnessing your CV and past cover letters to create highly customized and informed job application assistance.
+   - [Chat now](https://chat.openai.com/g/g-LZ4DKdFpd-job-application-hero)
+   - Submit by [@cod3mac](https://github.com/cod3mac)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
