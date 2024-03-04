@@ -64,7 +64,9 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 1. ✨ Academic Writer (Professional Version)
    - A professional academic assistant who helps with various academic tasks: writing papers, reading papers, weight reduction, polishing, designing experiments, PPT, etc.
    - [Chat now](https://chat.openai.com/g/g-Ej5zYQRIB-academic-writer-professional-version)
-
+1. ✨ Academic Refiner Plus
+   - Formal rephrasing for SCI articles and LaTeX, with focus on evading AI detection.
+   - [Chat now](https://chat.openai.com/g/g-CJ2YQRoUY-academic-refiner-plus)
 2. 🌟 Auto Literature Review 
    - A literature review expert that can search papers and write literature reviews automatically.
    - [Chat now](https://chat.openai.com/g/g-lfY2IC1TZ-auto-literature-review)
