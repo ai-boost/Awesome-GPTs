@@ -109,11 +109,11 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 
 2. ✏️All-around Writer (Professional Version)
    - A professional writer📚 who specializes in writing all types of content (essays, novels, articles, copywriting)...
-   - [Chat now](https://chat.openai.com/g/g-UbpNAGYL9-all-around-writer-professional-version)
+   - [Chat now](https://chatgpt.com/g/g-lYRsydDcd-all-around-writer-professional-version)
 
 3. ✍️Paraphraser & Humanizer
    - Expert in sentence refinement.
-   - [Chat now](https://chat.openai.com/g/g-7vtCjvxkz-paraphraser-proofreader-professional-version)
+   - [Chat now](https://chatgpt.com/g/g-fY4SpgYd6-paraphrase-humanizer)
 
 4. 👔Formal GPT
    - A informal to formal translator. It can give feedback about your CV. It can generate a cover letter for you. 
@@ -664,7 +664,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
   
 9. GPT
    - A clean GPT-4 version without any presets.
-   - [Chat now](https://chat.openai.com/g/g-XoeZWmh2N-gpt)
+   - [Chat now](https://chatgpt.com/g/g-Mrfvya6Op-gpt)
   
 9. 🚀 Job Application Hero
    - Intelligently harnessing your CV and past cover letters to create highly customized and informed job application assistance.
@@ -674,7 +674,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 ## Programming
 1. 💻Professional Coder (Auto programming)
    - A gpt expert at solving programming problems, automatic programming, one-click project generation
-   - [Chat now](https://chat.openai.com/g/g-HgZuFuuBK-professional-coder-auto-programming)
+   - [Chat now](https://chatgpt.com/g/g-TfCFUV33C-professional-coder-auto-programming)
 
 2. 🎭h4ckGPT: Your personal security tool
    - Security Research, Penetration Testing Techniques, Application Security, News & Updates, etc. h4ppy h4cking!
