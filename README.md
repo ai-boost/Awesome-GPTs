@@ -79,15 +79,15 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 
 5. ⭐️ Paper Review Pro 
    - A GPT that evaluates academic papers with precision, offering scores, identifying weaknesses, and suggesting edits to enhance quality and innovation.
-   - [Chat now](https://chat.openai.com/g/g-hGv5OZZDC-paper-review-pro)
+   - [Chat now](https://chatgpt.com/g/g-xtLk81WQg-paper-review-pro)
 
 6. 💡 Auto Thesis PPT 
    - A PowerPoint assistant that drafts outlines, enhances content, and styles slides for thesis, business reports, or project reports with ease and flair.
-   - [Chat now](https://chat.openai.com/g/g-W4Eq4aNmu-auto-ppt)
+   - [Chat now](https://chatgpt.com/g/g-Mt4cy0Ih2-ppt-generator)
 
 7. ⭐️ Paper Interpreter Pro 
    - A GPT designed for effortless and automatic structuring and decoding of academic papers, simply by uploading a PDF or pasting a paper URL.
-   - [Chat now](https://chat.openai.com/g/g-faWqzDEcE-paper-interpreter-pro)
+   - [Chat now](https://chatgpt.com/g/g-yrsIgLZb3-paper-interpreter-pro)
 
 8. 📈 Data Analysis Pro 
    - Provides multidimensional data analysis, aiding in research with automated chart creation to simplify the analytical process.
