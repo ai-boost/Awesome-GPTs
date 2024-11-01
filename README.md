@@ -670,6 +670,11 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Intelligently harnessing your CV and past cover letters to create highly customized and informed job application assistance.
    - [Chat now](https://chat.openai.com/g/g-LZ4DKdFpd-job-application-hero)
    - Submit by [@cod3mac](https://github.com/cod3mac)
+  
+9. 😎 Emoji Suggestion Assistant
+   - Suggests emojis accorsing given word or sentence to improve your creativity and content.
+   - [Chat now](https://chatgpt.com/g/g-u4xQCrnWD-emoji-suggestion-assistant)
+   - Submit by [@relliv](https://github.com/relliv)
 
 ## Programming
 1. 💻Professional Coder (Auto programming)
