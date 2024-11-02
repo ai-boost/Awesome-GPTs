@@ -672,7 +672,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Submit by [@cod3mac](https://github.com/cod3mac)
   
 9. 😎 Emoji Suggestion Assistant
-   - Suggests emojis accorsing given word or sentence to improve your creativity and content.
+   - Suggests emojis according given word or sentence to improve your creativity and content.
    - [Chat now](https://chatgpt.com/g/g-u4xQCrnWD-emoji-suggestion-assistant)
    - Submit by [@relliv](https://github.com/relliv)
 
