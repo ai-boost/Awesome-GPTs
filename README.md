@@ -954,6 +954,10 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
     - [Chat now](https://chat.openai.com/g/g-1ZBK8qUZ1-opendata-explorer)
     - Submit by [@KAUTH](https://github.com/KAUTH)
 
+5. MindMateGPT
+   - Scientifically backed Therapy AI. Tested to be more intelligent than GPT4 at emotional intelligence. Includes free form journal start and reflective summary and insights at end.
+   - [Therapy AI](https://chat.openai.com/g/g-YAmDYMJq3-mindmategpt)
+
 ## Just for Fun
 1. ❤️Dating with Raiden Shogun
    - Go on a date with Raiden Shogun and please be nice.
