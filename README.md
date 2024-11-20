@@ -129,40 +129,43 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat now](https://chat.openai.com/g/g-zpuYfzV7k-editgpt)
 
 ## Education
-1. 📗All-around Teacher (Learn Everything in 3 min)
+1. Words Bank(Your personal Language learning assistant)
+   - The only GPTs to provide EXTERNAL database to language learners to build their words bank. Tracking learning progress, review plan and engaging in active use of new vocabulary in a conversational context
+   - [Chat now](https://chat.openai.com/g/g-trViDlkIa-words-bank-language-learning)
+3. 📗All-around Teacher (Learn Everything in 3 min)
    - Learn all kinds of knowledge in 3 minutes, with customized tutors leveraging the powerful GPT-4 and knowledge base.
    - [Chat now](https://chat.openai.com/g/g-PDWi5Scbc-all-around-teacher-learn-everything-in-3-min)
 
-2. 🎀My Excellent Classmates (Help with My Homework!)
+4. 🎀My Excellent Classmates (Help with My Homework!)
    - Excellent classmates to help with homework, providing patient guidance and support.
    - [Chat now](https://chat.openai.com/g/g-3x2jopNpP-my-excellent-classmates-help-with-my-homework)
 
-3. 🛩TradeComply (Your Import Export Compliance Specialist!)
+5. 🛩TradeComply (Your Import Export Compliance Specialist!)
    - "How do I ship my product to Europe"? Learn everything about shipping internationally!
    - [Chat now](https://chat.openai.com/g/g-cfSMVzPUb-tradecomply)
    - Submit by [@jordanj5610](https://github.com/jordanj5610)
   
-4. 🐇Lore Master
+6. 🐇Lore Master
    - A GPTs that love to discuss, explain and dive in to the rabbit hole of lore and Easter eggs of games and movies
    - [Chat now](https://chat.openai.com/g/g-i2DASMYiX-lore-master)
    - Submit by [@joenb33](https://github.com/joenb33)
 
-5. 🐥Six-Y (Explains Anything Like You are 6 Years Old)
+7. 🐥Six-Y (Explains Anything Like You are 6 Years Old)
    - "How do the stars shine?" Helps you to explain everything to your 6 years old! or you.
    - [Chat now](https://chat.openai.com/g/g-nMt5YfTeF-six-y)
    - Submit by [@niyoseris](https://github.com/niyoseris)
 
-6. 👩‍🏫English Teacher Marion
+8. 👩‍🏫English Teacher Marion
    - Meet Marion, your friendly neighbourhood English teacher.
    - [Chat now](https://chat.openai.com/g/g-VDDC0Ztph-english-teacher-marion)
    - Submit by [@nicksavanah](https://github.com/nicksavanah)
   
-7. 😌The Stoic Council
+9. 😌The Stoic Council
    - Chat with the Stoics: Marcus Aurelius, Seneca, and Epictetus
    - [Chat now](https://chat.openai.com/g/g-OjydyOs4O-the-stoic-council)
    - Submit by [@ref21](https://github.com/ref21)
 
-8. 📐Stats and ML Helper
+10. 📐Stats and ML Helper
    - a GPT that can help understand both simple and complex Statistics and Machine Learning concepts
    - [Chat now](https://chat.openai.com/g/g-dVh4g5uuv-statsml-helper)
    - Submit by [@pak0vskiy](https://github.com/pak0vskiy)
@@ -172,47 +175,47 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - [Chat now](https://chat.openai.com/g/g-OrD1FZR66-existentialgpt)
    - Submit by [@PositivistPessimist](https://www.reddit.com/user/PositivistPessimist/)
   
-9. 🗣 Language Learning - Create Short Stories to Learn any Language
+10. 🗣 Language Learning - Create Short Stories to Learn any Language
    - 2500+ word stories in target language with images, for language learning.
    - [Chat now](https://chat.openai.com/g/g-tXEyZoKVx-create-short-stories-to-learn-a-language)
    - Submit by [@TheBoringBOT](https://github.com/TheBoringBOT)
   
-9. 🔢 Math to LaTeX
+11. 🔢 Math to LaTeX
    - Send me an image of Math. I will give you the LaTeX code.
    - [Chat now](https://chat.openai.com/g/g-2vNXETv9C-math-to-latex)
    - Submit by [@No_Impact4379](https://www.reddit.com/user/No_Impact4379/)
 
-9. 👄Debate Mentor
+12. 👄Debate Mentor
    - Mentor and debater, guides users to articulate conclusions.
    - [Chat now](https://chat.openai.com/g/g-KIX0IC8cj-debate-mentor)
    - Submit by [@kylecoogan](https://github.com/kylecoogan)
   
-9. 📈EconomicsGPT
+13. 📈EconomicsGPT
    - Your world-class Economics tutor, powered by students and faculty from the University of Chicago's highly-ranked Economics program.
    - [Chat now](https://chat.openai.com/g/g-7McsRKuPS-economicsgpt)
    - Submit by [@dpeachpeach](https://github.com/dpeachpeach)
   
-9. 🦉Owly The Explorer
+14. 🦉Owly The Explorer
    - Owly is an adorable, owl-themed GPT designed to safely engage kids in a variety of educational topics, with built-in restrictions for child-appropriate content.
    - [Chat now](https://chat.openai.com/g/g-fJeLfIqcT-owly-the-explorer)
    - Submit by [@marcelcodes](https://github.com/marcelcodes)
   
-9. 📚 Hierarchy Navigator
+15. 📚 Hierarchy Navigator
    - Organizes learning into a detailed hierarchy.
    - [Chat now](https://chat.openai.com/g/g-idPG2SRKJ-hierarchy-navigator)
    - Submit by [@kylecoogan](https://github.com/kylecoogan)
   
-9. 🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior
+16. 🐕‍🦺 Linda: Veterinary Sciences, Animal Rescue & Behavior
    - Ask me anything about veterinary sciences, animal rescue, and behavior.
    - [Chat now](https://chat.openai.com/g/g-Z310M0Pp0-linda)
    - Submit by [@Viktor-Larkhill](https://github.com/Viktor-Larkhill)
   
-9. 👩‍🏫 IELTS Writing Coach
+17. 👩‍🏫 IELTS Writing Coach
    - An advanced IELTS Writing Coach
    - [Chat now](https://chat.openai.com/g/g-TzN6ReSVA-ielts-writing-coach)
    - Submit by [@Rick](https://github.com/techmovie)
   
-9. 🎧 DJGPT
+18. 🎧 DJGPT
    - I'm DJGPT, your go-to AI for all things DJing and music mixing, here to guide you through the exciting world of beats and tracks!
    - [Chat now](https://chat.openai.com/g/g-NlwIQ4CSj-djgpt.)
    - Submit by [@HeyitsRadinn](https://github.com/HeyitsRadinn)
