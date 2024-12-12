@@ -50,6 +50,7 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
 - [🎓 Education](#education)
 - [🎯 Productivity](#productivity)
 - [💻 Programming](#programming)
+- [🔒 Cybersecurity](#cybersecurity)
 - [🐈 Lifestyle](#lifestyle)
 - [😀 Just for Fun](#just-for-fun)
 - [☂  Weather](#weather)
@@ -848,6 +849,14 @@ Your stars🌟 and recommendations 🫶 are what make this community vibrant!
    - Have a team of GPTs work for you 🧑‍💼 👩‍💼 🧑🏽‍🔬 👨‍💼 🧑‍🔧! Please input a task, and TeamGPT will break down the task, then distribute them within a team, and have the team's GPTs work for you!
    - [Chat now](https://chat.openai.com/g/g-tCfHqANl9-teamgpt)
 
+## Cybersecurity
+
+1. 🔒 CavalierGPT by Hudson Rock
+   - Designed to deliver detailed insights into domains, emails, usernames, IPs, keywords, and cybersecurity trends to uncover threats and enhance security.
+   - Cybersecurity and cybercrime research agent.
+   - Submit by [Hudson Rock](https://github.com/hudsonrock-partnerships)
+   - [Chat now](www.hudsonrock.com/cavaliergpt)
+     
 ## Lifestyle
 1. 🍅 MyNutrition.Pal
    - Your Dedicated Nutrition Consultant: Share meal images for personalized nutrient/calorie tracking and tailored advice and recipes.
